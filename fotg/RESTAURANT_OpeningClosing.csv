@@ -1,0 +1,426 @@
+,ID,NAME,CREATION_DATE,CITY,STREET,EMAIL,PHONE_NUMBER,Opening,Closing
+0,0,Billiard Pool And Bowling Tournament,2017-04-03 14:06:09,New York,E 84th St,billiard_pool_and_bowling_tournament@gmail.com,0499-071595,08:00,21:00
+1,1,Palliser Hotel,2017-04-04 12:46:00,New York,W 168th St,palliser_hotel@aol.com,0494-416309,12:00,23:00
+2,2,Duffs,2017-04-05 04:01:27,San Francisco,Thornton Ave,duffs@gmail.com,0495-750801,13:00,23:00
+3,3,"[The Waldorf Astoria Hotel (New York, N.Y.)]",2017-04-05 04:59:31,San Francisco,Lassen Alley,"[the_waldorf_astoria_hotel_(new_york,_ny)]@yahoo.com",0495-004404,12:00,20:00
+4,4,Grand Hotel Royal,2017-04-06 04:37:32,New York,York Ave,grand_hotel_royal@aol.com,0497-902845,13:00,23:00
+5,5,The Spalding,2017-04-06 21:39:30,San Francisco,Christmas Tree Point Rd,the_spalding@yahoo.com,0496-025089,12:00,20:00
+6,6,Camp Wadsworth,2017-04-07 09:44:34,San Francisco,Gaviota Way,camp_wadsworth@aol.com,0497-545403,13:00,23:00
+7,7,Chula Vista,2017-04-07 13:08:36,San Francisco,Moscow St,chula_vista@yahoo.com,0497-768114,08:00,21:00
+8,8,Cafe Zur Frauenkirche ,2017-04-08 10:03:20,New York,Rector Pl,cafe_zur_frauenkirche_@yahoo.com,0494-847491,08:00,12:00
+9,9,Del Coronada Hotel,2017-04-09 02:10:23,New York,Cherry St,del_coronada_hotel@yahoo.com,0499-572241,12:00,20:00
+10,10,San Remo Hotel,2017-04-09 23:25:13,San Francisco,Pixley St,san_remo_hotel@aol.com,0499-049339,08:00,12:00
+11,11,Old Poodle Dog Restaurant,2017-04-10 15:26:35,San Francisco,37th Ave,old_poodle_dog_restaurant@inbox.com,0497-207420,08:00,21:00
+12,12,Roome Lodge,2017-04-10 19:20:15,New York,Fort George Ave,roome_lodge@mail.com,0494-584106,12:00,23:00
+13,13,Campi,2017-04-11 01:09:33,New York,Leroy St,campi@yahoo.com,0497-846102,13:00,23:00
+14,14,Hotel St. George,2017-04-13 02:39:48,San Francisco,Central Ave,hotel_st_george@inbox.com,0497-692057,12:00,20:00
+15,15,Robert E. Peary,2017-04-13 10:49:51,San Francisco,Donner Ave,robert_e_peary@inbox.com,0494-709746,12:00,23:00
+16,16,Henri Confiseur,2017-04-13 12:08:04,San Francisco,Harrison Blvd - Golden Gate National Recreation Area,henri_confiseur@inbox.com,0499-393361,12:00,23:00
+17,17,Junket Club,2017-04-14 01:04:03,New York,W 163rd St,junket_club@gmail.com,0497-162179,08:00,21:00
+18,18,The Pennsylvania Bar Association On Behalf Of The Bar Of The Commonwealth,2017-04-14 10:41:30,San Francisco,Higuera Ave,the_pennsylvania_bar_association_on_behalf_of_the_bar_of_the_commonwealth@outlook.com,0495-673340,08:00,12:00
+19,19,Pains Fireworks Co. Employees,2017-04-14 14:49:50,San Francisco,French Ct - Golden Gate National Recreation Area,pains_fireworks_co_employees@aol.com,0495-997499,13:00,23:00
+20,20,John Hart,2017-04-15 11:08:01,San Francisco,Jackson St,john_hart@yahoo.com,0495-220630,13:00,23:00
+21,21,S.S. Bruce,2017-04-15 13:05:48,San Francisco,Bosworth St,ss_bruce@inbox.com,0495-086825,12:00,23:00
+22,22,S.S. Hastings,2017-04-16 12:26:08,New York,University Pl,ss_hastings@mail.com,0497-759548,13:00,23:00
+23,23,Waldorf Hotel,2017-04-16 19:34:01,New York,W 105th St,waldorf_hotel@hotmail.com,0497-155341,08:00,21:00
+24,24,Greenhuts Lunch Room at 18th and 19th Streets.,2017-04-17 04:22:59,San Francisco,Cordelia St,greenhuts_lunch_room_at_18th_and_19th_streets@outlook.com,0497-157694,12:00,23:00
+25,25,Berkeley Class Of 91,2017-04-20 23:22:19,San Francisco,Otis St,berkeley_class_of_91@hotmail.com,0499-030675,13:00,23:00
+26,26,Iturbide Restaurant,2017-04-21 01:55:00,New York,Barrow St,iturbide_restaurant@outlook.com,0499-616306,12:00,20:00
+27,27,Societe Nationale De Poudres Et Explosifs,2017-04-22 01:13:46,New York,W Broadway,societe_nationale_de_poudres_et_explosifs@yahoo.com,0498-576501,08:00,21:00
+28,28,Society Of Medical Jurisprudence,2017-04-22 09:33:11,San Francisco,Burke Ave,society_of_medical_jurisprudence@hotmail.com,0495-967704,12:00,23:00
+29,29,National Wholesale  Druggists Association,2017-04-22 19:31:05,New York,W 116th St,national_wholesale__druggists_association@yahoo.com,0494-229559,12:00,23:00
+30,30,Comrades Of The Army Of The Potomac,2017-04-23 06:01:04,San Francisco,Harrison St,comrades_of_the_army_of_the_potomac@gmail.com,0494-503010,12:00,23:00
+31,31,Cathay House,2017-04-23 09:48:30,San Francisco,Cesar Chavez,cathay_house@outlook.com,0494-615406,08:00,12:00
+32,32,National Association Of Photo Engravers,2017-04-24 01:04:20,San Francisco,Loyola Terrace,national_association_of_photo_engravers@mail.com,0497-606847,12:00,20:00
+33,33,Tower Restaurant And Cafe,2017-04-24 05:24:03,San Francisco,Sunview Dr,tower_restaurant_and_cafe@yahoo.com,0496-446296,12:00,23:00
+34,34,The Lyric Theatre,2017-04-25 03:03:08,New York,E 17th St,the_lyric_theatre@inbox.com,0498-370890,08:00,21:00
+35,35,The Colony,2017-04-26 01:26:39,New York,W 106th St,the_colony@yahoo.com,0499-485401,08:00,12:00
+36,36,Friends Of H.Anthony Dyer,2017-04-26 18:19:18,San Francisco,Clover St,friends_of_hanthony_dyer@gmail.com,0495-277891,12:00,23:00
+37,37,St. Johns Lodge No. 1,2017-04-26 19:47:44,New York,W 79th St,st_johns_lodge_no_1@gmail.com,0496-925897,08:00,12:00
+38,38,Alpha Deuteron Phi Gamma Delta,2017-04-27 10:43:12,New York,3rd Pl,alpha_deuteron_phi_gamma_delta@outlook.com,0494-756169,12:00,23:00
+39,39,Long Island Business College Hall,2017-04-27 22:10:59,San Francisco,Forest Knolls Dr,long_island_business_college_hall@gmail.com,0496-359481,12:00,23:00
+40,40,Ocean House,2017-04-28 12:25:26,New York,W 98th St,ocean_house@mail.com,0499-857831,12:00,23:00
+41,41,Bert Hough & Tony Franker   Pabst Blue Ribbon,2017-04-28 14:52:47,San Francisco,S Hughes Ln - Golden Gate National Recreation Area,bert_hough_&_tony_franker___pabst_blue_ribbon@gmail.com,0498-587830,12:00,23:00
+42,42,Cigar Leaf Tobacco Board Of Trade Of The United States,2017-04-28 16:06:44,New York,Bradhurst Ave,cigar_leaf_tobacco_board_of_trade_of_the_united_states@mail.com,0498-516439,13:00,23:00
+43,43,Paquebot Ile De France,2017-04-29 20:52:25,New York,W 46th St,paquebot_ile_de_france@hotmail.com,0497-003833,13:00,23:00
+44,44,Blue Horizon,2017-04-30 01:25:13,New York,Minetta Ln,blue_horizon@yahoo.com,0499-771130,08:00,12:00
+45,45,U.S.Government,2017-04-30 06:32:35,San Francisco,Reservoir Rd,usgovernment@gmail.com,0499-531905,12:00,23:00
+46,46,Sons Of Delaware,2017-04-30 18:54:43,San Francisco,Glen Ct,sons_of_delaware@hotmail.com,0499-679840,12:00,20:00
+47,47,Green Mountain Restaurant Diner,2017-05-01 06:49:05,San Francisco,Lathrop Ave,green_mountain_restaurant_diner@gmail.com,0498-209718,08:00,12:00
+48,48,Wally J,2017-05-01 20:57:35,San Francisco,Spruce St,wally_j@gmail.com,0498-137288,13:00,23:00
+49,49,Merchants Club   The Salvation Army,2017-05-02 03:51:47,San Francisco,Horace St,merchants_club___the_salvation_army@aol.com,0498-417586,13:00,23:00
+50,50,Sullivans,2017-05-02 13:08:26,San Francisco,Cleo Rand Ln,sullivans@inbox.com,0496-197092,08:00,12:00
+51,51,Northern Steamship Company/Great Orthern Ry. Line,2017-05-02 15:06:36,San Francisco,Morris St,northern_steamship_company/great_orthern_ry_line@hotmail.com,0498-169919,08:00,12:00
+52,52,The Berkeley,2017-05-03 16:40:06,New York,E 8th St,the_berkeley@mail.com,0497-915938,08:00,12:00
+53,53,Sherrys,2017-05-04 19:26:47,New York,E 34th St,sherrys@outlook.com,0494-019956,08:00,21:00
+54,54,Medical Society Of The State Of New York,2017-05-07 08:47:37,San Francisco,Tapia Dr,medical_society_of_the_state_of_new_york@outlook.com,0497-233506,08:00,21:00
+55,55,Hamburg  Armerika Linie,2017-05-07 15:21:05,San Francisco,Monument Way,hamburg__armerika_linie@gmail.com,0499-110587,13:00,23:00
+56,56,Saratogy Racing Association,2017-05-07 23:03:35,San Francisco,Jason Ct,saratogy_racing_association@outlook.com,0494-179301,12:00,20:00
+57,57,Geneva Society International Society Of Hotel Employees,2017-05-07 23:14:11,San Francisco,Minnesota St,geneva_society_international_society_of_hotel_employees@outlook.com,0494-817642,08:00,21:00
+58,58,Hotel Dreyfus French Restauranr,2017-05-08 14:48:44,New York,Arden St,hotel_dreyfus_french_restauranr@hotmail.com,0497-831105,13:00,23:00
+59,59,Harrys Bar,2017-05-08 15:25:39,San Francisco,Cameo Way,harrys_bar@aol.com,0497-835799,08:00,12:00
+60,60,Cercle Francais De Lharmonie,2017-05-08 21:27:03,San Francisco,Mcrae Ln - Golden Gate National Recreation Area,cercle_francais_de_lharmonie@inbox.com,0494-211372,08:00,12:00
+61,61,"New Hotel Berkeley,The",2017-05-09 00:23:11,San Francisco,Conservatory Access Rd,"new_hotel_berkeley,the@inbox.com",0498-146795,13:00,23:00
+62,62,Hotel Cecil,2017-05-10 00:08:25,New York,W 94th St,hotel_cecil@gmail.com,0499-726854,08:00,21:00
+63,63,The Hannaberry & Moran Dining Room,2017-05-10 05:24:29,San Francisco,Stow Lake Dr,the_hannaberry_&_moran_dining_room@aol.com,0499-250058,08:00,12:00
+64,64,Leon & Eddies,2017-05-10 17:33:51,New York,Marginal St,leon_&_eddies@gmail.com,0495-181886,13:00,23:00
+65,65,The Homestead Gwinn,2017-05-11 02:35:42,San Francisco,Hwy 82,the_homestead_gwinn@outlook.com,0494-985549,13:00,23:00
+66,66,French Circle,2017-05-11 12:17:24,San Francisco,Lomita Ave,french_circle@hotmail.com,0495-007887,08:00,12:00
+67,67,Manhanset House,2017-05-12 02:35:07,New York,Rose St,manhanset_house@aol.com,0496-352756,08:00,12:00
+68,68,Cigar Manufacturers,2017-05-12 12:59:32,San Francisco,Minna St,cigar_manufacturers@yahoo.com,0496-049406,08:00,12:00
+69,69,Kronenhalle,2017-05-13 05:35:39,New York,E 117th St,kronenhalle@outlook.com,0499-590224,13:00,23:00
+70,70,Winthrop Hotel,2017-05-13 10:36:41,San Francisco,Incinerator Rd,winthrop_hotel@hotmail.com,0498-308091,12:00,23:00
+71,71,Lafayette Hotel,2017-05-13 22:45:58,San Francisco,Alma St,lafayette_hotel@yahoo.com,0494-673468,12:00,20:00
+72,72,Los Angeles Consistory #3,2017-05-14 01:44:45,New York,W 82nd St,los_angeles_consistory_#3@yahoo.com,0498-321326,12:00,23:00
+73,73,Hotel Ponce De Leon,2017-05-14 05:46:11,San Francisco,Dodge Pl,hotel_ponce_de_leon@outlook.com,0496-508045,13:00,23:00
+74,74,La Vicomtesse Parker,2017-05-14 09:22:33,San Francisco,Terra Vista Ave,la_vicomtesse_parker@aol.com,0496-009626,13:00,23:00
+75,75,Ritz-Carlton,2017-05-14 18:28:34,New York,W 90th St,ritz-carlton@gmail.com,0498-293424,13:00,23:00
+76,76,Canadian Pacific Railway Co.   S.S. Alberta,2017-05-15 09:47:03,New York,Dyer Ave,canadian_pacific_railway_co___ss_alberta@aol.com,0495-668133,08:00,21:00
+77,77,The Essex Hotel The Colonnades,2017-05-16 01:17:58,San Francisco,King St,the_essex_hotel_the_colonnades@outlook.com,0496-311243,08:00,21:00
+78,78,Amity Hall Inn,2017-05-16 05:04:21,San Francisco,Haight St,amity_hall_inn@inbox.com,0497-081463,12:00,23:00
+79,79,Gardner & Smith,2017-05-17 02:30:15,San Francisco,Santa Cruz Ave,gardner_&_smith@hotmail.com,0497-126104,08:00,12:00
+80,80,The Scandia,2017-05-17 14:28:41,San Francisco,Foote Ave,the_scandia@gmail.com,0494-664925,13:00,23:00
+81,81,Essex House At The Colonnades,2017-05-17 16:49:13,San Francisco,Clipper Cove Way,essex_house_at_the_colonnades@yahoo.com,0496-262728,12:00,20:00
+82,82,The French Village,2017-05-18 20:22:46,San Francisco,Diaz Ave,the_french_village@gmail.com,0497-268817,12:00,20:00
+83,83,Norge Hotel,2017-05-19 07:55:31,New York,Riverside Dr,norge_hotel@hotmail.com,0497-550012,12:00,23:00
+84,84,Au Chat Noir,2017-05-19 10:57:39,San Francisco,Beacon St,au_chat_noir@hotmail.com,0495-777151,12:00,23:00
+85,85,Don Roths Blackhawk Restaurant,2017-05-20 00:18:31,San Francisco,De Boom St,don_roths_blackhawk_restaurant@gmail.com,0495-750239,12:00,20:00
+86,86,The Hotel Roosevelt,2017-05-20 06:48:49,New York,Stuyvesant St,the_hotel_roosevelt@inbox.com,0497-436123,12:00,23:00
+87,87,The Pullman Company,2017-05-20 07:01:00,New York,W 157th St,the_pullman_company@inbox.com,0494-454409,13:00,23:00
+88,88,Quill And Dagger Club,2017-05-20 16:17:36,San Francisco,Nottingham Pl,quill_and_dagger_club@inbox.com,0499-486861,08:00,12:00
+89,89,New York State Hotel Association,2017-05-21 08:41:08,New York,Avenue A,new_york_state_hotel_association@mail.com,0498-077948,13:00,23:00
+90,90,Ristorante Cova,2017-05-23 09:39:24,New York,Warren St,ristorante_cova@aol.com,0495-720584,13:00,23:00
+91,91,Society Of Colonial Wars In The State Of New Jersey,2017-05-25 09:39:01,New York,Paladino Ave,society_of_colonial_wars_in_the_state_of_new_jersey@hotmail.com,0496-071272,08:00,21:00
+92,92,Patent Law Associaton Of Washington,2017-05-25 10:45:05,San Francisco,Addison St,patent_law_associaton_of_washington@outlook.com,0495-881993,08:00,12:00
+93,93,[Restaurant And/Or Location Not Given],2017-05-25 18:15:20,New York,Little West 12th St,[restaurant_and/or_location_not_given]@mail.com,0496-889479,13:00,23:00
+94,94,Pear And Pardritge,2017-05-26 04:35:16,New York,E 39th St,pear_and_pardritge@inbox.com,0494-818290,13:00,23:00
+95,95,Huguenin,2017-05-27 03:06:38,San Francisco,Iron Alley,huguenin@gmail.com,0495-693633,08:00,12:00
+96,96,McKees Restaurant,2017-05-27 07:06:15,San Francisco,Kenwood Way,mckees_restaurant@inbox.com,0495-516587,12:00,23:00
+97,97,Elka Park Association,2017-05-27 09:13:53,San Francisco,Wilde Ave,elka_park_association@outlook.com,0496-577049,13:00,23:00
+98,98,Ewings New Restaurant,2017-05-27 20:39:12,New York,W 116th St,ewings_new_restaurant@outlook.com,0494-245261,13:00,23:00
+99,99,National Republican Club House [?],2017-05-28 05:25:13,New York,Sheriff St,national_republican_club_house_[?]@inbox.com,0494-369190,08:00,12:00
+100,100,Kempinski Restaurant,2017-05-28 18:13:07,New York,Amsterdam Ave,kempinski_restaurant@mail.com,0497-742699,13:00,23:00
+101,101,Luccionis,2017-05-29 23:16:40,New York,Pomander Walk,luccionis@mail.com,0499-167949,13:00,23:00
+102,102,Library Room,2017-05-30 07:49:53,San Francisco,Lincoln Way,library_room@aol.com,0496-312433,12:00,23:00
+103,103,Volapukakluba Nolumelopik,2017-05-30 09:20:20,New York,John Jay Byrne Bridge,volapukakluba_nolumelopik@inbox.com,0495-155452,13:00,23:00
+104,104,Wells River Fish And Game Club,2017-05-30 09:44:49,San Francisco,Bryant Ln,wells_river_fish_and_game_club@yahoo.com,0498-251750,13:00,23:00
+105,105,Broadway Tabernacle Church,2017-05-30 21:40:13,New York,E 52nd St,broadway_tabernacle_church@hotmail.com,0497-404394,08:00,21:00
+106,106,The Concord,2017-05-31 08:42:26,New York,Park Pl,the_concord@yahoo.com,0498-089105,12:00,20:00
+107,107,Sangamo Club,2017-05-31 22:45:55,San Francisco,Alta St,sangamo_club@inbox.com,0496-311062,13:00,23:00
+108,108,Mouquin Restaurant & Wine Co.,2017-06-01 11:18:22,San Francisco,Ophir Alley,mouquin_restaurant_&_wine_co@hotmail.com,0494-803235,08:00,12:00
+109,109,Stammhaus,2017-06-02 14:04:47,San Francisco,39th Ave,stammhaus@outlook.com,0495-003335,08:00,12:00
+110,110,Hardware And Metal Trades,2017-06-02 23:17:52,San Francisco,Cosmo Pl,hardware_and_metal_trades@mail.com,0497-381236,12:00,20:00
+111,111,Pennsylvania Tours To The Golden Gate,2017-06-03 06:10:09,San Francisco,Mansfield St,pennsylvania_tours_to_the_golden_gate@hotmail.com,0499-240382,12:00,23:00
+112,112,Taj,2017-06-05 05:37:17,San Francisco,Mcrae Ln - Golden Gate National Recreation Area,taj@gmail.com,0496-945579,08:00,21:00
+113,113,Aviation Terrace,2017-06-05 15:21:20,New York,Thelonius Monk Cir,aviation_terrace@mail.com,0499-758005,13:00,23:00
+114,114,Mexican American S.S. Co.,2017-06-06 05:35:10,New York,E 118th St,mexican_american_ss_co@aol.com,0494-061867,08:00,21:00
+115,115,Quill And Dagger,2017-06-08 06:24:21,San Francisco,J St,quill_and_dagger@gmail.com,0497-508830,08:00,12:00
+116,116,Leones,2017-06-08 13:23:37,New York,Cliff St,leones@yahoo.com,0495-793323,12:00,20:00
+117,117,The Windsor,2017-06-08 20:26:20,New York,Thelonius Monk Cir,the_windsor@yahoo.com,0497-298521,13:00,23:00
+118,118,Dramaten Restaurangen,2017-06-10 01:07:56,San Francisco,Belvedere St,dramaten_restaurangen@inbox.com,0494-988561,12:00,20:00
+119,119,Pullman Dining Car Serfvice The President,2017-06-10 12:17:32,San Francisco,Edgardo Pl,pullman_dining_car_serfvice_the_president@hotmail.com,0495-974544,08:00,12:00
+120,120,Royal Literary Fund,2017-06-11 05:52:17,San Francisco,Nike Rd,royal_literary_fund@mail.com,0494-481828,12:00,23:00
+121,121,Mr. S.M.Felton,2017-06-11 07:23:23,New York,Bank St,mr_smfelton@yahoo.com,0495-955929,12:00,20:00
+122,122,Shanes,2017-06-11 23:51:37,San Francisco,Park Presidio Blvd,shanes@inbox.com,0495-418146,13:00,23:00
+123,123,Crawfords,2017-06-12 00:52:15,San Francisco,Milton I Ross Ln,crawfords@inbox.com,0494-658590,08:00,12:00
+124,124,Streets Of Mexico Restaurant,2017-06-12 11:33:48,New York,Baxter St,streets_of_mexico_restaurant@yahoo.com,0495-089881,12:00,23:00
+125,125,Alberg Inn,2017-06-12 12:25:13,San Francisco,Bernice St,alberg_inn@outlook.com,0494-075817,08:00,12:00
+126,126,Jack Trayers,2017-06-12 13:17:32,San Francisco,Curtis St,jack_trayers@mail.com,0494-232218,08:00,12:00
+127,127,Riggs House,2017-06-14 02:13:53,San Francisco,16th Ave,riggs_house@yahoo.com,0495-706008,08:00,12:00
+128,128,Chicken Ranch,2017-06-14 10:45:59,San Francisco,Islais St,chicken_ranch@aol.com,0498-127118,12:00,20:00
+129,129,Hotel Worthy,2017-06-14 11:14:17,New York,W 60th St,hotel_worthy@aol.com,0498-745816,12:00,20:00
+130,130,Connecticut Society Of Civil Engineers,2017-06-14 20:02:46,San Francisco,Mayfair Dr,connecticut_society_of_civil_engineers@yahoo.com,0494-759015,08:00,12:00
+131,131,Carlton Terrace,2017-06-14 22:13:37,San Francisco,Margaret Ave,carlton_terrace@mail.com,0498-628910,08:00,12:00
+132,132,Karl Ratzschs,2017-06-15 05:52:19,San Francisco,Manor Dr,karl_ratzschs@hotmail.com,0498-457437,12:00,23:00
+133,133,The Guaranty Club,2017-06-15 07:41:58,San Francisco,Nevada St,the_guaranty_club@yahoo.com,0495-732270,12:00,23:00
+134,134,The Upholstey And Allied Trades,2017-06-15 21:28:30,San Francisco,Ashwood Ln,the_upholstey_and_allied_trades@yahoo.com,0499-348306,12:00,23:00
+135,135,Joe Coluccis Puccini Restaurant,2017-06-16 01:07:11,San Francisco,Avenue C,joe_coluccis_puccini_restaurant@aol.com,0498-592335,13:00,23:00
+136,136,Brasserie Dalsace,2017-06-16 03:47:37,San Francisco,Doublerock St,brasserie_dalsace@mail.com,0495-312358,12:00,23:00
+137,137,Rubinstein Club,2017-06-16 11:58:24,New York,Morningside Dr,rubinstein_club@gmail.com,0495-178975,12:00,20:00
+138,138,Park Lane,2017-06-16 13:15:22,New York,3rd Pl,park_lane@aol.com,0498-053394,12:00,23:00
+139,139,Jacob Reiss,2017-06-17 09:32:29,New York,59th St Bridge,jacob_reiss@aol.com,0494-056519,13:00,23:00
+140,140,"Norfolk And Western Railway, Southern Railway System",2017-06-19 23:50:29,San Francisco,Melba Ave,"norfolk_and_western_railway,_southern_railway_system@hotmail.com",0494-616661,08:00,21:00
+141,141,Hotel New Weston,2017-06-20 09:43:26,San Francisco,Harper St,hotel_new_weston@yahoo.com,0495-938854,08:00,21:00
+142,142,Princess Hotel,2017-06-20 18:14:07,San Francisco,Beaver St,princess_hotel@aol.com,0495-221082,08:00,12:00
+143,143,Stockeld Park,2017-06-21 19:19:09,New York,W 157th St,stockeld_park@hotmail.com,0499-188589,08:00,12:00
+144,144,Municipal Art Society,2017-06-22 07:40:39,San Francisco,Lloyd St,municipal_art_society@inbox.com,0499-650581,12:00,23:00
+145,145,Cocoanut Grove,2017-06-23 07:36:09,New York,Pearl St,cocoanut_grove@inbox.com,0494-400826,12:00,23:00
+146,146,Kalils Restaurant,2017-06-23 20:19:52,New York,Randalls Is Rd,kalils_restaurant@gmail.com,0495-409004,08:00,12:00
+147,147,International Railway Congress,2017-06-24 03:16:30,San Francisco,Cabrillo St,international_railway_congress@hotmail.com,0494-344541,12:00,23:00
+148,148,Nippon Yusen Kaisha   S.S.Kobe Liaru,2017-06-27 01:11:37,New York,Tiemann Pl,nippon_yusen_kaisha___sskobe_liaru@aol.com,0496-749513,13:00,23:00
+149,149,Union Pacific  Railroad,2017-06-28 16:26:33,San Francisco,Faxon Ave,union_pacific__railroad@inbox.com,0495-218313,12:00,23:00
+150,150,The Waldorf Astoria Hotel,2017-06-28 21:44:04,New York,Cannon St,the_waldorf_astoria_hotel@inbox.com,0494-929274,13:00,23:00
+151,151,Chateau Frontenac Hotel,2017-06-29 06:06:02,New York,Jones Alley,chateau_frontenac_hotel@hotmail.com,0499-824348,13:00,23:00
+152,152,Savoy Grill,2017-06-30 05:43:11,New York,Wall St,savoy_grill@yahoo.com,0497-606598,08:00,12:00
+153,153,Eastern Hotel,2017-06-30 11:41:05,New York,Hay Rd,eastern_hotel@gmail.com,0495-942778,12:00,23:00
+154,154,Veteran Association Of The 5th Ny Artillery Volunteers,2017-07-01 03:13:22,San Francisco,Spreckels Lake Dr,veteran_association_of_the_5th_ny_artillery_volunteers@mail.com,0494-819100,13:00,23:00
+155,155,Mayer,2017-07-01 06:22:51,New York,S Street Viaduct,mayer@inbox.com,0495-219710,12:00,20:00
+156,156,Volks Restaurant,2017-07-01 12:47:03,New York,Fort Washington Ave,volks_restaurant@outlook.com,0496-818382,08:00,12:00
+157,157,Dewitt Clinton Council No.22 R&S M,2017-07-02 08:48:29,New York,W 144th St,dewitt_clinton_council_no22_r&s_m@gmail.com,0495-500960,08:00,21:00
+158,158,The Radisson Hotels,2017-07-02 19:11:06,New York,W 143rd St,the_radisson_hotels@inbox.com,0494-801377,08:00,21:00
+159,159,Restaurant Faberhof,2017-07-03 13:43:56,San Francisco,Avenue M,restaurant_faberhof@outlook.com,0494-730473,12:00,23:00
+160,160,Us Military Academy,2017-07-05 19:32:29,New York,E 58th St,us_military_academy@gmail.com,0495-544104,12:00,20:00
+161,161,Hotel Empire,2017-07-06 20:49:29,San Francisco,Upton St,hotel_empire@yahoo.com,0497-936628,08:00,12:00
+162,162,Associates Of The Enginer Corps And Company K,2017-07-07 05:10:32,San Francisco,Winn Way - Golden Gate National Recreation Area,associates_of_the_enginer_corps_and_company_k@gmail.com,0495-143410,12:00,23:00
+163,163,The Streamliner,2017-07-07 10:37:10,San Francisco,Carl St,the_streamliner@gmail.com,0495-160486,12:00,23:00
+164,164,Brooklyn Democratic Club,2017-07-07 17:51:51,San Francisco,Urbano Dr,brooklyn_democratic_club@yahoo.com,0496-931729,12:00,23:00
+165,165,Norge Hotel,2017-07-08 09:19:18,New York,Thompson St,norge_hotel@inbox.com,0495-617859,08:00,21:00
+166,166,Assembly,2017-07-10 07:40:11,New York,Elk St,assembly@gmail.com,0494-892101,12:00,23:00
+167,167,Florida Postmasters Association,2017-07-10 11:42:24,San Francisco,Folsom St,florida_postmasters_association@gmail.com,0499-468400,08:00,21:00
+168,168,New York Library Club,2017-07-11 06:41:40,San Francisco,Bartlett St,new_york_library_club@mail.com,0496-516225,08:00,21:00
+169,169,New England Delegation Of H.M.M.B.A.,2017-07-12 16:18:55,San Francisco,Middle Point Rd,new_england_delegation_of_hmmba@mail.com,0499-644955,12:00,20:00
+170,170,Grill Car,2017-07-13 20:29:39,San Francisco,Lunado Ct,grill_car@outlook.com,0494-323846,08:00,12:00
+171,171,Century Club?,2017-07-14 05:42:14,San Francisco,Edith St,century_club?@inbox.com,0498-662968,12:00,23:00
+172,172,Oceanic Steamship Company   Ventura,2017-07-14 22:16:08,San Francisco,Lulu Alley,oceanic_steamship_company___ventura@aol.com,0498-620530,08:00,21:00
+173,173,Park Lane,2017-07-15 06:19:41,New York,W 42nd St,park_lane@outlook.com,0497-612011,08:00,12:00
+174,174,"Complimentary Banquet, Mount Nelson Hotel Cape Town, S.A.",2017-07-16 06:51:09,New York,E 91st St,"complimentary_banquet,_mount_nelson_hotel_cape_town,_sa@outlook.com",0495-873566,13:00,23:00
+175,175,Harry Voilers Trocadero Restaurant,2017-07-16 13:28:09,San Francisco,Heritage,harry_voilers_trocadero_restaurant@inbox.com,0498-227782,08:00,12:00
+176,176,Royal York Hotel,2017-07-17 14:10:00,New York,Gramercy Park W,royal_york_hotel@yahoo.com,0499-519605,12:00,23:00
+177,177,Rotisserie De La Table Du Roy (Le Chef Georges),2017-07-18 11:13:48,New York,Minetta St,rotisserie_de_la_table_du_roy_(le_chef_georges)@outlook.com,0497-312894,12:00,23:00
+178,178,League Building,2017-07-18 21:43:08,New York,W 22nd St,league_building@mail.com,0494-973550,13:00,23:00
+179,179,Cincinnati Lodge Of Elks No. 5,2017-07-18 23:55:09,San Francisco,Arballo Dr,cincinnati_lodge_of_elks_no_5@yahoo.com,0497-397787,12:00,20:00
+180,180,Unione Panettieri Italiani,2017-07-21 08:41:54,New York,Nagle Ave,unione_panettieri_italiani@yahoo.com,0497-511141,13:00,23:00
+181,181,Delta Kappa Epsilon Fraternity,2017-07-24 04:58:09,New York,Escanaba Rd,delta_kappa_epsilon_fraternity@aol.com,0494-762373,13:00,23:00
+182,182,The National Arts Club,2017-07-25 01:03:25,New York,Macdougal St,the_national_arts_club@mail.com,0495-640880,13:00,23:00
+183,183,Yale Alumni Association,2017-07-26 08:00:41,San Francisco,Italy Ave,yale_alumni_association@mail.com,0498-591241,12:00,23:00
+184,184,Neuman & Bogdonoff,2017-07-26 08:51:21,New York,W 102nd St,neuman_&_bogdonoff@gmail.com,0495-494828,12:00,23:00
+185,185,Bevan House,2017-07-26 16:12:09,San Francisco,Hubbell St,bevan_house@hotmail.com,0498-318834,08:00,12:00
+186,186,The Guaranty Club,2017-07-28 18:54:14,San Francisco,Blanche St,the_guaranty_club@gmail.com,0498-243008,12:00,20:00
+187,187,The Astor,2017-07-30 04:56:21,New York,Lincoln Center Plaza,the_astor@outlook.com,0498-833471,13:00,23:00
+188,188,Steinbergs Dairy,2017-08-01 05:18:08,San Francisco,Cresta Vista Dr,steinbergs_dairy@hotmail.com,0499-107536,13:00,23:00
+189,189,Paul Clemann,2017-08-02 09:01:36,San Francisco,Dale Pl,paul_clemann@yahoo.com,0498-742579,13:00,23:00
+190,190,Old Prague Restaurant,2017-08-06 12:10:55,New York,E 52nd St,old_prague_restaurant@mail.com,0496-342584,08:00,21:00
+191,191,Hotel Gloria,2017-08-07 01:12:47,New York,Pell St,hotel_gloria@inbox.com,0499-713286,12:00,23:00
+192,192,Harrys Bar,2017-08-07 13:00:55,San Francisco,Marine Dr,harrys_bar@aol.com,0494-616328,12:00,23:00
+193,193,The Cleveland Bankers,2017-08-07 16:57:54,San Francisco,Burgoyne St,the_cleveland_bankers@yahoo.com,0496-641689,12:00,23:00
+194,194,Ristorante Alfredo Alla Scrofa,2017-08-08 04:18:12,San Francisco,Mizpah St,ristorante_alfredo_alla_scrofa@aol.com,0495-327881,13:00,23:00
+195,195,President Of Jamestown Exposition Company (H. St. George Tucker)  And Mrs. Tucker,2017-08-08 07:08:24,San Francisco,H St,president_of_jamestown_exposition_company_(h_st_george_tucker)__and_mrs_tucker@hotmail.com,0499-859220,08:00,12:00
+196,196,Dinner Held By Pennsylvania Railroad,2017-08-09 13:04:14,New York,W 97th St,dinner_held_by_pennsylvania_railroad@mail.com,0495-654190,08:00,21:00
+197,197,Hong Kong Restaurant,2017-08-09 19:03:20,San Francisco,21st St,hong_kong_restaurant@mail.com,0499-499869,12:00,20:00
+198,198,Spengers Fish Grotto,2017-08-11 19:26:44,New York,W 163rd St,spengers_fish_grotto@yahoo.com,0498-676339,12:00,23:00
+199,199,Purcell House,2017-08-12 17:39:08,San Francisco,Amador St,purcell_house@hotmail.com,0499-685520,13:00,23:00
+200,200,Warrant Officers Of The U.S. North Atlantic Squadron,2017-08-13 20:18:58,New York,Chambers St,warrant_officers_of_the_us_north_atlantic_squadron@hotmail.com,0499-282218,08:00,21:00
+201,201,State Department Special To The Pand American Congress At The City Of Mexico (Pullman Car Service),2017-08-14 15:26:13,San Francisco,Spofford St,state_department_special_to_the_pand_american_congress_at_the_city_of_mexico_(pullman_car_service)@inbox.com,0494-454774,12:00,23:00
+202,202,Royal Hawaiian Hotel (Sheraton Hotels In Hawaii),2017-08-14 22:32:13,San Francisco,Gardenside Dr,royal_hawaiian_hotel_(sheraton_hotels_in_hawaii)@outlook.com,0498-522720,12:00,23:00
+203,203,Brevoort House,2017-08-15 02:20:29,San Francisco,C St,brevoort_house@aol.com,0498-994926,08:00,21:00
+204,204,Dante,2017-08-15 06:47:58,San Francisco,Knott Ct,dante@inbox.com,0498-723637,12:00,23:00
+205,205,Le Pistou,2017-08-15 14:11:38,New York,E 56th St,le_pistou@inbox.com,0496-903236,08:00,12:00
+206,206,London Welsh Lodge,2017-08-16 00:58:16,New York,W 14th St,london_welsh_lodge@mail.com,0494-083351,13:00,23:00
+207,207,Agora,2017-08-17 00:41:44,New York,Harlem River Dr,agora@hotmail.com,0498-440239,08:00,21:00
+208,208,Toyo Kisen Kaisha  Hong Kong Maru,2017-08-17 21:24:18,New York,W 174th St,toyo_kisen_kaisha__hong_kong_maru@hotmail.com,0497-231028,12:00,23:00
+209,209,Brooklyn Daily Eagle Staff,2017-08-18 15:07:36,San Francisco,Drake St,brooklyn_daily_eagle_staff@mail.com,0495-413294,08:00,21:00
+210,210,Society Of Medical Jurisprudence,2017-08-18 18:50:57,New York,Renwick St,society_of_medical_jurisprudence@outlook.com,0498-605486,12:00,23:00
+211,211,Joseph Pulitzer,2017-08-19 05:54:33,New York,Marble Hill Ln,joseph_pulitzer@aol.com,0494-529945,13:00,23:00
+212,212,(Fifth Avenue Hotel?},2017-08-19 09:47:49,New York,E 50th St,(fifth_avenue_hotel?}@yahoo.com,0495-366407,08:00,21:00
+213,213,Oregon Railroad & Navigation Co.,2017-08-19 11:12:17,New York,Wall St,oregon_railroad_&_navigation_co@gmail.com,0498-625563,08:00,12:00
+214,214,St. Martins Lodge No.2455,2017-08-21 18:32:52,San Francisco,Bret Harte Terrace,st_martins_lodge_no2455@mail.com,0495-278202,12:00,20:00
+215,215,"U.S.M.S. Philadelphia, Third Class Menu.",2017-08-23 03:29:54,New York,W 34th St,"usms_philadelphia,_third_class_menu@aol.com",0496-732595,08:00,12:00
+216,216,Hotel Pontchartrain,2017-08-27 02:45:26,New York,59th St Bridge,hotel_pontchartrain@hotmail.com,0499-317476,12:00,23:00
+217,217,Cafe New York Restaurant,2017-08-27 09:47:17,New York,Colonel Robert Magaw Pl,cafe_new_york_restaurant@aol.com,0498-062323,13:00,23:00
+218,218,The Lambs,2017-08-27 14:53:05,San Francisco,Himmelmann Pl,the_lambs@mail.com,0499-722010,08:00,21:00
+219,219,J.J. Haggartys Mezzanine Tea Room,2017-08-29 16:07:19,New York,W 37th St,jj_haggartys_mezzanine_tea_room@gmail.com,0496-665065,12:00,23:00
+220,220,Steamship Yucatan,2017-08-29 22:06:35,New York,W 220th St,steamship_yucatan@inbox.com,0495-294565,12:00,23:00
+221,221,Hotel Ingleside Motel,2017-08-30 04:19:23,New York,Convent Ave,hotel_ingleside_motel@aol.com,0498-763590,08:00,21:00
+222,222,Larrys Country Inn,2017-08-30 11:51:28,New York,W 155th St,larrys_country_inn@yahoo.com,0499-138846,08:00,12:00
+223,223,Alumni Association Of Public School No.26,2017-08-30 23:45:02,New York,W 124th St,alumni_association_of_public_school_no26@outlook.com,0494-317597,12:00,23:00
+224,224,R.M.S. Parthia,2017-08-31 06:42:18,San Francisco,Farragut Ave,rms_parthia@yahoo.com,0495-104482,08:00,21:00
+225,225,Town And Country,2017-08-31 08:29:29,New York,E 81st St,town_and_country@mail.com,0496-293959,12:00,20:00
+226,226,Waldorf Astoria Hotel,2017-09-01 06:20:10,San Francisco,Elm St,waldorf_astoria_hotel@hotmail.com,0494-718497,12:00,23:00
+227,227,Congress Hotel Association,2017-09-01 08:59:14,New York,W 130th St,congress_hotel_association@yahoo.com,0494-531353,13:00,23:00
+228,228,Harvard University,2017-09-01 17:04:19,New York,W 132nd St,harvard_university@mail.com,0499-663789,13:00,23:00
+229,229,Deutsche Gesandtschaft,2017-09-02 10:04:44,New York,Gramercy Park N,deutsche_gesandtschaft@gmail.com,0494-127280,12:00,23:00
+230,230,Incorporated Institute Of Accountants,2017-09-02 10:21:47,San Francisco,Amatury Loop - Golden Gate National Recreation Area,incorporated_institute_of_accountants@inbox.com,0497-335529,12:00,20:00
+231,231,Town Hall,2017-09-02 17:42:19,San Francisco,Hiliritas Ave,town_hall@mail.com,0496-434000,12:00,20:00
+232,232,Little China,2017-09-03 10:51:04,New York,Franklin St,little_china@hotmail.com,0494-853775,13:00,23:00
+233,233,Great Northern,2017-09-03 21:35:53,New York,Legion Memorial Square,great_northern@inbox.com,0496-703539,12:00,23:00
+234,234,Community Of Zurich,2017-09-04 03:02:14,New York,Dongan Pl,community_of_zurich@inbox.com,0499-332744,13:00,23:00
+235,235,The Four Seasons Motor Hotel,2017-09-06 17:10:28,San Francisco,Commer Ct,the_four_seasons_motor_hotel@hotmail.com,0499-081563,12:00,23:00
+236,236,German Savings Bank Of Brooklyn,2017-09-07 09:47:38,New York,E 9th St,german_savings_bank_of_brooklyn@hotmail.com,0497-307601,12:00,23:00
+237,237,Henry Van Schaick,2017-09-09 11:46:03,San Francisco,Annie St,henry_van_schaick@yahoo.com,0498-028115,12:00,23:00
+238,238,The Buffalo Orpheus,2017-09-10 00:18:42,New York,Joe Dimaggio Hwy,the_buffalo_orpheus@outlook.com,0496-736045,08:00,21:00
+239,239,S. S. President Wilson,2017-09-10 12:35:09,New York,W 62nd St,s_s_president_wilson@gmail.com,0496-652083,13:00,23:00
+240,240,The Pabst,2017-09-11 03:08:37,San Francisco,Moneta Way,the_pabst@yahoo.com,0497-859751,12:00,23:00
+241,241,The Commodore Hotel,2017-09-11 21:56:34,San Francisco,Avery St,the_commodore_hotel@hotmail.com,0495-929663,08:00,12:00
+242,242,Providence Art Club,2017-09-12 16:04:35,New York,W 82nd St,providence_art_club@mail.com,0498-391969,12:00,20:00
+243,243,North Shore Country Club   Main Lounge,2017-09-14 03:06:22,San Francisco,Sawyer St,north_shore_country_club___main_lounge@inbox.com,0499-318356,12:00,20:00
+244,244,S.S. Constitution,2017-09-15 13:33:47,San Francisco,Badger St,ss_constitution@aol.com,0496-569278,13:00,23:00
+245,245,Veteran Corps Of Artillery Military Society Of The War Of 1812,2017-09-16 10:18:53,San Francisco,Loomis St,veteran_corps_of_artillery_military_society_of_the_war_of_1812@outlook.com,0495-562736,12:00,23:00
+246,246,Barkers Restaurant and Lunch Room,2017-09-17 03:11:05,San Francisco,Yerba Buena Dr,barkers_restaurant_and_lunch_room@aol.com,0496-818071,08:00,21:00
+247,247,Terminal Station Lunch Room,2017-09-17 10:06:42,San Francisco,Elizabeth St,terminal_station_lunch_room@yahoo.com,0499-023944,08:00,12:00
+248,248,Casa Del Rey,2017-09-18 07:05:41,San Francisco,Castle Manor Ave,casa_del_rey@yahoo.com,0498-368447,08:00,12:00
+249,249,King Umberto And Queen Margharita,2017-09-18 17:11:17,San Francisco,Point Lobos,king_umberto_and_queen_margharita@yahoo.com,0495-066886,12:00,23:00
+250,250,Western Reserve University,2017-09-19 11:30:31,San Francisco,Annie St,western_reserve_university@mail.com,0498-266434,12:00,23:00
+251,251,Graemere Hotel,2017-09-20 01:06:19,San Francisco,R St,graemere_hotel@mail.com,0494-021028,12:00,23:00
+252,252,Greenhut-Siegel Cooper Co.,2017-09-20 23:51:11,New York,E 73rd St,greenhut-siegel_cooper_co@yahoo.com,0495-593848,12:00,23:00
+253,253,The Brown Palace Hotel,2017-09-22 22:30:28,San Francisco,Belvedere St,the_brown_palace_hotel@yahoo.com,0499-345063,08:00,12:00
+254,254,University Of Catania,2017-09-23 04:16:31,San Francisco,Rosenkranz St,university_of_catania@inbox.com,0494-463757,12:00,20:00
+255,255,Toyo Kisen Kaisha  Hong Kong Maru,2017-09-25 15:42:11,San Francisco,Latona St,toyo_kisen_kaisha__hong_kong_maru@hotmail.com,0498-994404,12:00,23:00
+256,256,North Carolina Society Of New York,2017-09-27 01:47:42,New York,2nd Pl,north_carolina_society_of_new_york@hotmail.com,0498-182365,12:00,20:00
+257,257,"Testimonial Dinner, Little Hungary",2017-09-27 18:27:22,San Francisco,Montague Pl,"testimonial_dinner,_little_hungary@hotmail.com",0496-818288,08:00,12:00
+258,258,San Souci   Beverly Wilshire Hotel,2017-09-28 17:21:46,San Francisco,Donahue St,san_souci___beverly_wilshire_hotel@mail.com,0499-679087,12:00,23:00
+259,259,Chambre De Commerce Francaise De New York,2017-09-29 02:17:49,New York,W 176th St,chambre_de_commerce_francaise_de_new_york@outlook.com,0498-709834,12:00,23:00
+260,260,Friends Of Mr. Arthur J. Okeeffe,2017-09-29 06:56:48,New York,Mangin St,friends_of_mr_arthur_j_okeeffe@aol.com,0494-112750,13:00,23:00
+261,261,Salle Hotel,2017-09-30 16:39:08,San Francisco,Codman Pl,salle_hotel@gmail.com,0498-575430,12:00,23:00
+262,262,The Red Onion,2017-10-01 10:01:24,New York,E 123rd St,the_red_onion@hotmail.com,0499-622718,08:00,21:00
+263,263,Hotel Chittenden,2017-10-01 18:57:38,New York,Nathan D Perlman Pl,hotel_chittenden@outlook.com,0494-564699,12:00,23:00
+264,264,Ritz-Carlton Hotel,2017-10-02 01:11:02,New York,Bond St,ritz-carlton_hotel@aol.com,0499-964876,08:00,21:00
+265,265,W. Atlee Burpee,2017-10-03 11:11:46,San Francisco,Cashmere St,w_atlee_burpee@mail.com,0498-897226,13:00,23:00
+266,266,College Of Pharmacy Of The City Of Ny,2017-10-08 09:06:30,San Francisco,Cornwall St,college_of_pharmacy_of_the_city_of_ny@yahoo.com,0497-902578,08:00,12:00
+267,267,St. Georges Society Of New York,2017-10-14 20:37:58,San Francisco,E Rd - City College Of San Francisco,st_georges_society_of_new_york@outlook.com,0496-724561,08:00,12:00
+268,268,Rods 1890s Ranch House,2017-10-15 20:34:31,San Francisco,Bayside Village Pl,rods_1890s_ranch_house@inbox.com,0499-121761,12:00,23:00
+269,269,The Pilgrims,2017-10-19 10:00:05,San Francisco,De Boom St,the_pilgrims@mail.com,0495-716563,13:00,23:00
+270,270,Val Bella,2017-10-19 21:18:16,New York,Beekman St,val_bella@gmail.com,0499-376327,13:00,23:00
+271,271,Seventh Masonic District,2017-10-20 07:41:28,San Francisco,Fresnel Way,seventh_masonic_district@mail.com,0496-040228,12:00,23:00
+272,272,Glen Falls Club,2017-10-21 02:36:31,New York,Robert F Wagner Sr Pl,glen_falls_club@inbox.com,0497-169737,13:00,23:00
+273,273,Nipppon Yusen Kaisha   S.S. Kobe Maru,2017-10-21 20:50:02,San Francisco,Bowl Dr,nipppon_yusen_kaisha___ss_kobe_maru@aol.com,0495-365711,12:00,23:00
+274,274,MetLife Building,2017-10-22 23:32:36,New York,E 132nd St,metlife_building@yahoo.com,0499-503020,08:00,21:00
+275,275,Hamburg America Line,2017-10-23 07:36:10,San Francisco,Meadowbrook Dr,hamburg_america_line@outlook.com,0495-118669,12:00,23:00
+276,276,Mr. J.P.Smith,2017-11-01 05:36:22,San Francisco,Crespi Dr,mr_jpsmith@gmail.com,0497-644507,08:00,12:00
+277,277,Royal Pavillion Hotel,2017-11-04 20:46:13,New York,Short Ave,royal_pavillion_hotel@mail.com,0499-920840,13:00,23:00
+278,278,Hotel Statler,2017-11-05 05:15:21,San Francisco,El Polin Loop - Golden Gate National Recreation Area,hotel_statler@mail.com,0494-441699,12:00,20:00
+279,279,Blanchs,2017-11-09 02:46:45,New York,Vesey Pl,blanchs@mail.com,0497-871572,12:00,23:00
+280,280,Taillevent,2017-11-14 18:12:07,New York,W 123rd St,taillevent@outlook.com,0495-037238,12:00,23:00
+281,281,Washington Association Of Bowdoin Alumni,2017-11-14 23:54:45,New York,Hanover Square,washington_association_of_bowdoin_alumni@mail.com,0496-364859,13:00,23:00
+282,282,"Personal Friends, Business Associates, And Citizens",2017-11-16 17:32:25,New York,Avenue D,"personal_friends,_business_associates,_and_citizens@aol.com",0497-141419,12:00,23:00
+283,283,Associates Of The Interborough Rapid Transit Co.,2017-11-16 23:18:59,New York,W 165th St,associates_of_the_interborough_rapid_transit_co@yahoo.com,0496-498427,13:00,23:00
+284,284,Haans,2017-11-17 08:37:58,New York,Roosevelt Island Bridge,haans@inbox.com,0495-368488,12:00,23:00
+285,285,Santa Fe Route Dining Car Service,2017-11-17 16:19:36,New York,E 15th St,santa_fe_route_dining_car_service@gmail.com,0494-055669,12:00,23:00
+286,286,Restaurant Cafe Winkler,2017-11-17 22:19:33,New York,Gustave L. Levy Pl,restaurant_cafe_winkler@gmail.com,0494-530143,13:00,23:00
+287,287,U.S.Atlantic Fleet Crews,2017-11-22 23:37:32,New York,Marketfield St,usatlantic_fleet_crews@gmail.com,0497-061282,12:00,23:00
+288,288,The Greenbrier,2017-11-29 04:27:01,New York,Sullivan St,the_greenbrier@inbox.com,0494-429919,08:00,21:00
+289,289,Nippon Yusen Kaisha  S.S.Nasuga,2017-11-29 16:25:53,San Francisco,Alana Way,nippon_yusen_kaisha__ssnasuga@outlook.com,0498-943233,08:00,12:00
+290,290,The Patriarchs,2017-11-30 05:43:39,San Francisco,Rockridge Dr,the_patriarchs@hotmail.com,0497-353483,08:00,12:00
+291,291,H.D. Bristols Oyster & Chop House,2017-12-01 05:56:09,New York,Rockefeller Plaza,hd_bristols_oyster_&_chop_house@outlook.com,0496-661932,12:00,23:00
+292,292,Chamber Of Commerce (New York City?),2017-12-04 00:13:20,San Francisco,Toyon Ln,chamber_of_commerce_(new_york_city?)@outlook.com,0499-298797,08:00,12:00
+293,293,"Russell House,The",2017-12-06 17:21:27,San Francisco,Flournoy St,"russell_house,the@aol.com",0496-624597,12:00,23:00
+294,294,American Spool Cotton Manufacturers Association,2017-12-06 20:14:26,San Francisco,Bird St,american_spool_cotton_manufacturers_association@hotmail.com,0497-515464,12:00,23:00
+295,295,Liptons Restaurant,2017-12-08 11:00:50,San Francisco,Fresnel Way,liptons_restaurant@mail.com,0499-421579,12:00,23:00
+296,296,Poodle Duck Club,2017-12-11 05:50:52,San Francisco,Augusta St,poodle_duck_club@gmail.com,0497-687415,08:00,21:00
+297,297,Club 31,2017-12-11 21:56:46,San Francisco,Flournoy St,club_31@inbox.com,0499-540935,12:00,23:00
+298,298,Grand Union Hotel,2017-12-12 07:40:01,San Francisco,San Marcos Ave,grand_union_hotel@inbox.com,0494-309588,12:00,23:00
+299,299,Simpson Timber,2017-12-13 22:23:04,New York,Clarkson St,simpson_timber@aol.com,0497-506171,12:00,23:00
+300,300,Dr. H. G. Sherman,2017-12-15 01:35:31,San Francisco,Tucker Ave,dr_h_g_sherman@hotmail.com,0496-897141,12:00,23:00
+301,301,Celtic Club,2017-12-15 12:08:15,San Francisco,Battery Blaney Rd - Golden Gate National Recreation Area,celtic_club@yahoo.com,0498-001127,08:00,21:00
+302,302,Deal Golf and Country Club,2017-12-15 20:08:31,San Francisco,Bertha Ln,deal_golf_and_country_club@mail.com,0494-785698,08:00,12:00
+303,303,Hotel Grenoble,2017-12-16 22:02:59,New York,Centre Market Pl,hotel_grenoble@gmail.com,0497-826678,13:00,23:00
+304,304,The Terrace Restaurant,2017-12-17 19:30:46,San Francisco,Central Ave,the_terrace_restaurant@mail.com,0496-597067,13:00,23:00
+305,305,Union Pacific,2017-12-22 11:44:47,San Francisco,Emery Ln,union_pacific@aol.com,0498-294684,08:00,12:00
+306,306,The Florida Brewing Co.,2017-12-27 11:42:35,New York,South End Ave,the_florida_brewing_co@outlook.com,0496-784129,12:00,23:00
+307,307,Dr. H. G. Sherman,2017-12-28 05:42:28,New York,Queens Midtown Tunnel,dr_h_g_sherman@inbox.com,0497-068717,12:00,20:00
+308,308,South Shore Country Club,2017-12-28 07:26:00,New York,E 88th St,south_shore_country_club@yahoo.com,0498-612246,08:00,21:00
+309,309,Ideal Dining And Lunch Room,2017-12-28 12:42:33,New York,W 154th St,ideal_dining_and_lunch_room@outlook.com,0497-457228,12:00,23:00
+310,310,Jewelers League Of New York,2018-01-01 18:29:46,San Francisco,Bemis St,jewelers_league_of_new_york@aol.com,0498-186979,08:00,12:00
+311,311,West Side Club,2018-01-11 22:36:15,New York,Reade St,west_side_club@inbox.com,0495-442023,08:00,21:00
+312,312,Hotel De Paris,2018-01-14 04:11:58,New York,W 31st St,hotel_de_paris@outlook.com,0496-813960,13:00,23:00
+313,313,Clinton B. Fisk Prohibition Club,2018-01-18 02:59:14,New York,E 113th St,clinton_b_fisk_prohibition_club@inbox.com,0499-321497,12:00,20:00
+314,314,Willards Hotel,2018-01-23 11:23:49,San Francisco,Beale St,willards_hotel@inbox.com,0499-396148,12:00,23:00
+315,315,Safari Hotel,2018-01-27 08:00:14,New York,Penn Plaza,safari_hotel@mail.com,0494-511657,12:00,23:00
+316,316,Memorial Apts.,2018-02-01 08:00:42,New York,W 181st St,memorial_apts@hotmail.com,0496-568502,08:00,21:00
+317,317,Mills Hotel,2018-02-02 07:28:50,San Francisco,Leona Terrace,mills_hotel@gmail.com,0496-313456,12:00,23:00
+318,318,Stauchs Resturant,2018-02-02 09:37:42,San Francisco,Ecker St,stauchs_resturant@aol.com,0494-551799,08:00,12:00
+319,319,Penn Stroud Hotel,2018-02-07 03:44:57,San Francisco,Freelon St,penn_stroud_hotel@mail.com,0498-638390,08:00,21:00
+320,320,Ernest Marples Cellars,2018-02-08 14:41:59,San Francisco,Dwight St,ernest_marples_cellars@hotmail.com,0497-895115,13:00,23:00
+321,321,Hotel De La Tremoille,2018-02-09 10:16:56,San Francisco,Laurel St,hotel_de_la_tremoille@aol.com,0496-792550,12:00,23:00
+322,322,Chocorua Inn,2018-02-10 09:39:44,New York,W 181st St,chocorua_inn@hotmail.com,0495-270358,12:00,23:00
+323,323,Regal,2018-02-23 01:07:40,San Francisco,Crook St - Golden Gate National Recreation Area,regal@aol.com,0499-711644,08:00,21:00
+324,324,Cafe Mellone,2018-02-25 08:12:16,New York,E 101st St,cafe_mellone@mail.com,0499-140440,13:00,23:00
+325,325,Hotel Lexington,2018-03-01 07:28:24,San Francisco,Edinburgh St,hotel_lexington@hotmail.com,0497-521831,12:00,23:00
+326,326,Patricia Murphys Candlelight Restaurants,2018-03-02 02:05:50,New York,Spruce St,patricia_murphys_candlelight_restaurants@gmail.com,0496-780723,12:00,23:00
+327,327,Victorian,2018-03-03 11:37:31,New York,Oliver St,victorian@mail.com,0497-916301,08:00,12:00
+328,328,Explorers Club   Arctic Club,2018-03-03 23:33:16,San Francisco,Emmet Ct,explorers_club___arctic_club@yahoo.com,0498-853282,12:00,23:00
+329,329,S.S. American Merchant,2018-03-05 10:58:54,New York,Washington Square S,ss_american_merchant@aol.com,0497-524026,13:00,23:00
+330,330,Oneco Hotel,2018-03-07 05:11:23,New York,River Rd,oneco_hotel@outlook.com,0495-918349,13:00,23:00
+331,331,Ex Libris,2018-03-07 14:57:00,New York,W 154th St,ex_libris@mail.com,0495-086547,12:00,23:00
+332,332,C.F. Wetzel,2018-03-07 23:56:28,San Francisco,Lake Merced Hill S St,cf_wetzel@hotmail.com,0498-319369,12:00,23:00
+333,333,Italian American Citizens Of The Sixth Assembly District,2018-03-08 08:04:24,New York,W 157th St,italian_american_citizens_of_the_sixth_assembly_district@inbox.com,0495-281724,08:00,12:00
+334,334,Hotel Royal Palm,2018-03-16 21:02:50,New York,E 25th St,hotel_royal_palm@hotmail.com,0499-165371,13:00,23:00
+335,335,Little China,2018-03-18 04:50:23,New York,W 125th St,little_china@outlook.com,0494-435750,08:00,21:00
+336,336,S.S. Nieuw Amsterdam,2018-03-18 11:59:23,San Francisco,Church St,ss_nieuw_amsterdam@yahoo.com,0496-586379,12:00,20:00
+337,337,Southern Railway,2018-03-23 08:41:15,San Francisco,Leona Terrace,southern_railway@hotmail.com,0496-657871,12:00,23:00
+338,338,Lucullus Club,2018-03-28 15:16:24,San Francisco,Pond St,lucullus_club@inbox.com,0496-986245,12:00,23:00
+339,339,Restaurant Le Bourgogne,2018-03-29 19:33:16,New York,F D R Drive Service Rd E,restaurant_le_bourgogne@yahoo.com,0499-815162,08:00,12:00
+340,340,18th Club,2018-04-07 05:21:08,San Francisco,Quintara St,18th_club@outlook.com,0494-267745,12:00,23:00
+341,341,Deutsche Liederkranz,2018-04-08 23:30:43,New York,Craig Rd N,deutsche_liederkranz@mail.com,0497-036924,13:00,23:00
+342,342,Frankfurter Hof,2018-04-09 08:11:17,New York,Church St,frankfurter_hof@mail.com,0498-869493,13:00,23:00
+343,343,Battle Creek Sanitarium,2018-04-12 00:38:14,San Francisco,San Felipe Ave,battle_creek_sanitarium@yahoo.com,0495-457335,08:00,21:00
+344,344,Bangkok Cuisine,2018-04-12 06:15:13,San Francisco,Reuel Ct,bangkok_cuisine@hotmail.com,0497-983256,13:00,23:00
+345,345,All Souls Church,2018-04-13 00:55:50,San Francisco,Ingerson Ave,all_souls_church@aol.com,0495-822731,08:00,12:00
+346,346,Mandels Tea Rooms,2018-04-26 17:31:44,San Francisco,Jefferson St,mandels_tea_rooms@aol.com,0496-621540,08:00,12:00
+347,347,Paquebot Ile De France,2018-04-26 17:32:35,New York,2nd St (See E 2nd St below),paquebot_ile_de_france@gmail.com,0495-042205,13:00,23:00
+348,348,Kemms Cafe and Restaurant,2018-05-15 04:06:23,New York,Washington Square W,kemms_cafe_and_restaurant@inbox.com,0495-953773,08:00,21:00
+349,349,Haverford Association Of New York,2018-05-17 09:52:07,New York,E 36th St,haverford_association_of_new_york@hotmail.com,0494-267012,12:00,23:00
+350,350,Hotel Colorado,2018-05-21 04:03:15,San Francisco,Dore St,hotel_colorado@outlook.com,0499-224770,13:00,23:00
+351,351,King Frederik Viii,2018-05-24 17:52:44,New York,Coenties Alley,king_frederik_viii@outlook.com,0499-382549,08:00,12:00
+352,352,The Red Star Inn,2018-06-10 19:54:19,San Francisco,Redfield Alley,the_red_star_inn@mail.com,0495-359995,13:00,23:00
+353,353,Sheraton Blackstone Chicago,2018-06-10 19:58:40,San Francisco,Tenny Pl,sheraton_blackstone_chicago@inbox.com,0497-637785,12:00,23:00
+354,354,Orpheus Masquerade,2018-06-11 19:41:01,San Francisco,Bush St,orpheus_masquerade@hotmail.com,0499-888462,12:00,23:00
+355,355,Girard College,2018-06-13 22:49:15,New York,E 4th St,girard_college@gmail.com,0495-994770,08:00,21:00
+356,356,Society Of Colonial Wars In State Of New Jersey,2018-06-15 07:26:01,San Francisco,Avenue C,society_of_colonial_wars_in_state_of_new_jersey@inbox.com,0499-532891,12:00,23:00
+357,357,Police Department Of The City Of New York,2018-06-18 08:52:29,San Francisco,Joost Ave,police_department_of_the_city_of_new_york@hotmail.com,0496-870962,12:00,20:00
+358,358,Manhattan Casino,2018-06-20 15:39:47,San Francisco,Clipper St,manhattan_casino@gmail.com,0499-743514,08:00,12:00
+359,359,The Ballroom Of The Hotel Plaza,2018-07-01 14:30:33,San Francisco,Sansome St,the_ballroom_of_the_hotel_plaza@yahoo.com,0494-478153,12:00,23:00
+360,360,The Lawrence,2018-07-05 17:25:35,San Francisco,7th Ave,the_lawrence@inbox.com,0495-175387,08:00,12:00
+361,361,Hofbrau Haus,2018-07-06 00:27:43,San Francisco,Mason Ct,hofbrau_haus@mail.com,0497-964074,13:00,23:00
+362,362,Missouri Society,2018-07-11 12:54:35,New York,Queensboro Bridge,missouri_society@hotmail.com,0496-413740,13:00,23:00
+363,363,Grunewald Hotel,2018-07-18 21:01:30,New York,Leroy St,grunewald_hotel@outlook.com,0496-985254,12:00,20:00
+364,364,Mrs. H. Mc K. Twombley,2018-07-20 06:11:51,San Francisco,Bliss St - Golden Gate National Recreation Area,mrs_h_mc_k_twombley@hotmail.com,0498-406807,13:00,23:00
+365,365,Frederik Viii,2018-07-25 06:16:19,San Francisco,Calgary St,frederik_viii@hotmail.com,0498-505329,12:00,23:00
+366,366,Hotel Westminster,2018-07-26 08:40:28,San Francisco,Belle Ave,hotel_westminster@hotmail.com,0499-910156,08:00,12:00
+367,367,Restaurant name and/or location not given],2018-07-27 17:38:24,San Francisco,Cargo Way,restaurant_name_and/or_location_not_given]@yahoo.com,0496-324507,08:00,12:00
+368,368,Mountain Park Hotel,2018-07-31 22:31:11,San Francisco,Sola Ave,mountain_park_hotel@aol.com,0495-322017,13:00,23:00
+369,369,Club Venus,2018-08-05 19:51:31,San Francisco,Chenery St,club_venus@gmail.com,0499-058417,08:00,21:00
+370,370,Louisville & Nashville Railroaad   The Pullman Co.,2018-08-10 00:34:06,San Francisco,Auburn St,louisville_&_nashville_railroaad___the_pullman_co@mail.com,0497-666392,08:00,21:00
+371,371,Hochst,2018-08-13 04:14:43,San Francisco,Ruger St - Golden Gate National Recreation Area,hochst@outlook.com,0496-521794,13:00,23:00
+372,372,The Thirteen Club,2018-08-17 16:39:00,San Francisco,Clearview Ct,the_thirteen_club@hotmail.com,0498-363167,08:00,12:00
+373,373,Friends Of Mr. Charles A. Brunn,2018-08-18 04:18:22,San Francisco,Ocean Ave,friends_of_mr_charles_a_brunn@mail.com,0495-857428,12:00,23:00
+374,374,American Chamber Of Commerce Of Paris Commission For The Exposiion Of 1900,2018-08-22 09:43:49,San Francisco,Taber Alley,american_chamber_of_commerce_of_paris_commission_for_the_exposiion_of_1900@aol.com,0495-912144,13:00,23:00
+375,375,Terrace Garden,2018-08-25 09:04:54,San Francisco,Mountain Spring Ave,terrace_garden@gmail.com,0498-024279,08:00,12:00
+376,376,Hotel Eugenia Victoria,2018-09-03 18:52:43,New York,Main St,hotel_eugenia_victoria@mail.com,0499-238506,13:00,23:00
+377,377,Chews Cafe,2018-09-05 16:47:46,New York,Chatham Square,chews_cafe@mail.com,0499-718466,08:00,21:00
+378,378,Petrossian Restaurant,2018-09-11 12:21:48,New York,Union Square E,petrossian_restaurant@outlook.com,0497-167234,13:00,23:00
+379,379,Keystone Restaurant,2018-09-21 17:50:10,San Francisco,Mansell St,keystone_restaurant@hotmail.com,0495-243095,13:00,23:00
+380,380,Mayor And Citizens Of Chicago,2018-09-25 23:03:41,San Francisco,Buckingham Way,mayor_and_citizens_of_chicago@mail.com,0497-436195,08:00,12:00
+381,381,Tsuruya,2018-09-28 02:06:46,New York,Minetta St,tsuruya@inbox.com,0499-748143,12:00,20:00
+382,382,S.M.S.Vineta,2018-09-29 23:22:47,San Francisco,Dale Pl,smsvineta@inbox.com,0495-142934,13:00,23:00
+383,383,"Annual Dinner Of The New York University Alumni Association, Waldorf Astoria",2018-10-01 04:35:57,New York,E 102nd St,"annual_dinner_of_the_new_york_university_alumni_association,_waldorf_astoria@hotmail.com",0496-819370,13:00,23:00
+384,384,La Residence,2018-10-05 21:26:14,San Francisco,Rivera St,la_residence@hotmail.com,0495-548003,12:00,20:00
+385,385,Amys,2018-10-13 00:54:02,New York,Cooper Square,amys@hotmail.com,0495-931276,13:00,23:00
+386,386,Deutschen Haus,2018-10-20 20:54:50,New York,W 27th St,deutschen_haus@hotmail.com,0494-247589,08:00,12:00
+387,387,Societa La Piemontese,2018-10-25 20:51:44,New York,Harlem River Dr,societa_la_piemontese@inbox.com,0495-910657,12:00,20:00
+388,388,Comrades Of The Army Of The Potomac,2018-10-27 23:36:06,New York,E 55th St,comrades_of_the_army_of_the_potomac@yahoo.com,0497-243460,13:00,23:00
+389,389,Donahues Lunch,2018-10-30 13:27:28,San Francisco,Donahue St,donahues_lunch@outlook.com,0494-639488,08:00,21:00
+390,390,Papyrus Club,2018-11-05 04:59:57,San Francisco,Denslowe Dr,papyrus_club@aol.com,0494-352572,08:00,12:00
+391,391,Association Of Life Insurance Medical Directors,2018-11-11 07:54:55,San Francisco,Sternberg Rd - Golden Gate National Recreation Area,association_of_life_insurance_medical_directors@aol.com,0499-190429,08:00,12:00
+392,392,Fritzels,2018-11-11 11:38:56,New York,Martin Luther King Blvd,fritzels@outlook.com,0497-163415,13:00,23:00
+393,393,Friends Of Geo W. Gardner,2018-11-23 04:42:38,San Francisco,Southard Pl,friends_of_geo_w_gardner@hotmail.com,0499-673234,12:00,23:00
+394,394,Palace Hotel Restaurat,2018-11-25 05:35:57,New York,W 119th St,palace_hotel_restaurat@mail.com,0496-199308,13:00,23:00
+395,395,Thomas Cook & Son Special,2018-11-25 17:13:53,New York,Canal St,thomas_cook_&_son_special@mail.com,0495-433632,13:00,23:00
+396,396,Parisien,2018-12-01 23:50:19,New York,Pitt St,parisien@aol.com,0494-018538,12:00,23:00
+397,397,Restaurant Mayan,2018-12-03 03:18:09,New York,E 14th St,restaurant_mayan@inbox.com,0495-441347,13:00,23:00
+398,398,Pabst,2018-12-05 14:44:01,New York,Albany St,pabst@hotmail.com,0496-275105,08:00,21:00
+399,399,Santa Fe Dining Car Service,2018-12-08 01:04:51,San Francisco,John F Kennedy Dr,santa_fe_dining_car_service@yahoo.com,0496-559782,12:00,23:00
+400,400,Nippon Yusen Kaisha   S.S. Kobe Maru,2018-12-11 07:18:07,New York,Freedom Pl,nippon_yusen_kaisha___ss_kobe_maru@outlook.com,0494-112445,12:00,20:00
+401,401,Le ProvenÃƒÂ§al,2018-12-19 22:39:29,New York,Pomander Walk,le_provenÃ£Â§al@mail.com,0494-967480,13:00,23:00
+402,402,Board Of Managers Of The Private Charitable Institutions,2018-12-21 12:16:46,San Francisco,Faxon Ave,board_of_managers_of_the_private_charitable_institutions@outlook.com,0495-914776,08:00,12:00
+403,403,Au Chat Noir,2018-12-29 17:23:29,New York,Ferry Line Rd,au_chat_noir@mail.com,0496-864366,13:00,23:00
+404,404,King Solomons Grill,2019-01-05 06:23:17,New York,W 107th St,king_solomons_grill@inbox.com,0498-050087,12:00,20:00
+405,405,Shezan,2019-01-05 06:36:33,New York,Vesey St,shezan@gmail.com,0498-702295,08:00,12:00
+406,406,Norddeutsch Lloyd Bremen,2019-01-06 12:11:57,San Francisco,Hooper St,norddeutsch_lloyd_bremen@outlook.com,0496-602046,08:00,12:00
+407,407,South Shore Country Club,2019-01-07 06:32:02,San Francisco,Mission St,south_shore_country_club@outlook.com,0497-844548,12:00,20:00
+408,408,Zodiac Room At Neiman Marcus,2019-01-07 08:06:49,San Francisco,Hill Point Ave,zodiac_room_at_neiman_marcus@gmail.com,0497-866667,08:00,12:00
+409,409,Albany Society Of Nyc,2019-01-19 14:15:11,San Francisco,Peralta Ave,albany_society_of_nyc@yahoo.com,0497-145201,08:00,12:00
+410,410,"Supper Menu, Red Star Line Antwerpen New York Antwerpen Boston",2019-01-25 04:37:52,New York,Rutgers Slip,"supper_menu,_red_star_line_antwerpen_new_york_antwerpen_boston@yahoo.com",0494-602526,13:00,23:00
+411,411,Sons Of Delaware,2019-02-04 13:47:15,New York,W 22nd St,sons_of_delaware@inbox.com,0497-477821,08:00,21:00
+412,412,Union League Of Maryland,2019-02-06 18:05:06,New York,W 225th St,union_league_of_maryland@inbox.com,0498-572670,13:00,23:00
+413,413,Waltons Old Homestead Oyster And Chop House,2019-02-13 10:05:45,San Francisco,Clementina St,waltons_old_homestead_oyster_and_chop_house@hotmail.com,0495-034310,08:00,21:00
+414,414,R.H. Macy and Co.,2019-02-14 12:35:54,New York,Manhattan,rh_macy_and_co@mail.com,0495-810995,13:00,23:00
+415,415,Le Vert Galant,2019-02-18 07:11:48,New York,Duke Ellington Blvd,le_vert_galant@hotmail.com,0494-695923,12:00,20:00
+416,416,Hotel Cecil,2019-02-25 04:14:26,New York,Hamilton Pl,hotel_cecil@outlook.com,0498-426305,12:00,23:00
+417,417,2601 Parkway,2019-02-27 13:19:04,New York,W 9th St,2601_parkway@hotmail.com,0497-177926,13:00,23:00
+418,418,Tzu Hai Pin Cantonese Restaurant,2019-03-03 00:42:09,San Francisco,18th St,tzu_hai_pin_cantonese_restaurant@outlook.com,0494-371649,12:00,20:00
+419,419,German Gov.,2019-03-03 20:00:41,San Francisco,Marengo St,german_gov@hotmail.com,0499-557897,08:00,12:00
+420,420,Aidas East,2019-03-15 01:49:18,New York,W 4th St,aidas_east@hotmail.com,0498-997767,08:00,12:00
+421,421,Corps Consulaire,2019-03-17 02:33:50,San Francisco,Juri St,corps_consulaire@aol.com,0498-974115,13:00,23:00
+422,422,Mr. Lowden,2019-03-25 07:25:12,San Francisco,Peninsula Ave,mr_lowden@gmail.com,0496-267789,08:00,12:00
+423,423,Mitre Hotel,2019-03-26 15:08:55,San Francisco,Freeman Ct,mitre_hotel@outlook.com,0499-584187,08:00,21:00
+424,424,City Editors Association Of Philadelphia,2019-03-29 10:57:07,San Francisco,Atalaya Terrace,city_editors_association_of_philadelphia@yahoo.com,0496-041119,08:00,12:00

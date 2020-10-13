@@ -1,0 +1,2001 @@
+﻿ID;NAME;PRICE;RESTAURANT_ID
+0;Drambuie;25,5;0
+1;MUSSELS TOSCANE fresh tomatoes;29,1;0
+2;Cold Poached Atlantic Salmon: three vegetable antipasti;27,7;0
+3;Mango Carnitas Enchiladas, slowly simmered lean pork loin, onions, and spices layered between two blue corn tortillas with mango chutney, salsa, sour cream, and white cheddar cheese smothered with green chile and garnished with sour cream and corn salsa served with pinto beans and Basmati rice;22,5;0
+4;Croft 90;18,1;0
+5;Roast Pork w. Mushrooms;19;0
+6;Beef Mai Fun;25;1
+7;Wraps: W5  Vegetarian Grilled Eggplant, Squash & Zucchini with Avocado, Sprouts & Humus ... 5.75;18;1
+8;Hot Chocolate with whipped cream;20,2;1
+9;Kaffee Hag;18,1;1
+10;Angel Hair Primavera ;18,6;1
+11;Martini;27,1;1
+12;Dr. Pepper;17,4;2
+13;KITCHEN-MADE HEADCHEESE with a sweet onion relish;16,2;2
+14;Gewuertztraminer, Trimbach, Alsace, France 1998;19,3;2
+15;Vitello Milanese BREADED VEAL TOPPED WITH MUSHROOMS;18,3;2
+16;House Special Chow Fun;21,2;2
+17;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini ;19,7;2
+18;Fresh Blackened Cajun Grouper;17,8;2
+19;Broccoli w. Mushrooms;19,4;2
+20;Red Zinger Iced Herbal Tea;25,8;2
+21;Tarte FlambÃƒÂ©e - Alsatian thin crust tart with crÃƒÂ¨me fraÃƒÂ®che, onion and applewood smoked bacon;22,4;3
+22;1/2 Crab Mayonnaise;15,7;3
+23;OYSTERS:  Malpeque   ;14;3
+24;2007 SAUVIGNON BLANC Santa Ynez Valley Brander;17,4;3
+25;Banana Pie. Banana with Non-Dairy Yogurt/Shredded Almond;15,8;3
+26;Antipasti Fellinis CLAMS, MUSSELS, SQUID, SHRIMP, STUFFED MUSHROOMS & EGGPLANT ROLLANTINO;19,1;3
+27;Pasta Pomodoro CHOICE OF PASTA WITH TOMATO OR MARINARA SAUCE;17,5;3
+28;Fettuccine Carbonara FETTUCCINE WITH BACON, CHEESE, ONIONS & EGG;16,6;4
+29;San Pallegrino;27,5;4
+30;Smoked Trout Pate with Croutons;15,4;4
+31;Chardonnay, Glass Mountain;24,7;4
+32;Gnocchi Bolognese HOMEMADE DUMPLINGS PASTA WITH MEAT SAUCE;22,9;5
+33;Mix & Match Flight: Franciscan Merlot, McDowell Syrah, Cline Old Vines Zinfandel;20,2;5
+34;Duvel ;19,6;5
+35;Mango Carnitas Enchiladas, vegetarian;21,2;5
+36;Fresh Blackened Cajun Grouper;22,8;5
+37;GELATI FATTI IN CASA  ;24,1;5
+38;Brie;28,5;6
+39;Albarino, Morgadio, 1999. (Spain);17,3;6
+40;FRESH RAINBOW TROUT an 8 oz. boneless rainbow trout grilled and topped with a lemon, herb butter served with steamed Basmati rice and fresh vegetables;17,5;6
+41;Balthazar Bar Steak with pommes frites and maÃƒÂ®tre d butter or bearnaise sauce ;19,8;6
+42;Tocai Friulano, Borgo Conventi, 1997. (Friuli);16,2;6
+43;CAPPELLACCI DI FORMAGGIO large cheese ravioli, prosciutto & sage;26,5;6
+44;Blackened Chicken Sandwich;25,8;6
+45;Assorted Smoked Salmon & Shrimp;16,4;6
+46;Grilled Vegetables Including Portobellos, Squash, Eggplant & Zucchini with Melted Mozzarella and a Cucumber Dill Dressing served on Seven Grain Health Bread;18,9;6
+47;Steamed Broccoli w. Chicken;25,9;7
+48;Wraps: W6  Italian Tuna Wrap (No Mayo No Oil), Plum Tomato, Leaf Lettuce & Sprouts ... 5.95;19,7;7
+49;Steamed Broccoli w. Shrimp & Chicken;22,3;7
+50;St. Jacques PolÃƒÂ©es;30,2;7
+51;Haut Medoc, Chateau Larose Trintaudon 1995 (Bordeaux);18,5;8
+52;TOASTED ORANGE SAVARIN;19,4;8
+53;Chicken Fried Rice;14,8;8
+54;House Special Chow Fun;10,6;8
+55;Lobster Fried Rice;18,1;8
+56;House Spicy Maki Rolls - jalapeno smoked salmon, yellowfin tuna, cucumber, scallion, flying fish roe;14,9;8
+57;Amarone Classico 1995, Allegrini (Veneto);17,1;8
+58;Dolcetto DAlba 1999, Gianni Voerzio (Piemonte);16,7;8
+59;Beef Chop Suey;24,1;9
+60;Saint-Julien, Chateau Gruaud Larose 1987 (Bordeaux);22,4;9
+61;Cappucino;23,7;9
+62;Ferrando: Piedmont, Erbaluce;15,4;9
+63;Soup du Jour ;19,1;9
+64;Topi-Maki and Mixed Salad;17;9
+65;Assorted Teas*;19;9
+66;Banoffee;13,5;9
+67;Puligny-Montrachet, Chanson 1995;25,1;9
+68;BLACK BEAN SOUP, WITH OLD & NEW - FASHIONED ACCOMPANIMENTS;17,9;10
+69;Thai Red Curry with sauteed Shrimp;12,5;10
+70;Tuna. Prepared Medium Rare;8,9;10
+71;Frogs Leap, 1995, Napa;14,6;10
+72;Chianti Classico, Riserva 1997, Felsina Rancia (Toscana);15,7;10
+73;Baby Back Pork Ribs ;10,9;10
+74;ARUGOLA WITH A LEMON-OLIVE OIL DRESSING AND PARMESAN SHAVINGS;20,6;11
+75;ChÃƒÂ¢teau de PocÃƒÂ©, Touraine, 1999, Sauvignon;24,1;11
+76;Riesling Saering, Grand Cru, Domaine Schlumberger, Alsace, France 1997;26,4;11
+77;Cream of Cauliflower Soup;31,4;11
+78;Insalata Di Spinacci WITH BACON, WALNUTS & MUSHROOMS;26,4;12
+79;Bistecca Alla Fiornentina (House Specialty)  (For Two), 48 0z prime porterhouse, arugula salad & aged balsamic- per person;24,7;12
+80;Pollo Tre colori BREAST OF CHICKEN WITH BRAISED RADICCHIO, ARUGOLA, ENDIVE & PLUM TOMATOES;28;12
+81;Pierre Gimonnet: Champagne, Chardonnay, 99;26,5;12
+82;Hamburger;29,2;12
+83;Four Seasons Jumbo shrimp, lobster, chicken, roast pork sauteed w. broccoli, red pepper, baby corn & waterchestnuts in a delicious brown sauce.;29,8;12
+84;Fusilli Al Salmone CORKSCREW PASTA WITH SALMON IN A PINK SAUCE;23;12
+85;Chicken Liver Toast;24,6;12
+86;Half-Sandwich (choice of Tuna Salad, Curried Chicken Salad or Sliced turkey) with Lobster Bisque;28,4;13
+87;Chateauneuf-du-Pape, Chateau Mont-Redon, Rhone, France 1998;19,4;13
+88;Cabernet Sauvignon Cuvee Alexandre, Casa Lapostole, Rapel Valley, Chile 1998;29,8;13
+89;Mixed Vegetable Fried Rice;30;13
+90;Topi-Maki and Mixed Salad;26,1;13
+91;OUR VERY OWN APRICOT SORBET;19,6;13
+92;Chicken Finger;16,6;14
+93;Merlot, Madame Costeau;23,9;14
+94;Way 2Cool Root Beer (Taos Brewing Co.)  full bodied drinks;14,3;14
+95;Rob Roy;14;14
+96;Terrine de canard;20,9;14
+97;112- Veuve Cliquot Brut N/V;16,4;14
+98;Boneless Bar-B-Q Spare Ribs;13,2;14
+99;Vitello Parma BREADED VEAL TOMATO SAUCE & MOZZARELLA;24,5;14
+100;Chicken w. String Beans;13;14
+101;FRIED CLAM;23,9;15
+102;113- Dom Perignon 1993;18,3;15
+103;Chef Salad, Fresh Roasted Turkey, Ham, Cheese and Egg over Our Crisp Garden Salad ... 5.95;26,3;15
+104;Specialty Sandwiches: #4  Roasted Chicken:  Goat Cheese, Basil & Roasted Red Onions with a Rosemary Herb Dressing on Seeded Italian ... 6.25;22,2;15
+105;Seared Sushi Steak Rolls hoisin sauce;30,7;15
+106;Krispy Kream Doughnuts ... .80;18;15
+107;Chicken w. Garlic Sauce;20,6;15
+108;LHereu: Cava, Macabeo, Xarel-Lo;19;15
+109;Baked Stuffed Lobster with buttery Crabmeat Stuffing;25,3;16
+110;Apricots;19,8;16
+111;Steamed Broccoli w. Shrimp & Chicken;30,8;16
+112;Classic Boston Scrod. Baked with buttery Bread Crumbs...with Seasonal Vegetables and choice of one Side;25,9;16
+113;Chicken Chop Suey;29,5;16
+114;Beef w. Mixed Veg;32,8;16
+115;Garden Salad. Crisp Greens with Carrots, Peppers, Cucumbers and Cherry Tomatoes ... Sm. 2.25 ... Lg. 4.25;26,8;16
+116;Seafood Antipasto any six seafood items;27,9;16
+117;Half 2 lb Maine Lobster shrimp & scallops, accompanied with a selection of any four vegetables from our Antipasto Bar;22,9;17
+118;Domaine Carneros, Brut, 1992, Napa;19,7;17
+119;For Two ROASTED CHICKEN with garlic cloves, french fries Lami Louis style;27,5;17
+120;Specialty Sandwiches: #18  Chicken Cutlet:  Vermont Cheddar, Leaf Lettuce, Plum Tomato, Bacon, No Fat Russian Dressing on Semolina ... 6.25;20,8;17
+121;Kung Po Baby Shrimp;18,3;18
+122;Marinated Olives;12,8;18
+123;Domaine Carneros, Brut, 1992, Napa;11,3;18
+124;OUR VERY OWN APRICOT SORBET;19,1;18
+125;Vowel: Scotch, Sweet Vermouth, OJ, Akavit, Bitters;16,9;18
+126;2007 ASSYRTIKO Santorini Sigalas;13,9;18
+127;Sorbet;8,2;18
+128;White Wine by the Bottle: Chardonnay Winemakers Reserve, Lindemans, Padthaway, Australia 1997;29,2;19
+129;Cheesecake Sorbet with fresh berries and strawberry coulis;28,2;19
+130;Grgich Hills 1995 Napa;24,5;19
+131;Steamed Broccoli w. Shrimp & Chicken;25,7;19
+132;Lamb Chops, Colorado lamb loin chops crusted with toasted cumin, coriander and cracked peppercorns grilled and accompanied by a roasted garlic and sage aioli served with rosemary roasted new potatoes and fresh vegetables;25,7;19
+133;Caesar Salad;20;19
+134;Prosciutto Pizza - mozzarella, goat cheese, tomato & arugula salad;19,9;19
+135;Lake Tung Ting Shrimp Shrimp w. Chinese vegetable & black bean in hot egg sauce;25,3;20
+136;Hogue Cellars Fume, 1996, Columbia Valley;25,9;20
+137;Cabernet Sauvignon, Pedroncelli Three Vineyards 1995 (Sonoma);28,3;20
+138;Bisque de Homard;17,3;20
+139;Butterfly Shrimp w. Bacon;23;20
+140;Pot Roast Rabbit with Fennel & Olives;29,1;20
+141;St. Morillion 1996, Chile;21,9;20
+142;Stags Leap 1995, Napa;27,3;21
+143;Rice Pilaf with Orzo;27,6;21
+144;Vitello Sorrentino VEAL WITH EGGPLANT, PROSCIUTTO & MOZZARELLA IN A WHITE WINE SAUCE;31,2;21
+145;Puligny-Montrachet, Chanson 1995;25,2;21
+146;Mayacamas 1991, Napa;26,6;21
+147;The Classic Club sandwich;22,8;21
+148;Orange Flavor Beef;28,5;22
+149;Onion Strings. Thinly sliced, battered and fried;16;22
+150;Chianti, Castello di Farnetella;21,5;22
+151;Specialty Sandwiches: #9  Honey Glazed Ham:  Mozzarella, Caramelized Onions & Honey Mustard on Eight Grain Ciabatta ... 6.25;30,2;22
+152;Tuna Burger. Freshly ground Tuna, Chili Paste, Crumbs and Spices;26,3;22
+153;Arugula Salad chopped tomato, fennel, shaved parmigiano;24,9;22
+154;Sanka;26,8;22
+155;No Fat Sliced Yogurt Loaf Cake (Assorted) ...1.75;31,3;23
+156;Jalapeno Smoked Salmon ;34,5;23
+157;Chardonnay, Iron Horse 95;19,8;23
+158;Mango Carnitas Enchiladas, vegetarian;18,7;23
+159;Joes Grilled Chicken;22,5;23
+160;Cote de Boeuf with haricot verts and Balthazar onion rings;32,6;24
+161;Albarino, Morgadio, 1999. (Spain);30,1;24
+162;SALADE NICOISE WITH FRESH TUNA AND PEELED JERSEY TOMATOES;30;24
+163;Asian Chicken Salad:  Poached Chicken, Water Cress, Red Onion, Scallions & Snow Peas over a Crisp Garden Salad ... 5.95;32,2;24
+164;Chicken w. Chinese Vegetable;24,2;25
+165;Pineapple Duck;24,5;25
+166;Chicken w. Bean Curd;26;25
+167;Petit Fours;25,1;25
+168;Domaine Chandon, Reserve;22,4;26
+169;Crabmeat Hand Roll - fresh crab meat, cucumber, scallion, avacado;13,8;26
+170;Grillatti Di Verdura ASSORTED GRILLED VEGETABLES;13,6;26
+171;Chicken w. Cashew Nuts;16,6;26
+172;Smoked Chatham Cod Croquettes - with American paddlefish caviar;18,2;26
+173;Fried Fish (2) w. Shrimp Fried Rice;24,4;26
+174;Thai Red Curry with marinated Tofu *;31,9;27
+175;Shrimp Cocktail ;19,6;27
+176;Cinnamon Sticky Buns ...2.25;27,8;27
+177;Pear Pie. Naturally Sweetened Pear with Blueberry Topping;34,9;27
+178;Grilled Tenderloin Salad ;18,4;27
+179;Specialty Sandwiches: #6  Chicken Caesar:  Crisp Romaine, Plum Tomato & Caesar Dressing on Semolina Bread ... 6.25;31,4;27
+180;Joes Buffalo Tenderloins;32,6;27
+181;Bandol Blanc, Pibarnon, 1998 (Provence);27,8;28
+182;Chocolate Raspberry Cake;26,1;28
+183;Smoked Haddock Chowder with Homemade Crackers;23,8;28
+184;Sauvignon Blanc, Duckhorn Vineyards 1996 (Napa);30;28
+185;Grappa di Moscato Chiarlo;21,3;29
+186;grilled baby squid with marinated cucumber and spicy miso sauce;22,5;29
+187;Orange Fruit Spritzer - Orange juice, club soda & a twist of lime;28,2;29
+188;Chianti Classico Riserva, Villa Antinori, Tuscany, Italy 1997;18,9;29
+189;Vegetable  Small - three selections;22,4;29
+190;Joes Grilled Chicken;19,5;29
+191;Roast Beef  Sandwich;21,5;29
+192;Beef Mai Fun;27,2;29
+193;Merlot, Duckhorn, 1997. (Napa Valley);22,8;30
+194;Black & White Bean Soup with Spicy Shrimp Quesadilla;23;30
+195;Gouden Carolus ;20,5;30
+196;Jarvis 1994, Napa;19,9;30
+197;Slow Poached Farm Egg In a Jar- with Maine lobster, crosnes and sea urchin froth;22,6;30
+198;Brunello Di Montalcino, Talenti 1993 DOCG (Tuscany);18,1;31
+199;Subgum Chicken Chow Mein;9,8;31
+200;Scrod;16,2;31
+201;Specialty Sandwiches: #14  Roasted Chicken : Grilled Yellow & Green Squash, Porcini Mushrooms, Roasted Eggplant with a Yogurt Dill Dressing on Sour Dough ... 6.25;14,4;31
+202;SautÃƒÂ©ed Skate with haricots verts, shallots, chives and a hazelnut brown butter;19,4;31
+203;CÃƒÂ´te de bÃ…Â“uf with haricot verts and Balthazar onion rings - for two;13,8;32
+204;Rib Tips w. Garlic Sauce w. Shrimp Fried Rice;20,1;32
+205;Hot Sandwiches #22  Smoked Breast of Turkey, Plum Tomato, Bacon, Vermont Cheddar & Classic Russian Dressing served on a Semolina Hero ... 5.95;18,1;32
+206;OMaras Irish Country Cream with coffee;20,6;32
+207;Wild Mushroom Soup - with toasted chorizo ravioli;15,3;32
+208;Steamed Plain Broccoli;17,8;32
+209;Champagne Fraises des Bois aperitif;21,1;32
+210;WHITE ZINFANDEL, River Oaks;22,4;32
+211;Specialty Sandwiches: #14  Roasted Chicken : Grilled Yellow & Green Squash, Porcini Mushrooms, Roasted Eggplant with a Yogurt Dill Dressing on Sour Dough ... 6.25;18,8;32
+212;Pineapple Duck;31,6;33
+213;Half-Sandwich (Curried Chicken Salad) and Soup of the Day;31,4;33
+214;Pollo Fiorentina BREAST OF CHICKEN WITH SPINACH & MOZZARELLA CHEESE;19,4;33
+215;Lanson Black Label;28,6;33
+216;MINI VEGI-LOAF Tofu, Chestnut and Cilantro Croquettes, Served over Spaghetti in a Tomato Sauce (Taro Spring Roll, Pickled Cabbage);20,6;33
+217;Dalla Valle 1994, Napa;28,9;33
+218;Beefeater Gin;32,7;33
+219;Beaujolais Brouilly, Chateau de la Chaize 1996 (Burgundy);18,1;33
+220;Cinzano Bianco Vermouth - on the rocks with a slice of lemon;32,3;33
+221;Mixed Grill Balthazar;28,5;34
+222;Buffalo Chicken Wings, w.Chicken Fried Rice;26,7;34
+223;Brundlmayer: Austria, Pinot Noir, Pinot Blanc;32,7;34
+224;Veuve Cliquot, La Grande Dame, 1989;34,4;34
+225;Tomato Juice;31,8;34
+226;Breganze de Breganze, Maculan;33,3;34
+227;Chicken w. Broccoli;34,8;34
+228;RIGATONI eggplant, portobellini mushrooms, tomato & ricotta sarda;18,7;35
+229;Virgin Mary;11,6;35
+230;Minestrone FELLINIS VEGETABLES SOUP;17,3;35
+231;Selection of cheeses of the day;17,2;35
+232;Apples;15,8;35
+233;China Black Iced Tea;26,7;36
+234;Duckhorn 1995, Napa;32,5;36
+235;Balthazar Bar Steak with pommes frites and maÃƒÂ®tre d butter or bÃƒÂ©arnaise sauce;29,1;36
+236;Terrine de canard;24,4;36
+237;Portuguese Fishermans Stew. Cod, Mussels, Clams and Chorizo in a Saffron Tomato Broth...Garlick Toasts;23,7;36
+238;Chicken Quesadilla  8.50;21,4;36
+239;NY Pastrami Smoked Salmon Club Sandwich - potato and haricot-vert salad with Pommery mustard dressing;13,6;37
+240;Joes Original Burger;10,3;37
+241;Bagels, Challa Roll, Bialy or Sweet Onion Roll ... .75/ With Butter ... ..75/Cream Cheese, Veggie or Scallion...1.50/Salmon or Fat Free Cream Cheese...1.95;11;37
+242;The Great Dessert Plate;11,3;37
+243;Capellini Frutti Di Mare ANGEL HAIR WITH SEAFOOD & TOMATO SAUCE;22,7;38
+244;Albarino, Morgadio, 1999. (Spain);31;38
+245;Half-Sandwich (choice of Tuna Salad, Curried Chicken Salad or Sliced turkey) with Lobster Bisque;20;38
+246;Onion Soup GratinÃƒÂ©e ;18,6;38
+247;Seafood Linguini - lobster, salmon, shrimp, clams, snapper, mahi mahi;19,9;39
+248;Bluefish. Also available baked with Mustard Sauce;19,5;39
+249;Shrimp & Chicken, Hunan Style Jumbo shrimp & chicken sauteed w. baby corn, straw mushrooms, red pepper & garden vegetable in Hunan style.;27,5;39
+250;Veuve Clicquot, Yellow Label, Brut NV;30,3;39
+251;FRIED ARTICHOKES;20,5;39
+252;GNOCCHI CON FEGATINI DI POLLO chicken livers;20;39
+253;Spaghetti Carbonara with pancetta and Parmesan;22,7;39
+254;Zinfandel, Joel Gott, 1999.  (California);28,8;40
+255;CLOS DES MOUCHES, CHANSON 92;27;40
+256;Rice Pudding ... 2.50;30,1;40
+257;Strawberry Italian Soda;29,6;40
+258;Chardonnay, Estancia Estates 1996 (Monterey);18,8;40
+259;Barolo Rocche dei Manzoni 1993 DOCG (Piedmont);30;41
+260;Beringer 1996, Napa;21;41
+261;Smoked Salmon. Thinly sliced...Pumpernickle Toast;19,1;41
+262;Beef w. Pepper & Tomatoes;31,8;41
+263;Syrah, Lewis Cellars, 1997. (Napa Valley);29,7;41
+264;NY Pastrami Smoked Salmon Club Sandwich - potato and haricot-vert salad with Pommery mustard dressing;30;41
+265;Orange and endive salad;27,5;41
+266;Smoked Trout Fillet ;19,7;42
+267;654 Kracher #1 Beerenauslese Cuvee 2002;17,2;42
+268;Insalata Di la Casa WITH GRILLED CHICKEN;19,2;42
+269;FILETTI DI SOGLIOLA CON ZUCCHINE E CARCIOFI  ;19,8;42
+270;CLAY POT ROASTED BABY CHICKEN summer vegetables;25,6;42
+271;Chicken Mulligatawny;21,6;42
+272;Atlantic Oysters;28,4;43
+273;Reeses Brownie;16,6;43
+274;Bife Di Churrasco SHELL CHURRASCO [grilled rump];18;43
+275;Apple Tart;19,4;43
+276;Parfaits - No-fat Vanilla Yogurt, Low-fat Granola & Fresh Fruit ...2.75/3.75;17,7;43
+277;CABERNET SAUVIGNON, Rutherford, Beaulieu;27,7;43
+278;Frogs Leap, 1995, Napa;22,5;43
+279;Asparagus salad with aromatic herbs and egg dressing;17,8;44
+280;Zinfandel, Rabbit Ridge;12,3;44
+281;Tuna Salad on Choice of White, Rye, Wheat Bread or a Roll;13,5;44
+282;Sliced Grilled Chicken over Caesar Salad;16,7;44
+283;Dom Perignon;29,4;45
+284;Duck Shepherds Pie;30,4;45
+285;Beef w. Eggplant;33,2;45
+286;Christers Champagne Cocktail with Black Currant Sorbet;30,6;45
+287;Bricco Manzoni 1993, Manzoni (Piemonte);23,2;45
+288;Warm Goat Cheese and Carmelized Onion Tart   ;23,9;45
+289;Clos Pegase Hommage, 1994, Napa;21,3;46
+290;Smoked Salmon. Thinly sliced...Pumpernickle Toast;21;46
+291;Roast Pork Lo Mein;21,7;46
+292;Fresh Samanthas Juices ... 3.25;21,3;46
+293;Chicken w. Mixed Veg;24,8;46
+294;Specialty Sandwiches: #13  Grilled Portobello Mushrooms: Slow Roasted Tomato, Caramelized Onions, Roasted Sweet Peppers, SautÃƒÂ©ed Spinach & Pesto on Black Bread ... 5.95;14;47
+295;Kendall-Jackson Buckeye Vineyard, Cabernet Sauvignon, Alexander Valley, USA 1996;8,7;47
+296;Salmon Fillet with Chinese Fruit Sauce or Fragrant Seafood Sauce. With Sugar Snap Peas and Jasmine Rice;9,5;47
+297;Sea Scallops;10,6;47
+298;111- Moet & Chandon Brut Imperial N/V;19,9;47
+299;212- Greco di Tufo 1999, Feudi di San Gregorio (Campania);29,7;48
+300;Montepulciano, Masciarelli;27,2;48
+301;Irish Cream Italian Soda;26,9;48
+302;Bricco Manzoni 1996;22;48
+303;San Francisco Cioppino - fish and shellfish stew with Maya shrimp & Crostino;22,2;48
+304;Strawberry Mineral Water;19;48
+305;Les Terrasses 1998, Palacios (Priorat);22,7;49
+306;Steamed Vegetables;28,3;49
+307;Assorted Teas*;19,7;49
+308;Crispy Yellowfin Tuna - with roasted asparagus, greenmarket spring beans, warm tomato vinaigrette and shaved bottarga;15,4;49
+309;miso marinated spanish mackerel with shiso rice and pickled cucumbers;18,5;49
+310;Barolo, Sigillo dAbate Rsv, 1991;16,7;49
+311;Roast Pork w. Mixed Veg;23,6;49
+312;Six Smoked Fish Assortment;13,1;50
+313;Mas de Gourgonnier, N. Cartier, 1997. (Provence);20,1;50
+314;House Special Mai Fun;14,9;50
+315;Chicken w. Eggplant;16,2;50
+316;Knudsen Erath 1995, Oregon;17,2;50
+317;PENNE WITH A WILD MUSHROOM SAUCE;14,9;50
+318;Apple Zinger - apple juice & iced herbal tea;12,2;50
+319;Fresh Squeezed OJ or Grapefruit Juice   Small ...1.75  Large ...2.95;17,8;50
+320;HAWAIIAN FIVE STYLES Scallop, lobster, chicken, shrimp & pork sauteed in chefs special sauce w. baby corn, straw mushrooms & Chinese vegetables.;14,8;50
+321;Whole Roasted Free-Range Chicken with garlic mashed potatoes and seasonal vegetables;13,2;51
+322;A glass from our GIANT bottle of Querciabella;19,4;51
+323;miso marinated spanish mackerel with shiso rice and pickled cucumbers;14,1;51
+324;Redeye Dill Gravlax Salmon;12,8;51
+325;Assorted Fruit Topped Danish ...1.60;8,2;51
+326;Chardonnay 1999, Sonoma Cutrer (Russian River);13,1;51
+327;Thai Red Curry with sauteed Shrimp;12,5;51
+328;Beef w. Curry Sauce;13,4;51
+329;Roast Pork w. Broccoli in Garlic Sauce;12,4;52
+330;Home made Ice Cream;9,8;52
+331;Pork Lo Mein;18,3;52
+332;Fusilli Al Salmone CORKSCREW PASTA WITH SALMON IN A PINK SAUCE;12,5;52
+333;Insalata Di Gamberi e Avocado SHRIMP WITH AVOCADO, LEMON, HERBS & DRESSING;18,5;52
+334;Red Zinger Iced Herbal Tea;15,2;52
+335;Bamboo Steamed Vegetables;19,4;52
+336;Ruinart;20,8;53
+337;GRILLED AHI TUNA ON BRAISED SHIITAKES WITH WILTED FRISEE AND A CRACKED MUSTARD INFUSION SAUCE, BASIL AIOLI;34,1;53
+338;Tofu Honey Pie. tofu with Cream Cheese and Blueberry Topping;27,7;53
+339;Roasted Fennel Ravioli with tomato, pesto and crispy Parmesan ;24,9;53
+340;Iced coffee or Tea ... 1.50/1.95;34,3;53
+341;Grilled Vegetables;22,1;53
+342;Chardonnay, Logan Sleepy Hollow Vineyard, 1998, Monterey;32,2;53
+343;Cold Lobster Plate: lobster, shrimp & scallops & three vegetable antipasti;18,8;54
+344;Escargots in garlic butter ;34,7;54
+345;Baked Potato;33,2;54
+346;Beringer 1996, Napa;23,3;54
+347;Lobster Lo Mein;33,9;54
+348;Field greens vinaigrette;24,5;54
+349;CHILLED BUTTERNUT SQUASH SOUP WITH DILL;29,4;55
+350;Haricots Verts frais;26,2;55
+351;TAOS FARMERS STACK a seasonal harvest of roasted and grilled baby & gourmet vegetables, steamed greens and mashed potatoes with a Madiera mushroom gravy **;24,6;55
+352;Chicken Cilantro Salad:  Cilantro Chicken, Hearts of Romaine, Plum Tomato, Cucumbers, Carrots and Sprouts ... 5.95;21,1;55
+353;Merlot, Duckhorn, 1997. (Napa Valley);17,3;55
+354;Prosecco di Valdobbiadene Extra Dry N/V, Mionetto DOC (Valdobbiadene);16,8;55
+355;Cabernet Sauvignon, Girard, 1996. (Napa Valley);23,9;56
+356;Evian;21,5;56
+357;Buffalo Chicken Wings, w. Beef Fried Rice;15,8;56
+358;Bife Di Churrasco SHELL CHURRASCO [grilled rump];16,9;56
+359;New York Sirloin Steak ;25,2;56
+360;Rib Tips w. Garlic Sauce w. French Fries;18,9;56
+361;House Special Chow Mein;21,4;57
+362;Beef Fried Rice;21;57
+363;FRIED ARTICHOKES ALLA GIUDEA;21,1;57
+364;Chardonnay, Iron Horse 95;24,7;57
+365;Muscat, Beaumes de Venise;33,9;57
+366;213- Riesling 1999, Chateau Montelena (California);22,3;57
+367;tempura of shrimp and japanese vegetables;27,9;57
+368;Asparagus salad with aromatic herbs and egg dressing;22,1;57
+369;Chicken w. Bean Curd;29,6;58
+370;Baklava;15,6;58
+371;Smoked Trout Pate with Croutons;22,5;58
+372;Jean Lallement: Champagne, Pinot Noir, Chardonnay;21,4;58
+373;Valpolicella, Quintarelli 1993;27,2;58
+374;Baked Potato;27,8;58
+375;Sauvignon Blanc, Babich;22,9;58
+376;Gulf Red Snapper;11,4;59
+377;Roast Pork Egg Foo Young;14,5;59
+378;Pouilly Fuisse, Les Chailloux, Philippe Forset, 1998 (Burgundy);8,4;59
+379;Fresh Iced Oysters;18,4;59
+380;Rib Tips w. Garlic Sauce w. Shrimp Fried Rice;11;59
+381;Sauvignon Blanc, Goldwater Dog Point, 1999, NZ (Wine Spectator Rating 90);16,8;60
+382;Cabernet Sauvignon, Pedroncelli Three Vineyards 1995 (Sonoma);17,3;60
+383;Wraps: W9  BBQ Chicken SautÃƒÂ©ed Onions & Peppers with a Pico de Gallo Salsa ... 6.25;10,9;60
+384;Unfiltered Apple Juice;14,8;60
+385;Banana Pie;10;60
+386;Sanka;12,8;60
+387;Mayacamas 1991, Napa;27,4;61
+388;Portuguese Fishermans Stew. Cod, Mussels, Clams and Chorizo in a Saffron Tomato Broth...Garlick Toasts;21,9;61
+389;GINGERED SPRING TOMATO BISQUE WITH BABY ROCK SHRIMP AND CRÃƒÂ¨ME FRAICHE;26,8;61
+390;Chardonnay, Ariel, N.V. 2% alcohol (California);21,5;61
+391;Half 2 lb Maine Lobster shrimp & scallops, accompanied with a selection of any four vegetables from our Antipasto Bar;20,2;61
+392;2001 The Vertical Limit: 1/2 bottle of 95, 96, 97 Opus One (3 1/2 Bottles);23,8;61
+393;Sauvignon Blanc Babich, 1997, New Zealand;29,7;62
+394;Soda (Can);17,6;62
+395;Cherries;21,8;62
+396;Big Muffins...1.65:  Honey Raisin Bran Ã¢Â€Â¢ Blueberry Ã¢Â€Â¢ Banana Nut Ã¢Â€Â¢ Carrot Ã¢Â€Â¢ Cranberry Orange Ã¢Â€Â¢ Corn Ã¢Â€Â¢ Apple Cinnamon Raisin Ã¢Â€Â¢ Lemon Popply Ã¢Â€Â¢ Almond Ã¢Â€Â¢ Chocolate Chip;24,5;62
+397;Botrytised Semillon, Chalk Hill (1/2 bot.) 94;31,8;62
+398;Sauvignon Blanc, Chateau Souverain;8,5;63
+399;Green Salad;16,3;63
+400;Fleurie, Clos de la Roilette, 1999. (Beaujolais);16,5;63
+401;Cabernet Sauvignon, Bodega Weinert, 1995. (Argentina);8,5;63
+402;Baby Back Pork Ribs ;8,8;63
+403;Seafood Combination A delightful blend of lobster meat, shrimp, scallops sauteed w. mixed Chinese vegetable.;14,9;63
+404;Roast Pork Mei Fun;18,8;63
+405;Bisque de Homard;13,4;63
+406;Macon Villages, Bourdon V. Vignes  1996;13,1;63
+407;Creamed Spinach;20,1;64
+408;Young Chow Fried Rice;18,9;64
+409;Fried Scallops (10) w. Beef Fried Rice;27,4;64
+410;Chianti Classico, Remole, Frescobaldi;20,4;64
+411;SAUTEED ARTICHOKE WITH BASIL Artichoke, Tomato and Soy Protein in a Black Bean Sauce Seasoned with Basil (Taro Spring Roll, Brown Rice);24;64
+412;Zwetschgenwasser;21,4;64
+413;Pinot Noir Saintsbury Garnet, 1996, Carneros;24,4;64
+414;Wor Shu Duck (Boneless) Long Island crispy duck & roast pork w. Chinese vegetables.;16,4;64
+415;Wonton w. Egg Drop Soup;27,8;65
+416;Specialty Sandwiches: #4  Roasted Chicken:  Goat Cheese, Basil & Roasted Red Onions with a Rosemary Herb Dressing on Seeded Italian ... 6.25;20,3;65
+417;Cinnamon Sticky Buns ...2.25;16,7;65
+418;Brundlmayer: Austria, Pinot Noir, Pinot Blanc;23,1;65
+419;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini;20,1;65
+420;Cabernet Sauvignon, Duckhorn, 1986. (Napa Valley);20,1;66
+421;Joes Blackened Grilled Potatoes;16,9;66
+422;Specialty Sandwiches: #7  Smoked Breast of Turkey:  Jarlsberg Cheese, Crisp Romaine, Plum Tomato & Caesar Dressing on Tuscan Ciabatta Bread ... 6.25;20,1;66
+423;Pacific Sea Bass Asian Style with angel hair pasta, clams, black bean sauce;18,5;66
+424;GRILLED AHI TUNA ON BRAISED SHIITAKES WITH WILTED FRISEE AND A CRACKED MUSTARD INFUSION SAUCE, BASIL AIOLI;9,7;66
+425;ORANGE BEEF;18,2;67
+426;Main Courses with House Salad (balsamic vinaigrette, sesame tamari, honey bleu cheese or ranch dressing) add $1.00;8,2;67
+427;Brie;8,5;67
+428;2005 CLARET Napa Valley Newton;16,9;67
+429;Crispy Chicken Wings w. Garlic Sauce, w. Pork Fried Rice;12,4;67
+430;Watermelon;15,5;67
+431;Espresso*;14,6;67
+432;Beef w. Broccoli;10,1;67
+433;Chicken w. Broccoli in Garlic Sauce;11,2;67
+434;CÃƒÂ´te de bÃ…Â“uf with haricot verts and Balthazar onion rings - for two;10,2;68
+435;Roquefort Dressing;10,1;68
+436;CABERNET OF EGER 93, Lauder/Lang Vineyards;9,6;68
+437;Gewurztraminer, Cote de Rouffach, Mure, 1998 (Alsace);11;68
+438;Subgum Shrimp Chow Mein;8,9;68
+439;CONSOMME, HOT;11,2;68
+440;Upside Down Tuna Tarte - with fennel, Japanese cucumber and aÃƒÂ¯oli;12,9;68
+441;Specialty Sandwiches: #11  Grilled Vegetables:  Zucchini, Eggplant, Slow Roasted Tomato, Tarragon Dressing on French Baguette ... 5.75;11,4;68
+442;Crispy red corn relleno filled with Isacs roasted duck and black bean mole, jalapeno - mango salsa and crÃƒÂ¨me fraiche.  Eight Fifty;19,8;69
+443;THE ORIGINAL ILONA TORTE;19,7;69
+444;Plain Lobster Sauce;23,5;69
+445;Cabernet Sauvignon, Seven Oaks, J. Lohr;20,8;69
+446;Pork w. Broccoli;16,6;69
+447;Fresh Shrimp Fried Rice;29,8;69
+448;tempura of shrimp and japanese vegetables;19,1;69
+449;Pomerol, Chateau Lagrance 94;23,9;70
+450;Gavi di Gavi Barrique, La Guardia;27,9;70
+451;Chianti Classico Riserva, Villa Antonori 1995 (Tuscany);20,6;70
+452;Trout Provencal. Sauteed with diced Tomatoes, Mushrooms and Garlic...with Rice;20,3;70
+453;Fried Chicken Nuggets (12) w. Chicken Fried Rice;20,4;70
+454;Lobster Bisque;22,1;70
+455;Barbera DAsti, Camp Du Rouss, Coppo, 1997. (Piedmont);19,4;71
+456;Roast Pork w. Broccoli;24,7;71
+457;Pork w. String Beans;18,3;71
+458;Egg mayo;15,3;71
+459;Margherita Pizza - tomato, mozzarella & basil;25,2;71
+460;Terrine de canard;17,7;71
+461;Home made Ice Cream;23;72
+462;VEAL CHOP red peppers & rosemary potatoes;29,7;72
+463;GRILLED ATLANTIC SALMON grilled summer vegetables;29,6;72
+464;Steak au Poivre with pommes frites and spinach;24,3;72
+465;Plain Broccoli;28,8;72
+466;Roast Monkfish with Porcini & Parsley;27,7;73
+467;Calvados Busnel Hors dAge;21,8;73
+468;112- Veuve Cliquot Brut N/V;27;73
+469;Insalata Tre colori ENDIVE, ARUGOLA & RADICCHIO;18,3;73
+470;Ribeye with fries;26,9;74
+471;Mussels Au Gratin. With garlic;30,3;74
+472;Roast Pork w. Mixed Veg;29,2;74
+473;Merlot, Madame Costeau;18,4;74
+474;Vouvray, Domaine Bourillon Dorleans, 1999. (Loire Valley);16,3;74
+475;Banana Pie. Banana with Non-Dairy Yogurt/Shredded Almond;19,7;74
+476;Joes Sizzling Chicken Fajitas;28,6;74
+477;Ribeye Steak Frites - Redeye potatoes, and string beans;25,9;74
+478;Henry Varnay: Saumur, Chenin Blanc;17,7;74
+479;Ravioli Di Carne Aurora FILLED WITH MEAT SAUCE, RICOTTA CHEESE & TOMATO SAUCE;25,9;75
+480;Burger;21,8;75
+481;Daurade tartare, extra virgin olive oil;19,7;75
+482;Sangiovese, Il Merlotto, Il Vescovino. 1994 (Tuscany);26,6;75
+483;Moo Shu Pork w. 4 Pancakes;29,2;76
+484;White Wine by the Bottle: Chardonnay Winemakers Reserve, Lindemans, Padthaway, Australia 1997;18,4;76
+485;Barbueced Spare Ribs;26,9;76
+486;Sides;19,5;76
+487;Strawberry Italian Soda;29,3;76
+488;Slow Poached Farm Egg In a Jar- with Maine lobster, crosnes and sea urchin froth;23,9;76
+489;Hazelnut Italian Soda;27,5;76
+490;Sauvignon Blanc, Honig, 1999 (Napa Valley);31,9;77
+491;Domaine St. Michelle, Brut NV;20;77
+492;Fried Vegetable Dumplings (8);31,5;77
+493;Crab Roll. Maine Crab Salad in a warm buttery New England Bun...with Fries;21,2;77
+494;Roasted Beets;22,8;77
+495;VEAL CHOP PARMIGIANA (house specialty);17,4;77
+496;Salad;25,9;78
+497;Spicy Shandong Baked Bluefish. With Sugar Snap peas and Jasmine Rice;18,5;78
+498;Byron, Pinot Noir, Santa Maria Valley, USA 1997;22,5;78
+499;Lobster Roll. Fresh Lobster Meat from a stemed 1-1.25 lb. Lobster...cold, creamy Lobster Salad in a toasted Bun...with French Fries;26;78
+500;PINOT GRIS, CHALK HILL 95;18,4;78
+501;Smoked Salmon & Pastrami SalmonÃ¢Â„Â¢ with Blini, Quail Eggs & Horseradish CrÃƒÂ¨me FraÃƒÂ®che;22,8;78
+502;Mahi Mahi;19,6;78
+503;Moo Shu Chicken w. 4 Pancakes;26,3;78
+504;Hunan Beef;30,1;78
+505;Spring Water ... 1.50/2.50;15,5;79
+506;Consomme, Cold;20,2;79
+507;Roast Pork w. Mixed Vegetables;10,8;79
+508;Duchess potatoes;13,2;79
+509;Quady Essensia 95;15;79
+510;Rosso Del Conte, Regaleali 92;12,5;79
+511;CABERNET SAUVIGNON, ALTAMURA 94;17,7;79
+512;Chicken Finger;20,2;79
+513;Lobster and Ravioli;15,3;80
+514;mesclun salad with sesame leaf and watercress;17,8;80
+515;Capellini Primavera ANGEL HAIR WITH MIX VEGETABLES;18,6;80
+516;Pork w. Mixed Veg;23,4;80
+517;Salade NiÃƒÂ§oise with fresh seared tuna ;26,2;80
+518;Insalata Di Gamberi e Avocado SHRIMP WITH AVOCADO, LEMON, HERBS & DRESSING;18,3;80
+519;Kenwood 96 Sauvignon Blanc (Sonoma);19,1;80
+520;After 10 pm- American Cheese Burger bacon, crispy onions & fries;19,2;81
+521;Ravioli Di Carne Aurora FILLED WITH MEAT SAUCE, RICOTTA CHEESE & TOMATO SAUCE;17,1;81
+522;Chardonnay, Markham;17,4;81
+523;Calamari. Regular or Spicy;20,1;81
+524;CHABLIS, DOMAINE CHANTEMERLE BOUDIN 96;21,5;81
+525;Chardonnay, Hess Select, 1999, (California);14,8;81
+526;Groth, Chardonnay, Napa Valley, USA 1998, bottle;15,7;81
+527;Chicken w. Garlic Sauce;14,6;82
+528;China Black Iced Tea;19,7;82
+529;Sandeman Don Fino Dry Sherry;13,3;82
+530;Beef w. Chinese Vegetable;18,4;82
+531;Banoffee;20,7;82
+532;Cabernet Sauvignon, Rabbit Ridge;15,7;82
+533;Shellfish Platter;17,3;82
+534;Grilled Brook Trout over a warm spinach, walnut and lentil salad ;14,4;82
+535;Fried Scallops (10) w. Plain Fried Rice;16,2;82
+536;Fried Chicken Wings (4) w. French Fries;20,5;83
+537;Semillon, Barrel Fermented, Signorello, 1997 (Napa Valley);21;83
+538;Merlot,  Casa Julia;20,4;83
+539;Chicken w. Garlic Sauce;21,1;83
+540;Cosentino 1995, Carneros;33,4;83
+541;Baked Idaho Potato;19,6;83
+542;Chicken Piccata;24,8;83
+543;Clay Pot Roasted Baby Chicken, carrots, zucchini, peppers & roasted potatoes;30,6;84
+544;KRUG, GRANDE CUVEE, BRUT CHAMPAGNE NV;23,4;84
+545;Steamed Dumpling (8);31,7;84
+546;Steamed Vegetables;20,1;84
+547;Broccoli Rabe;19,2;85
+548;La Chiripada 97 Reserve Riesling (NM);13,4;85
+549;OMaras Irish Country Cream Latte;24,6;85
+550;Pork w. Broccoli;16,8;85
+551;Chateauneuf du Pape La Nerthe, 1995;15,2;85
+552;Lobster Chow Mein;21,5;85
+553;Fresh Seasonal Succotash;16;85
+554;Rob Roy;24;85
+555;Beefsteak Tomato and Mozzarella;25,1;86
+556;CABERNET SAUVIGNON, Rutherford, Beaulieu;20,1;86
+557;Chicken Noodle Soup;29,1;86
+558;Graves;20,3;86
+559;Chalk Hill Chardonnay, 1995, Chalk Hill;28,8;86
+560;Assorted Smoked Salmon & Shrimp;28,6;86
+561;Torres 95 Sangre de Toro Crianza (Spain);22,2;87
+562;Haddock Loin;29,7;87
+563;Scheurebe, Forster Ungeheuer Spatlese, E. Muller, 1997 (Pfalz);27,6;87
+564;Plateaux de Fruits de Mer;22,2;87
+565;Costilla Di Cerdo GRILLED PORK CHOP;14;88
+566;Pan fried john dory filets on Isreali cous cous with fresh organic black berries and champagne butter sauce.  Twenty Six;15,8;88
+567;spiced tuna tartare and tuna sashimi roll;10,5;88
+568;Fried Chicken Nuggets (12);13,3;88
+569;Seafood Linguini - lobster, salmon, shrimp, clams, snapper, mahi mahi;11,6;88
+570;RIESLING, DOMAINE PAUL BLANCK 96;10,6;88
+571;Chardonnay, Logan Sleepy Hollow Vineyard, 1998, Monterey;22,6;89
+572;Jalapeno Smoked Salmon ;16,7;89
+573;Moo Shu Vegetable w. 4 Pancakes;22,5;89
+574;Scallop w. Broccoli;24,4;89
+575;tataki of tuna with fennel and gingered ponzu;24,2;89
+576;Gavi di Gavi Barrique, La Guardia;24,4;89
+577;Homemade Iced Tea  or Lemonade ... 1.65/1.95;24,9;90
+578;Gewurztraminer Fieldstone 1996, Sonoma;21,6;90
+579;Bar-B-Q Spare Rib Tips;22,4;90
+580;Spinach Wonton Soup;18,9;90
+581;Byron, Pinot Noir, Santa Maria Valley, USA 1997;30,1;90
+582;Orangina ... 1.50;30,2;90
+583;Wraps: W8  Roast Beef, Vermont Cheddar, Watercress, SautÃƒÂ©ed Onions with a Ginger Sesame Dressing ... 6.25;18,3;90
+584;Steamed Vegetable Dumplings (8);30;90
+585;Fresh dungeness crab cake with honey brown onion compote red pepper garlic mayonaise and balsamic reduction.  Twelve;18,7;90
+586;Quady Essensia 95;33,2;91
+587;NY Pastrami Smoked Salmon Club Sandwich - potato and haricot-vert salad with Pommery mustard dressing;21;91
+588;Duck Shepherds Pie;25,9;91
+589;Banana Pie. Banana with Non-Dairy Yogurt/Shredded Almond;18,3;91
+590;Fish & Chips. Regular or Spicy;28,6;91
+591;Chardonnay, Glass Mountain;29,1;91
+592;Caramelized Sweetbread Tartlette with Black Truffles & Onions;23;91
+593;Moulin-a-Vent Cuvee Vielles Vignes, Domaine Diochon, Beaujolais, France 1999, bottle;25,2;91
+594;RIGATONI eggplant, portobellini mushrooms, tomato & ricotta sarda;31;91
+595;Pan Fried Scallops with Anchovy, Capers & Lemon;9,2;92
+596;Cotes du Rhone, Rasteau, J. Bressy, 1998 (Rhone);13,3;92
+597;Kung Po Shrimp;14,6;92
+598;Spare Rib Tips;11;92
+599;SHEPHERDS PIE CROQUETTES Minced Vegetables Surrounded by Mashed Potatoes in a croquette (Basil Moo Shu Roll, Pickled Cabbage);20,1;92
+600;Filet Mignon  ;8,9;92
+601;LONG-STEM DRISCOLL STRAWBERRIES DIPPED IN CHOCOLATE;13,4;92
+602;Fried Shrimp (15) w. Chicken Fried Rice;18,7;92
+603;Cappuccino;30,1;93
+604;Scallop & Chicken Sliced chicken & round scallops sauteed w. snow pea pods, baby corn, straw mushroom in brown sauce. A real treat!;24,7;93
+605;HARVEST DELIGHT SALAD Medley of Eggplant, Sweet Peppers, String Beans, Carrots and Cashews Marinated in a Vinaigrette Dressing (Basil Moo Shu Roll, Brown Rice);23,5;93
+606;Penne A la Vodka PENNE IN PINK SAUCE FLAMED WITH VODKA;30,2;93
+607;Wraps: W7  Chicken Caesar Wrap, Grilled Chicken, Shaved Romano Cheese, Hearts of Romaine and Caesar Dressing ... 6.25;22,4;93
+608;Zinfandel, Clos Du Bois;28,9;93
+609;Chenin Blanc, Pine Ridge, 1999 (Napa Valley);28,2;93
+610;ORANGE BEEF;20,4;93
+611;Grilled ahi tuna on braised shitakes with wilted frisee and a cracked mustard infustion sauce, basil aioli.  Twenty Four;15,3;93
+612;Pinot Grigio Kettemeir, Italy, 1996;25;94
+613;Fried Chicken Wings (4) w. Shrimp Fried Rice;22,6;94
+614;Brandade de Morue;23,4;94
+615;Smoked Chub Fillet;25,6;94
+616;Cuvaison, Chardonnay, Carneros, USA 1999;18,7;94
+617;Coconut Shrimp Jumbo shrimp, battered and dipped in shredded coconut, fried golden brown and served with a Chinese pesto dipping sauce, pineapple chutney, yogurt cucumbers and steamed rice;18,1;95
+618;Knudsen Erath 1995, Oregon;12,3;95
+619;Shafer Stags Leap District 1994, Napa;12,7;95
+620;Hot Fudge Sundae;12;95
+621;Wraps: W2  Thai Chicken Chopped Lettuce, Shaved Carrots with a Lemongrass Dressing ...6.25;17,8;95
+622;Cabernet Sauvignon, Seven Oaks, J. Lohr;16,1;95
+623;Joes Deep Dish Apple Pie ;18,6;95
+624;Sauternes;19,3;95
+625;Great Western, Extra Dry;8,7;95
+626;Chardonnay, Reserve St. Martin, 1999, (vin de pays doc);24,5;96
+627;AMERICAN CHEESE;28;96
+628;Kistler 1996, Sonoma;23,7;96
+629;Zinfandel, Clos Du Bois;21,7;96
+630;Chocolate Pecan Bar;19,5;96
+631;Boston Cream Pie;20,8;96
+632;ONION SOUP gratinee;15,9;97
+633;Tuna Spring Roll;22,5;97
+634;MENETOU SALON, CLOS BLANCHAIS, HENRY TELLE 96;18,4;97
+635;Filet Mignon, grilled filet of beef tenderloin accompanied by a brandy, shiitake mushroom cream sauce, served with rosemary roasted new potatoes and fresh vegetables;24,3;97
+636;Redeye Grill Hamburger - Monterey Jack cheese, shoestring potatoes, tomato, onion, and pickle;19;97
+637;Beef w. Mixed Vegetables;17,9;97
+638;Fegatini di Pollo chicken livers & crostini served hot in a clay pot;26;97
+639;Grilled Chicken Sandwich. Topped with melted Cheese and crisp Bacon;16,7;97
+640;Grilled Chicken Sandwich. Topped with melted Cheese and crisp Bacon;19,4;97
+641;Clam Fritters. With Bacon...Roasted Red Pepper Sauce. Great with Chowder!;22,8;98
+642;Steak Frites Italian Style (House Specialty) fresh porcini;26,7;98
+643;Fried Chicken Wings (4) w. Beef Fried Rice;17,6;98
+644;Country Mashed Potatoes, skin on;28,5;98
+645;Open Grilled Cheese Sandwich with Tomato and Bacon;20,2;98
+646;Stonestreet, Alexander Val. 1994, Napa;14,9;99
+647;Shrimp Cocktail ;12,8;99
+648;Haricots Verts frais;16,5;99
+649;Sauvignon Blanc, Cakebread 97;17,8;99
+650;Chianti Classico, Remole, Frescobaldi;11,7;99
+651;LOBSTER RAVIOLI, shellfish jus;21,8;100
+652;Oysters Legal. Baked with Spinach, Cheese & Crumbs;28,6;100
+653;Cherries;15,2;100
+654;Apple Fruit Spritzer - Apple juice, club soda & a twist of lime;20,5;100
+655;GRILLED LARGE SHRIMP with vegetable risotto;20,8;100
+656;Sanka;20,1;100
+657;Pinot Grigio Kettemeir, 1996, Italy;25,3;100
+658;Topi-Maki and Mixed Salad;29;100
+659;Scallop w. Garlic Sauce;26,1;101
+660;2004 SAUVIGNON Western Cape Sincerely Neil Ellis;20,1;101
+661;Pinot Noir, Quail Hill Vineyard, Lynmar, 1999 (Sonoma);16,6;101
+662;Roasted Chicken and Wild Greens;19,2;101
+663;Avocado Stuffed with Crabmeat;22,7;101
+664;OYSTERS:  Malpeque   ;29,5;101
+665;Kung Po Baby Shrimp;18;101
+666;Mixed Vegetable Chow Fun;26,9;101
+667;Asian Chicken Salad  ;30,5;101
+668;HERBED GARLIC AND GOAT CHEESE FETA BEIGNET ON FRESH ORGANIC FIELD GREENS TOSSED IN A GOLDEN APPLE VINAIGRETTE WITH BUTTERED CANDIED MACADAMIA NUTS;26,1;102
+669;Pork w. Mixed Veg;29,8;102
+670;DAVES PASTA vegetarian style with marinated tofu;28;102
+671;Sauvignon Blanc Babich, 1997, New Zealand;24,5;102
+672;Chenin Blanc, Pine Ridge, 1999 (Napa Valley);22,9;102
+673;Champagne Cassis (Kir Royale) aperitif;19,1;102
+674;Pacific Sea Bass Asian Style with angel hair pasta, clams, black bean sauce;24,2;102
+675;Slow Poached Farm Egg In a Jar- with Maine lobster, crosnes and sea urchin froth;27,5;102
+676;Seafood Combination A delightful blend of lobster meat, shrimp, scallops sauteed w. mixed Chinese vegetable.;18,6;102
+677;Delamain XO;28;103
+678;Roasted Fennel Ravioli with tomato, pesto and crispy Parmesan ;27,2;103
+679;Pinot Grigio, J. Tiefenbrunner 1996 DOC (Trentino);19,2;103
+680;Warm asparagus, vinaigrette;21,8;103
+681;Dry Sauteed String Bean (meat);29,2;103
+682;Fresh Black Squid Ink Linguini with shrimp in spicy marinara sauce;29,1;103
+683;Dim Sum (6);27,8;103
+684;Fume Blanc, Ferrari-Carano, 1999 (Sonoma);21;103
+685;Dr. Pepper;27,8;103
+686;Broccoli Rabe;28;104
+687;Muskat, Haardt Burgergard Kabinett, Muller-Catoir, 1996 (Pfalz);28,3;104
+688;Cappuccino;26,6;104
+689;Mexicano - latte, chocolate sauce & whipped cream;18,8;104
+690;Fried Smelts. Butterflied and Boneless;21,8;104
+691;SOFT SHELL CRAB (in season);23,8;104
+692;Smirnoff;26,5;104
+693;Char-grilled cold water lobster tail on herb spun angel hair with a srirachi garlic viniagrete.  Thirteen;27,6;105
+694;Southwestern Chicken Salad:  Cajun Chicken, Corn Salad, Black Bean Salsa over Mixed Greens ... 5.95;30,4;105
+695;Loup de Mer - with cockles and organic vegetables in its own broth;18,4;105
+696;FETTUCINE AL FRESCO Bucheron goat cheese, fresh tomato & basil;17,3;105
+697;SZECHUAN SPARE RIBS Chunks of spare ribs delicately sauteed in chefs special sauce w. broccoli;28,5;105
+698;Diver Sea Scallops, sauteed vegetables & lentil salad;25,8;105
+699;Fried Chicken Wings (4) w. Beef Fried Rice;22,2;105
+700;Taro Spring Roll (2);34,1;105
+701;Pork w. Broccoli;22,7;106
+702;Pinot Noir Talus, 1995, California;25,3;106
+703;Framboise;15,6;106
+704;Shoestring Potatoes;14,2;106
+705;Apples;17,2;106
+706;wakame and cucumber salad with ume and shiso;15,5;106
+707;Saint-Romaine, Sous le Chateau, V. Girardin, 1999. (Burgundy);20,4;106
+708;Orange Spice Tea;19,7;107
+709;Cabernet Sauvignon, Girard, 1996. (Napa Valley);28,7;107
+710;Consomme, Cold;29,7;107
+711;Pineapple Chicken;28,9;107
+712;Chicken Rice Soup;19,2;107
+713;Pinot Noir, Chalone, 1999. (Monterey);22,1;107
+714;Barbueced Spare Ribs;27;107
+715;Fettuccine Carbonara FETTUCCINE WITH BACON, CHEESE, ONIONS & EGG;16;107
+716;Chicken Yaga Mein;10,1;108
+717;Kunde 96 Chardonnay (Sonoma);19,8;108
+718;Rib Tips w. Garlic Sauce;18,1;108
+719;AMERICANO;11,1;108
+720;Hot & Spicy Chicken;16,8;108
+721;Cinzano Bianco Vermouth - on the rocks with a slice of lemon;12,7;108
+722;Egg Rolls;8,5;108
+723;STEAK TARTARE, THE CONVENTIONAL WAY OR LIGHTLY SEARED;9,4;109
+724;French Fries;15,6;109
+725;Chef Salad: Swiss and Cheddar Cheeses, Turkey Breast, Roast Beef, Ham, Lettuce, Choice of Dressing;12,6;109
+726;Cappuccino*;17,1;109
+727;Little Neck Clams;12,5;109
+728;Shrimp w. Hot Spicy Szechuan Sauce;20,2;109
+729;Apple Fruit Spritzer - Apple juice, club soda & a twist of lime;13;109
+730;2001 The Vertical Limit: 1/2 bottle of 95, 96, 97 Opus One (3 1/2 Bottles);17,4;109
+731;Sauvignon Blanc, Cakebread 97;12,3;109
+732;Cheeseburger;13,8;110
+733;A Snifter of Marc with biscotti;15;110
+734;SPAGHETTI MEAT BALLS;21,3;110
+735;Roast Pork Fried Rice;16,1;110
+736;Six Smoked Fish Assortment;22,3;110
+737;Poached Red Snapper in a Saffron Broth served with Baby Vegetables;24;110
+738;Penne Al Pesto pine nuts, basil & parmigiano;14,6;110
+739;Grgich Hills 1995 Napa;19;110
+740;Merlot, Ecco Domani;23,1;110
+741;Scallop w. Broccoli;18,3;111
+742;Creme Soda;19,4;111
+743;Bar-B-Q Spare Ribs;26,7;111
+744;Assorted Fruit Topped Danish ...1.60;20,6;111
+745;Gouden Carolus ;28,7;111
+746;Coteaux du Languedoc, Prieure De St-Jean De Babian 1996 (Languedoc);24,8;111
+747;Green Tea Ice Cream;24,8;112
+748;Shrimp w. Broccoli in Garlic Sauce;22,9;112
+749;Sweet & Sour Pork;26,8;112
+750;Manhattan;20,1;112
+751;Grilled Lamb Chops - mashed potato, haricot vert, and a garlic wine sauce;18;112
+752;Caesar Salad with Cajun Shrimp. Fresh Romaine tossed with Ceasar Drissing, Croutons;22,7;112
+753;Warm Goat Cheese and Grilled Vegetable Salad  ;33,8;112
+754;Margherita Pizza - tomato, mozzarella & basil;28,5;112
+755;Pinot Grigio, Campanile;32,4;112
+756;Cabernet Sauvignon, Girard, 1996. (Napa Valley);22;113
+757;LONG-STEM DRISCOLL STRAWBERRIES DIPPED IN CHOCOLATE;16,1;113
+758;ENDIVE SALAD WITH GRAPES, PEARS, WALNUTS AND CRUMBLED STILTON;30,5;113
+759;Trancio Di Pesce Spado A La Livornese SAUTEED WITH ANCHOVIES, GREEN AND BLACK OLIVES, CAPERS, WHITE WINE & A TOUCH OF TOMATO SAUCE;18,8;113
+760;Warm Goat Cheese and Grilled Vegetable Salad;22,1;113
+761;660 Kracher #12 Trockenbeerenauslese 1995 Grand Cuvee;19,3;113
+762;Hazelnut Italian Soda;23,7;113
+763;Mesclun Salad*;16;113
+764;Mixed Vegetable Egg Foo Young;16,6;113
+765;CABERNET OF EGER 93, Lauder/Lang Vineyards;27,5;114
+766;Soda (Can);20,1;114
+767;The Redeye Platter - chefs selection of maki rolls and smoked fish;20,4;114
+768;Steamed Broccoli...With or without Cheese;18,8;114
+769;Veuve Cliquot, La Grande Dame, 1989;25,6;114
+770;Lobster Lo Mein;25,2;114
+771;Barolo, Sigillo dAbate Rsv, 1991;20,6;114
+772;OYSTERS:  Malpeque   ;35,3;114
+773;Sangiovese 1997, Showket (Napa);24,3;114
+774;Snapple ... 1.50;17,4;115
+775;Shafer Stags Leap District 1994, Napa;10,7;115
+776;Taylor Fladgate 40 yr;15;115
+777;Chocolate Raspberry Cake;16,6;115
+778;Rigatoni with pancetta, chicken, tomato, and onion;11,4;115
+779;Domaine Carneros, Brut, 1992, Napa;16,3;115
+780;Croissant...1.25;16,5;116
+781;Eggs Benedict;13,4;116
+782;Baked Stuffed Shrimp. Baked with a buttery Crabmeat Stuffing...choice of one Side;19,7;116
+783;STURGEON SCHNITZEL, OUR SPECIALTY, WITH CUCUMBER SALAD AND SAUCE REMOULADE;24,8;116
+784;Mixed Green Salad- with Coach Farms triple creme goat cheese, toasted pumpkin seeds and apple cider vinegar;15,1;116
+785;Shrimp & Chicken, Hunan Style Jumbo shrimp & chicken sauteed w. baby corn, straw mushrooms, red pepper & garden vegetable in Hunan style.;22,3;116
+786;Canoe Ridge, Merlot, Columbia Valley, USA 1997;19,2;116
+787;Puligny-Montrachet, Chanson 1995;29,6;117
+788;Margherita Pizza;16,3;117
+789;Main Courses with Soup (see specials page for todays soup selections), add $1.50;30,4;117
+790;China Black Iced Tea;30,1;117
+791;Riesling Kabinett, Johbrg Vogelsang, H.H. Eser/Johannishof, 1998 (Rheingau);18,5;117
+792;Chocolate Mousse;28,6;117
+793;Fortune Cookies;27,9;117
+794;Jarvis 1994, Napa;27,4;117
+795;Vouvray, Domaine Bourillon Dorleans, 1999. (Loire Valley);16,6;117
+796;Pan fried john dory filets on Isreali cous cous with fresh organic black berries and champagne butter sauce.  Twenty Six;13,2;118
+797;Caymus Special Select, 1994;14,2;118
+798;SALADE NICOISE WITH FRESH TUNA AND PEELED JERSEY TOMATOES;13,9;118
+799;Shrimp w. Mushrooms;14;118
+800;Cabernet Sauvignon, River Oaks;16,3;118
+801;Roll Mops;17,4;119
+802;BEVERLYS LEMON CRUMB CAKE;11,2;119
+803;Spice-Crusted Colorado Lamb Loin - with shank and manchego cheese gratin and pomegranate reduction;14,4;119
+804;Marinated Black Fig Salad with Thyme & Parmesan;15;119
+805;Filet Mignon of Yellowfin Tuna (House Specialty) seared rare with artichoke lentil salad;10,4;119
+806;First Class Platter -  half a 1 1/2 lb. lobster, shrimp, assorted smoked salmons, sturgeon with truffle oil and two salads;16,1;119
+807;Mixed field greens in a sherry vinaigrette;33,1;120
+808;Fried Chicken Wings (4) w. Beef Fried Rice;25,6;120
+809;Oakford 1991/93, Napa;21,3;120
+810;Manhattan;21,4;120
+811;Fresh Fruit Cup;28,5;120
+812;Steamed Brown Rice;26,4;120
+813;Classic French Apple Tart, Vanilla Ice Cream;20,2;120
+814;Bourgogne Blanc, Poncet 1994;25,4;120
+815;Roasted Fennel Ravioli with tomato, pesto and crispy Parmesan;26,7;120
+816;Shrimp w. String Bean;19,3;121
+817;Pancetta-Wrapped Baby Squid - with black rice cake, rosemary and saffron;24,6;121
+818;Valpolicella, Quintarelli 1993;16;121
+819;Duck Confit with crispy potatoes, wild  mushrooms and frisÃƒÂ©e salad;17,9;121
+820;CONSOMME, HOT;14,1;121
+821;Fried Wonton (12);24,4;121
+822;HOT FUDGE NAPOLEON;15,8;122
+823;Veal Marsala, portobellini & porcini mushrooms;22,3;122
+824;Merlot 1999, Bogle (California);26,1;122
+825;CHILLED BUTTERNUT SQUASH SOUP WITH DILL;25,1;122
+826;Hot Sandwiches #24  Oven Baked Eggplant, Fresh Mozzarella Cheese, Basil Marinara Sauce & Arugula served on a Sourdough Hero ... 5.95;17,1;122
+827;San Felipe Style Fish Tacos, fresh whitefish, Daves secret sauce, cabbage, pico de gallo, and white and yellow cheddar served in 2 soft corn tortillas and accompanied by guacamole, cilantro rice and pinto beans;26,5;122
+828;PLUM TORTE;18,7;123
+829;LONG-STEM DRISCOLL STRAWBERRIES DIPPED IN CHOCOLATE;15,8;123
+830;The Frogs Flight: Foxen Chenin Blanc, Logan Chardonnay, Danzante Pinot Grigio;11,6;123
+831;Bronx: Gin, Dry & Sweet Vermouth, OJ & Bitters;16,9;123
+832;Chargrilled Rack of Lamb with Fried Green Tomatoes;15;123
+833;Calvados Busnel VSOP;8,7;123
+834;ASSORTED ITALIAN SAUSAGES & POLENTA tomato & parmigiano gratine;15,7;123
+835;Irish Cream Italian Soda;13,1;123
+836;Specialty Sandwiches: #16  Roast Beef: Vermont Cheddar, Leaf Lettuce, Plum Tomato, No Fat Russian Dressing on French Baguette ... 6.25;20,8;124
+837;Oranges;21,9;124
+838;Steamed Mixed Vegetables w. Shrimp;26,4;124
+839;ginger creme brulee;22,9;124
+840;Chargrilled Burger with Roquefort Cheese & Shoestrings;18,3;124
+841;Chicken Mulligatawny;27,2;124
+842;Brunello Di Montalcino, Altesino 1993 DOCG (Tuscany);22,7;124
+843;Grilled Chicken Salad;21,6;124
+844;Cranberry Fruit Spritzer - Cranberry juice, club soda & a twist of lime;17,2;125
+845;Veuve Clicquot, Yellow Label, Brut NV;10;125
+846;Big Muffins...1.65:  Honey Raisin Bran Ã¢Â€Â¢ Blueberry Ã¢Â€Â¢ Banana Nut Ã¢Â€Â¢ Carrot Ã¢Â€Â¢ Cranberry Orange Ã¢Â€Â¢ Corn Ã¢Â€Â¢ Apple Cinnamon Raisin Ã¢Â€Â¢ Lemon Popply Ã¢Â€Â¢ Almond Ã¢Â€Â¢ Chocolate Chip;10;125
+847;GRAVLAX SALMON, DILL-MARINATED;8,5;125
+848;Beaujolais Brouilly, Chateau de la Chaize 1996 (Burgundy);10,4;126
+849;Duck Egg with Tuna Bottarga;9,4;126
+850;Cappucino;12,7;126
+851;Roast Pork w. Snow Pea Pods;12,7;126
+852;Cabernet Sauvignon, Girard, 1996. (Napa Valley);13;126
+853;MARYLAND CRAB CAKE;15,1;126
+854;Robert Mondavi Fume Reserve, 1995, Napa;8,9;127
+855;La Chiripada Vino Sonrojo (NM);8,7;127
+856;Pinot Nero, Riserva 1995, J. Hofstatter (Alto Adige);16,1;127
+857;Roast Pork w. Brococli;13,9;127
+858;Pan Fried Scallops with Anchovy, Capers & Lemon;24,7;128
+859;Mixed Green Salad- with Coach Farms triple creme goat cheese, toasted pumpkin seeds and apple cider vinegar;13,5;128
+860;Dubonnet;22;128
+861;Rice Pilaf with Orzo;16,4;128
+862;Moo Shu Chicken w. 4 Pancakes;13,8;128
+863;Stags Leap 1995, Napa;24,7;128
+864;Cherry Italian Soda;23,7;128
+865;Seasonal Berries;17;129
+866;Honig Reserve, Sauvignon Blanc, Napa Valley, USA 1997;16,1;129
+867;Littleneck Clams on Ice;18;129
+868;Moo Shu Pork w. 4 Pancakes;17,4;129
+869;SautÃƒÂ©ed Skate with haricots verts, shallots, chives and a hazelnut brown butter ;20,1;129
+870;Half-Sandwich (Curried Chicken Salad) and Soup of the Day;22,6;129
+871;Primitivo, A. Mano;20;130
+872;Filet Mignon 8 oz. ;17,1;130
+873;Arugula Salad chopped tomato, fennel, shaved parmigiano;15,1;130
+874;Crozes-Hermitage, Vidal Fleury, 1994;8,3;130
+875;Mexicano - latte, chocolate sauce & whipped cream;16,3;130
+876;Creamed Spinach;20,2;131
+877;Scampi Shrimp and Garlic with White Wine, Tomatoes and Mushrooms over Linguine;20;131
+878;Framboise;17,2;131
+879;Pu Pu Plater (For 2);10,8;131
+880;Kiwi Mineral Water;15,6;131
+881;Warm Goat Cheese and Grilled Vegetable Salad  ;16,3;131
+882;Caramelized Sweetbread Tartlette with Black Truffles & Onions;13,6;131
+883;Pinot Noir, Pedroncelli;17,7;131
+884;Garden Salad. Crisp Greens with Carrots, Peppers, Cucumbers and Cherry Tomatoes ... Sm. 2.25 ... Lg. 4.25;12,7;131
+885;Steamed Broccoli w. Chicken;18,8;132
+886;White Wine by the Bottle: Nosiola, Pojer & Sandri, Trentino, Italy 1997;30,2;132
+887;Fresh Squeezed OJ or Grapefruit Juice   Small ...1.75  Large ...2.95;32,3;132
+888;STILTON CHEESE & WALNUTS WITH A GLASS OF PORT WINE;31,8;132
+889;Gordons Gin;19,3;132
+890;Geyser Peak 1996, Sonoma;33,6;132
+891;Hot Sandwiches #20  Roast Beef, Seared Green & Yellow Peppers, Carmelized Onions, Provolone & Thyme Mayo on a French Baguette ... 5.95;30,6;133
+892;Roasted Beets;28,6;133
+893;Sanka;22,6;133
+894;Assorted Teas*;20,9;133
+895;Cinnamon Sticky Buns ...2.25;23,6;133
+896;Joes Roast Beef Lyonnaise Sandwich;20,4;134
+897;Cotes de Gascogne, Domaine Duffour, 1999 (Gascogne);20,6;134
+898;Raspberry tart;28,4;134
+899;Tea;30,4;134
+900;Jasmine Rice;27,5;134
+901;Pouilly Fume, Ladoucette 1994, Loire;32,7;134
+902;Ferrando: Piedmont, Erbaluce;31,2;134
+903;Chicken Fried Rice;17;135
+904;Specialty Sandwiches: #9  Honey Glazed Ham:  Mozzarella, Caramelized Onions & Honey Mustard on Eight Grain Ciabatta ... 6.25;26,2;135
+905;San Felipe Style Fish Tacos, fresh whitefish, Daves secret sauce, cabbage, pico de gallo, and white and yellow cheddar served in 2 soft corn tortillas and accompanied by guacamole, cilantro rice and pinto beans;23,2;135
+906;Mexicano - latte, chocolate sauce & whipped cream;26,3;135
+907;Fresh Brewed Coffee;25,5;136
+908;Bananas;19,8;136
+909;Liberty School 1995, Coastal Oaks;30,4;136
+910;Iced Flavored Coffee ... 1.75/1.95;21,9;136
+911;Pollo Tre colori BREAST OF CHICKEN WITH BRAISED RADICCHIO, ARUGOLA, ENDIVE & PLUM TOMATOES;32,5;136
+912;STILTON CHEESE & WALNUTS WITH A GLASS OF PORT WINE;31,8;136
+913;Any Side Vegetable Salad;23,8;136
+914;Nantucket Nectars ... 1.65/1.95;19,1;136
+915;1/2 Crab Mayonnaise  ;19,6;136
+916;Steak Tartare - with quail egg;22,5;137
+917;Lobster Quesadilla ;15,8;137
+918;Fresh Fried Onion Rings;14,4;137
+919;Maine Clams;20,8;137
+920;Smoked Haddock Chowder with Homemade Crackers;13,5;137
+921;Blackened Chicken Caesar Salad;22,7;138
+922;Fried Wonton (12);27,9;138
+923;Mediterranean Salad:  Marinated Grilled Chicken, Roasted Red Peppers & Avacado over a Crisp Garden Salad (Cajun Chicken also available) ... 5.95;27;138
+924;Pine Ridge Andrus Reserve, 1994;25,7;138
+925;Muskat, Haardt Burgergard Kabinett, Muller-Catoir, 1996 (Pfalz);33,4;138
+926;Sangiovese 1997, Showket (Napa);27,1;138
+927;Creme Soda;25,1;138
+928;Joes Buffalo Tenderloins;28,5;138
+929;Warm Goat Cheese and Carmelized Onion Tart;20,7;139
+930;642 Inniskillin Pearl Label Ice Wine 2002;15,3;139
+931;Rusty Nail: Scotch, Drambuie;29,2;139
+932;Lobster Chop Suey;16,5;139
+933;Shrimp w. Eggplant;34,7;140
+934;Eyrie Vineyards 1996, Willamette, Oregon;28,9;140
+935;Parrilla Mixta SPECIAL MIXED GRILL;29,7;140
+936;Canadian Club;20,6;140
+937;Half a 1 1/2 lb. Lobster Cocktail;28,6;140
+938;Charcuterie & PÃƒÂ¢tÃƒÂ©s selection (for two) Prosciutto, dry sausage, Lucullus style Langue de veau, pÃƒÂ¢tÃƒÂ© en croÃƒÂ»te, duck foie gras confit, chicken liver pÃƒÂ¢tÃƒÂ©, condiment & mustard ;25;140
+939;Beefeater Gin;33,5;141
+940;Crabmeat Hand Roll - fresh crab meat, cucumber, scallion, avacado;21;141
+941;VEAL CHOP PARMIGIANA (house specialty);29,4;141
+942;Orangina ... 1.50;24,8;141
+943;Balthazar Salad with haricots verts, asparagus, fennel, ricotta salata and truffle vinaigrette ;18,9;141
+944;Moulin-a-Vent Cuvee Vielles Vignes, Domaine Diochon, Beaujolais, France 1999, bottle;17,5;142
+945;1/2 Lobster;9,4;142
+946;MINI VEGI-LOAF Tofu, Chestnut and Cilantro Croquettes, Served over Spaghetti in a Tomato Sauce (Taro Spring Roll, Pickled Cabbage);10,2;142
+947;Bouillabaisse;9;142
+948;Pinot Noir, Laforet, Joseph Drouhin, 1998 (Burgundy);14,1;142
+949;Pomerol, Chateau Lagrance 94;15;142
+950;Main Courses with Michelles Apple Tree Salad or Caesar Salad, add $2.00;11,7;142
+951;Twelve Dancing Shrimp;9,9;142
+952;FRESH FRUIT TART;17;143
+953;Bife Di Churrasco SHELL CHURRASCO [grilled rump];13,1;143
+954;Plums;11,9;143
+955;edamame;16,5;143
+956;Grilled Dry Aged Rib Eye Steak;17;143
+957;French fries;8,2;143
+958;Chardonnay, Logan Sleepy Hollow Vineyard, 1998, Monterey;10;143
+959;Chardonnay, Mont St. Vincent;9,8;143
+960;GENERAL TSOS CHICKEN Chunks chicken lightly fried w. hot bean sauce. This plate was devised by a private chef of General Tsos who was a famous general in Szechuan army.;33,1;144
+961;Merlot, Newton 95;27,1;144
+962;Balthazar Bar Steak with pommes frites and maÃƒÂ®tre d butter or bÃƒÂ©arnaise sauce;24,2;144
+963;Louis Roederer;19,6;144
+964;Chocolate Mousse;31,8;145
+965;Gewurztraminer Fieldstone 1996, Sonoma;32,4;145
+966;LUGANA, D.O.C. F.LLI FRACCAROLI, 1986;32,5;145
+967;Groth, Chardonnay, Napa Valley, USA 1998, bottle;26,4;145
+968;Barolo Vigna Gattera, Gianfranco Bovio 1990 DOCG (Piedmont);26,8;145
+969;Salad;19,4;145
+970;Radish Salad with Parmesan & Arugula;22,5;145
+971;PATE EN CROUTE, Lucien Tendret recipe since 1892;25,9;145
+972;salad of soba noodles with marinated vegetables;9,1;146
+973;Apple Tart;9,3;146
+974;Fresh Squeezed OJ or Grapefruit Juice ... 1.75/2.95;11,1;146
+975;Modern Liverwurst - with four pickled vegetables;19,7;146
+976;Columbia Crest 95 Merlot (Columbia Valley);15,3;146
+977;Plateaux de Fruits de Mere;18;146
+978;Spring VEGETABLE COCOTTE;14,7;146
+979;Pinot Grigio Benefizium Porer, Alois Lageder, Alto Adige, Italy 1999;9,5;146
+980;Roast Pork Yaga Mein;15,7;146
+981;CHILLED BUTTERNUT SQUASH SOUP WITH DILL;21,2;147
+982;2004 PINOT GRIS Pierre Sparr;29,9;147
+983;Horseradish Crusted Canadian Salmon: Potato Fritters, Marinated Cucumbers, Chive Vinaigrette;29,7;147
+984;Seasonal Berries;30,5;147
+985;Brundlmayer: Austria, Pinot Noir, Pinot Blanc;27,7;148
+986;Lemonade;18,4;148
+987;Daurade tartare, extra virgin olive oil;21,7;148
+988;Red Wine buy the Bottle: Cabernet Sauvignon-Merlot Black Label, Wolf Blass, Barossa Valley, Australia 1995;22,1;148
+989;Pork Tonnata with Arugula;24,2;148
+990;Merlot St. Morillion, 1996, Chile;26,6;148
+991;Beef w. Mushrooms;19,4;148
+992;Rosso di Montalcino 1999, Talenti (Toscana);29,4;149
+993;Roast Beef  Sandwich;26,1;149
+994;Sliced Grilled Chicken over Caesar Salad;23,6;149
+995;Wraps: W1  Asian Chicken Bok Choy Cabbage, Bean Sprouts, Mandarin Orange mixed with a Low Sodium Ginger Sesame Dressing ... 6.25;25,5;149
+996;Kung Po Shrimp;19,5;149
+997;Manhattan;30,9;149
+998;Beef w. Brococli ;27,9;149
+999;Gundellini Champagne aperitif;27,3;149
+1000;Beef Fried Rice;27,2;149
+1001;Oysters. Six on the half shell...several varieties available...with your choice of Lemon and Pepper, Champagne Migonette, Grated Horseradish, Green Tabasco or Cocktail Sauce;20;150
+1002;Caffe;16,9;150
+1003;Calvados Cocktail: Calvados, OJ, Triple Sec, Orange Bitters;30,5;150
+1004;Chardonnay, Carneros, Beaulieu;19,6;150
+1005;Sancerre, Gueneau;17,2;150
+1006;Cheese Omelette WITH MOZZARELLA AND AMERICAN CHEESE;30,5;150
+1007;Hunan Beef;20,2;150
+1008;Fresh Fruit Cup:  Small ...2.75   Large ...3.75;23,3;150
+1009;Semillon, Barrel Fermented, Signorello, 1997 (Napa Valley);17,6;150
+1010;DIET COKE;30,5;151
+1011;Wraps: W4  Chicken Fajita Black Beans, Vermont Cheddar & Monterey Jack Cheese, Chopped Tomato & Avocado ... 6.25;28,5;151
+1012;Tagliata Di Manzo SLICED SIRLOIN STEAK GARNISHED WITH ARUGOLA;17,5;151
+1013;Costilla Di Cerdo GRILLED PORK CHOP;16;151
+1014;Burger;18,6;152
+1015;Sauternes;9,3;152
+1016;GRILLED, SMOKED PORK TENDERLOIN WITH A SAVORY BACON CORNBREAD STUFFING, CARMELIZED SHALLOT DEMI-GLAZE;16,4;152
+1017;STEAMED ASSORTED VEGETABLES (Basil Moo Shu Roll, Brown Rice);12,3;152
+1018;Roast Pork Chow Mein;9,5;152
+1019;By the bottle: Benziger, Chardonnay, Carneros, USA 1999;27,1;153
+1020;Vegetarian Curried Noodles. Chinese Egg Noodles stir-fried with Leeks, Bok Choi, Eggplant and Tofu;25,4;153
+1021;Gewurztraminer, Cote de Rouffach, Mure, 1998 (Alsace);27,1;153
+1022;Joes Grilled Chicken;24,7;153
+1023;Unfiltered Apple Juice;21,8;153
+1024;Stove Pipe Porter;32,4;153
+1025;Fendant, Vetroz Les Terrasses, 1996. (Switzerland);32,4;153
+1026;Capellini Primavera ANGEL HAIR WITH MIX VEGETABLES;29,4;153
+1027;Sauvignon Blanc, Cakebread 97;27,4;154
+1028;Cheeseburger;19,1;154
+1029;Saint-Romaine, Sous le Chateau, V. Girardin, 1999. (Burgundy);18,1;154
+1030;Warm Goat Cheese and Carmelized Onion Tart   ;23,2;154
+1031;Chocolate Milk ... 1.50;18,1;154
+1032;Markham 1995, Napa;15,4;155
+1033;Littleneck Clams ;25,4;155
+1034;Chicken Chop Suey;16;155
+1035;Ribolita Soup - Tuscan white bean soup;24,3;155
+1036;Tuna Salad on Choice of White, Rye, Wheat Bread or a Roll;19,2;155
+1037;Shrimp Wontons. Fried or steamed...with Snap Peas and Jasmine Rice;18,5;155
+1038;Merlot, Cypress, J. Lohr;17,9;155
+1039;Chilled Calamari and Shrimp ;21,4;155
+1040;Caymus Special Select, 1994;12,6;156
+1041;Lemon & Lime Tart;20,2;156
+1042;Norwegian Salmon on a Bagel with Lo-Fat Cream Cheese...3.95;13,1;156
+1043;Onion Strings. Thinly sliced, battered and fried;20,5;156
+1044;Marinated Black Fig Salad with Thyme & Parmesan;17,9;156
+1045;Pan Fried Scallops with Anchovy, Capers & Lemon;9,6;156
+1046;White Meritage, Conundrum, Caymus Vinyards, 1999 (Napa Valley);14,7;156
+1047;PINOT GRIS, CHALK HILL 95;21,6;157
+1048;Montecillo 96 Vina Cumbrero (Spain);24,5;157
+1049;Sauvignon Blanc, Honig, 1999 (Napa Valley);22,3;157
+1050;Mesclun Salad: Leaf Lettuce, Mandarin Oranges, Walnuts, Goat Cheese and Plum Tomatoes ... 5.95;25,1;157
+1051;Wraps: W6  Italian Tuna Wrap (No Mayo No Oil), Plum Tomato, Leaf Lettuce & Sprouts ... 5.95;29;157
+1052;Orange Flavor Beef;32,3;157
+1053;Tuna Salad Roll;25,8;157
+1054;Byron, Pinot Noir, Santa Maria Valley, USA 1997;32,4;157
+1055;Kung Po Baby Shrimp;22,9;157
+1056;Prosciutto Pizza - mozzarella, goat cheese, tomato & arugula salad;18,8;158
+1057;Chicken w. Bean Curd;22,5;158
+1058;Warm asparagus, mousseline sauce;17,5;158
+1059;Rib Tips w. Garlic Sauce w. French Fries;25,8;158
+1060;Pepper Steak w. Onion;26,4;158
+1061;Assorted cakes;27,1;158
+1062;Spaghetti Carbonara with pancetta and Parmesan;23,2;159
+1063;Cheddar Cheeseburger;27;159
+1064;Glass of Chardonnay Seppelt, 1996, Australia;33,4;159
+1065;Beef w. Eggplant;29,5;159
+1066;Jasmine Special. Shrimp and Broccoli steamed over Jasmine Rice...melted Monterey Jack Cheese;23,9;159
+1067;Buffalo Chicken Wings;28,8;159
+1068;Mas de Gourgonnier, N. Cartier, 1997. (Provence);21,6;160
+1069;Beef w. Chinese Vegetable;25,7;160
+1070;Roast Pork Yaga Mein;15;160
+1071;Glenlivet;16,4;160
+1072;Mango Sorbet;14,4;160
+1073;Spinach Omelette WITH BACON AND CHEESE;18;160
+1074;Chianti Classico, Remole, Frescobaldi;21,4;160
+1075;Sauvignon Blanc, Duckhorn Vineyards 1996 (Napa);18,2;161
+1076;Bistecca Al Barolo MEDALLION STEAK SAUTEED WITH GARLIC, MUSHROOM IN A BAROLO SAUCE;10,2;161
+1077;AMERICANO;18,9;161
+1078;Jean Lallement: Champagne, Pinot Noir, Chardonnay;20,4;161
+1079;Dolcetto DAlba, Guiseppe Cortese 1996 DOC (Piedmont);15;161
+1080;Barolo Rocche dei Manzoni 1993 DOCG (Piedmont);17,9;161
+1081;Chicken, Broccoli and Ziti ;29,1;162
+1082;Avocado Stuffed with Crabmeat;33,4;162
+1083;Shrimp Chow Mein;32,6;162
+1084;DAVES PASTA, strips of grilled chicken breast, corn,tomatoes, shiitake mushrooms and scallions, with linguine, bleu cheese, chipotle chile and butter;21;162
+1085;Roast Pork w. Brococli;29,6;162
+1086;Smoked Chub Fillet;25,9;162
+1087;Bife Di Churrasco SHELL CHURRASCO [grilled rump];23,6;162
+1088;Tarte FlambÃƒÂ©e - Alsatian thin crust tart with crÃƒÂ¨me fraÃƒÂ®che, onion and applewood smoked bacon;31,4;163
+1089;PLUM TORTE;32,9;163
+1090;CHARDONNAY, ECHELON, CALIFORNIA 97;23,3;163
+1091;Bar-B-Q Beef Stick;30,3;163
+1092;Radish Salad with Parmesan & Arugula;23,5;163
+1093;Yves Lambert: Loire, Chenin Blanc;31,9;164
+1094;Robert Mondavi Fume Reserve, 1995, Napa;25,9;164
+1095;Herbed garlic and goat cheese feta beignet on fresh organic field greens tossed in a golden apple viniagrette with buttered candied macadmia nuts.  Eight;26,5;164
+1096;Carrot Cake;28,3;164
+1097;Manhattan;30,8;164
+1098;Chardonnay, Riverstone, J. Lohr;33,5;164
+1099;Fried Fresh Artichokes Alla Giudea (seasonal);19,1;164
+1100;LAMB CHOP, MEDALLION & FILET, gratin Dauphinois;27,8;164
+1101;Espresso*;21,9;164
+1102;Saint-Julien;21,2;165
+1103;Vernaccia, San Quirco;20,8;165
+1104;Subgum Chicken Chow Mein;22;165
+1105;Hot Fudge Sundae;25,2;165
+1106;Spare Rib Tips w. Plain Fried Rice;21,8;165
+1107;Shrimp Cocktail ;28,1;165
+1108;Four Seasons Jumbo shrimp, lobster, chicken, roast pork sauteed w. broccoli, red pepper, baby corn & waterchestnuts in a delicious brown sauce.;26,8;165
+1109;Roast Pork w. Mixed Veg;30,5;165
+1110;Mahi Mahi;24,7;165
+1111;1/4 lb. Colossal Crab Meat;25,4;166
+1112;Artic Char Tartare- with basil and trout caviar;25,5;166
+1113;Mixed Vegetable Delight;26,7;166
+1114;STURGEON SCHNITZEL, OUR SPECIALTY, WITH CUCUMBER SALAD AND SAUCE REMOULADE;25,4;166
+1115;House Special Soup w. Wonton;31,2;166
+1116;1 lb Chilled Lobster;28,4;166
+1117;Fried Boneless Chicken;19,2;167
+1118;Peach tart;27;167
+1119;Puligny-Montrachet, Les Chalumeaux, Matrot, 1999 (Burgundy);27,9;167
+1120;Sliced London Broil au jus  ;30,7;167
+1121;Steak Tartare;28,8;167
+1122;Specialty Sandwiches: #1  Cajun Chicken: Low Fat Alpine Lace Cheese, Radicchio with a Yogurt Dill Dressing on Country Italian Bread ... 6.25;25,9;168
+1123;Steak Frites with maÃƒÂ®tre d butter or bearnaise sauce;26,8;168
+1124;Subgum Shrimp Chow Mein;34,3;168
+1125;Pinot Noir, Willakenzie, 1998. (Oregon);32,3;168
+1126;Moet & Chandon, Brut Vintage 1992;34,2;168
+1127;Grapefruit Cocktail;30,2;168
+1128;Plain Lobster Sauce;25,9;168
+1129;Merlot, Stags Leap Wine Cellars, 1997. (Napa Valley);25,2;168
+1130;Chardonnay, Estancia Estates 1996 (Monterey);33,5;168
+1131;Crispy Yellowfin Tuna - with roasted asparagus, greenmarket spring beans, warm tomato vinaigrette and shaved bottarga;23,7;169
+1132;Dim Sum (6);23,1;169
+1133;WHITE ZINFANDEL, River Oaks;20,2;169
+1134;Grilled Chicken Salad;24,2;169
+1135;Assorted Dinner. Shrimp, Scallops & three cuts of Fish;23,7;169
+1136;Moo Shu Baby Shrimp w. 4 Pancakes;8,2;170
+1137;Bonny Doon Riesling Pacific Rim 1995, Calif.;11,6;170
+1138;Chardonnay, Estancia Estates 1996 (Monterey);20,6;170
+1139;Canoe Ridge, Merlot, Columbia Valley, USA 1997;9,5;170
+1140;Rib Tips w. Garlic Sauce w. Chicken Fried Rice;13,9;170
+1141;After 10 pm- American Cheese Burger bacon, crispy onions & fries;11,2;170
+1142;Lobster and Ravioli;28,4;171
+1143;Rib Tips w. Garlic Sauce w. Shrimp Fried Rice;22,6;171
+1144;Fiore Di Lacte FRESH MOZZARELLA, TOMATO & BASIL;23,4;171
+1145;Sauvignon Blanc, RH Phillips, 1999 (California);23,4;171
+1146;Filet Mignon, portobellini mushrooms, new potatoes & Brunello sauce;33;172
+1147;Pumpkin, Couscous and Chestnut Soup - with ricotta salata and spiced crÃƒÂ¨me fraÃƒÂ®che;23,9;172
+1148;Chateau Beau-Site, Cru Bourgeois, St. Estephe, France 1996;23,1;172
+1149;Apple Fruit Spritzer - Apple juice, club soda & a twist of lime;24,5;172
+1150;Fricassee of Asparagus and Morels with a sweet garlic flan;22,3;172
+1151;Merlot 1999, Bogle (California);35,3;172
+1152;Heart of Lettuce Salad;25,6;172
+1153;Cotes de Gascogne, Domaine Duffour, 1999 (Gascogne);10,2;173
+1154;Steamed Plain Broccoli;17,7;173
+1155;Fresh Squeezed OJ or Grapefruit Juice   Small ...1.75  Large ...2.95;17,1;173
+1156;Cosentino The Zin, 1995, Napa;11,9;173
+1157;Meritage, Trilogy, Flora Springs, 1997. (Napa Valley);8,6;173
+1158;Onion Strings;17,1;173
+1159;Coconut Shrimp Jumbo shrimp, battered and dipped in shredded coconut, fried golden brown and served with a Chinese pesto dipping sauce, pineapple chutney, yogurt cucumbers and steamed rice;10,8;173
+1160;Spicy Shandong Baked Bluefish. With Sugar Snap peas and Jasmine Rice;13,2;173
+1161;Linie Aquavit;17,1;173
+1162;1 lb Chilled Lobster;28,3;174
+1163;Chardonnay, Les Pierres, Sonoma-Cutrer, 1998 (Sonoma);26,8;174
+1164;Charles Heidsieck;22,7;174
+1165;Pinot Noir, Willakenzie, 1998. (Oregon);17,9;174
+1166;Southern Fried Quail with Greens, Huckleberries, Pecans & Blue Cheese;15,6;175
+1167;Beef Chow Fun;18,4;175
+1168;Chardonnay, Estate Bottled, Beringer;9,1;175
+1169;Merlot, Ecco Domani;17,1;175
+1170;Steamed Vegetable Dumplings (8);11,6;175
+1171;Tomato, Onion & Bleu Cheese Salad- Dijon vinagrette;29,3;176
+1172;Dim Sum (6);25,6;176
+1173;VARIE INSALATINE FRESCHE CONDITE A PIACERE  ;18,5;176
+1174;Flavored Coffee of the day ... ..96 ... 1.18 ... 1.44;25;176
+1175;Raspberry Wine w/ soda & fruit garnish;31,8;176
+1176;Chicken Quesadilla  8.50;31,3;176
+1177;Beef w. Pepper & Tomatoes;21,8;176
+1178;Shrimp w. String Bean;19,6;176
+1179;Shellfish Platter;31,9;177
+1180;Chardonnay, Estancia Estates 1996 (Monterey);33,5;177
+1181;Cabernet Sauvignon, Phiippe Lorraine;25,4;177
+1182;Chicken Liver Toast;28,4;177
+1183;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini ;33;177
+1184;Tortelloni Della Nona CHEESE TORTELLONI WITH PEAS & PROSCIUTTO IN CREAM SAUCE;24,3;178
+1185;Chamomile Tea;30,3;178
+1186;Shredded Pork w. String Beans;15,5;178
+1187;White Wine;23,2;178
+1188;Salmon Alla Griglia GRILL SALMON WITH DIJON SAUCE;25,3;178
+1189;Skewered Shrimp;17,5;178
+1190;Chef Thomas Spicy Seafood Risotto Flavored With Fennel;28,4;178
+1191;Pork w. String Beans;19,3;178
+1192;CASSOULET, J.J. Rachou recipe;29,6;178
+1193;Salade Nicoise;21,8;179
+1194;Beef Chop Suey;15,4;179
+1195;Vernaccia, San Quirco;15,3;179
+1196;Fresh Shrimp Chop Suey;24,9;179
+1197;Roquefort Dressing;24;179
+1198;Fantasia Di Mari SEAFOOD SALAD;25;179
+1199;Chocolate Raspberry Cake;18,7;179
+1200;Viognier, Vichon;24,5;179
+1201;MALAKOFF RUM TORTE;23,7;179
+1202;Pancetta-Wrapped Baby Squid - with black rice cake, rosemary and saffron;20,8;180
+1203;Grill Portobello WITH SPINACH & ROAST PEPPER;22,4;180
+1204;Gordons Gin;24,2;180
+1205;Baby Shrimp w. Cashew Nuts;28;180
+1206;Insalata Di Spinacci WITH BACON, WALNUTS & MUSHROOMS;19,6;180
+1207;Flavored Coffee of the day ... ..96 ... 1.18 ... 1.44;17;180
+1208;Crisp Field Greens Vinaigrette;23,8;181
+1209;Roasted Almonds;29,7;181
+1210;By the bottle: Benziger, Chardonnay, Carneros, USA 1999;25,8;181
+1211;Unfiltered Apple Juice;30;181
+1212;641 Inniskillin Ice Wine 2001 Sparkling;24,6;181
+1213;DIET COKE;22,3;182
+1214;White Meritage, Conundrum, Caymus Vinyards, 1999 (Napa Valley);21;182
+1215;CABERNET SAUVIGNON, Rutherford, Beaulieu;16,2;182
+1216;Rice Pilaf with Orzo;26,6;182
+1217;Any Side Vegetable Salad;24,6;182
+1218;Onion Soup GratinÃƒÂ©e;23,9;182
+1219;Moo Shu Beef w. 4 Pancakes;28,4;183
+1220;Selaks 1996, N. Zealand;23,6;183
+1221;Merlot, Madame Costeau;30,3;183
+1222;Assiette de Fromages:  Selection of cheeses of the day;25,4;183
+1223;Bittersweet and white chocolate cream with fresh fruit sauce;28,9;183
+1224;Tuna Spring Roll;30,9;183
+1225;Kendall Jackson Vint. Reserve 1996, Calif.;31,8;183
+1226;CAFÃƒÂ©;33,6;183
+1227;Merlot, Rombauer Vineyards, 1997. (Napa Valley);28,1;183
+1228;Pinot Grigio Benefizium Porer, Alois Lageder, Alto Adige, Italy 1999;22,3;184
+1229;Beef and Mushroom Pappardelle ;22,3;184
+1230;House Special Chow Fun;30;184
+1231;Groth, Chardonnay, Napa Valley, USA 1998, bottle;26,7;184
+1232;Hine;29,3;184
+1233;Calvados Cocktail: Calvados, OJ, Triple Sec, Orange Bitters;27,5;184
+1234;Duckhorn 1995, Napa;19;184
+1235;BACON SAGE RUBBED ROCKY CHICKEN BREAST IN FRENCH PASTRY CITRUS CRACKED PEPPER CREAM AND LEEKS;28,1;184
+1236;Tuna Spring Roll;28,7;184
+1237;Fresh Black Squid Ink Linguini with shrimp in spicy marinara sauce;19,7;185
+1238;Cobb Salad: Diced Avocado, Bacon, Turkey, Ham, Tomato, Swiss and Cheddar Cheeses, Choice of Dressing;13,5;185
+1239;Twelve Dancing Shrimp;16,9;185
+1240;Loup de Mer - with cockles and organic vegetables in its own broth;17,3;185
+1241;Kaffee Hag;10,8;185
+1242;Seafood Platter for the Table;25,9;186
+1243;Subgum Wonton a delicious mixture of lobster meat, chicken, roast pork, shrimp & garden vegetables garnished w. crispy wonton.;16;186
+1244;Bamboo Steamed Vegetables;24,1;186
+1245;CLOS DES MOUCHES, CHANSON 92;14,3;186
+1246;Entrana GRILLED SKIRT STEAK;20,1;187
+1247;Beau Soleil Oysters with Mignonette;23,2;187
+1248;SautÃƒÂ©ed Prawns with Mushroom Tortellini, Grilled Tomato Vinaigrette & Sweet Corn;20;187
+1249;Grilled Vegetables Including Portobellos, Squash, Eggplant & Zucchini with Melted Mozzarella and a Cucumber Dill Dressing served on Seven Grain Health Bread;17,2;187
+1250;Jasmine Tea;20,8;187
+1251;Grilled Vegetables;16,8;188
+1252;BASILED VEGETARIAN HAM Vegi-Ham (Soy Protein) Low-Cal Conjex, Fresh Soy Bean, Black Mushrooms in a Basil Sauce (Taro Spring Roll, Brown Rice);20,9;188
+1253;Canoe Ridge, Merlot, Columbia Valley, USA 1997;24,2;188
+1254;Duck Egg with Tuna Bottarga;18,3;188
+1255;Chicken w. Snow Pea Pods;17,8;188
+1256;OUR VERY OWN APRICOT SORBET;27,4;189
+1257;Fried Shrimp (15) w. French Fries;18,8;189
+1258;Kunde 96 Chardonnay (Sonoma);28,4;189
+1259;Chicken w. Garlic Sauce;28,2;189
+1260;Est! Est! Est!, Falesco 1996 (Lazio);18,8;190
+1261;Sheeps Ricotta Gnudi with Sage & Brown Butter;23;190
+1262;Tofu Honey Pie. tofu with Cream Cheese and Blueberry Topping;18,4;190
+1263;Warm asparagus, vinaigrette;20,8;190
+1264;wakame and cucumber salad with ume and shiso;27,2;191
+1265;LONG-STEM DRISCOLL STRAWBERRIES DIPPED IN CHOCOLATE;25,3;191
+1266;Freemark Abbey 1994, Napa;31,4;191
+1267;CROSTATA CALDA CON GRUTTA FRESCA  ;33,4;191
+1268;Chicken w. Broccoli;24,5;191
+1269;Seafood Large - six selections;23,9;191
+1270;Mixed Vegetable Mai Fun;32,9;191
+1271;Roasted Beet Salad with leeks, haricots verts and fourme dAmbert;30,3;191
+1272;Chablis / ER Cru Fourchaume, J-M Brocard, 1997 (Burgundy);30,7;192
+1273;Wraps: W7  Chicken Caesar Wrap, Grilled Chicken, Shaved Romano Cheese, Hearts of Romaine and Caesar Dressing ... 6.25;20,2;192
+1274;Zuppe Del Giorno SOUP OF THE DAY;19,1;192
+1275;First Class Platter -  half a 1 1/2 lb. lobster, shrimp, assorted smoked salmons, sturgeon with truffle oil and two salads;25,5;192
+1276;Carrot Cake;31,7;192
+1277;Orangina ... 1.50;30;192
+1278;Pinot Noir, Willakenzie, 1998. (Oregon);26,6;193
+1279;Maryland Crab Cake. With Apple and Mesclun Salad, Cider-Mustard Vinaigrette;27,9;193
+1280;Hot Sandwiches #24  Oven Baked Eggplant, Fresh Mozzarella Cheese, Basil Marinara Sauce & Arugula served on a Sourdough Hero ... 5.95;31,2;193
+1281;Soft Shell Crabs;27,3;193
+1282;Fried Crabmeat Stick;27,8;193
+1283;Sauteed Broccoli w. Garlic Sauce;29,8;193
+1284;Hot & Spicy Beef;21,5;194
+1285;NUITS ST. GEORGE, DOMAINE DE LARLOT, PREMIER CRU 95;22,3;194
+1286;Stags Leap FAY Estate 1994, Napa;22,4;194
+1287;Crusted Tuna - Asian vegetables and ginger sauce;29,5;194
+1288;CABERNET SAUVIGNON, JORDAN 93;28,8;194
+1289;Corpse Reviver: Gin, Triple Sec, Lillet, Pastis;29;194
+1290;TORTELLONI chicken & porcini filled, marscapone & truffle sauce;14;195
+1291;Grilled 1 1/2 lb. Maine Lobster;9,5;195
+1292;ravioli of sweet shrimp with mustard miso sauce;12,3;195
+1293;Vegetable  Small - three selections;8,7;195
+1294;Mussels with Fragrant Seafood Sauce;17,1;195
+1295;Slow Poached Farm Egg In a Jar- with Maine lobster, crosnes and sea urchin froth;8,9;195
+1296;Pork w. Broccoli;13,3;195
+1297;VINE-RIPE TOMATOES WITH SNOW WHITE ANCHOVIES, BASIL AND ONIONS;31,8;196
+1298;Root Beer ... 1.75;29,1;196
+1299;Petit Fours;20,8;196
+1300;Terrine de canard;32,1;196
+1301;West Coast Barbecue Maya Shrimp - jalapeno cornbread;33,4;196
+1302;Fried Chicken Nuggets (12);33,7;196
+1303;Margherita Pizza;22,9;196
+1304;Cheese Danish ...1.60;15,1;197
+1305;Nachos El Grande;18,7;197
+1306;Seafood Large - six selections;23;197
+1307;MINI VEGI-LOAF Tofu, Chestnut and Cilantro Croquettes, Served over Spaghetti in a Tomato Sauce (Taro Spring Roll, Pickled Cabbage);13,9;197
+1308;POT AU FEU WITH MARROW BONE AND TRADITIONAL ACCOMPANIMENTS;25,4;197
+1309;Sweet & Sour Pork & Chicken Mixed;16,7;197
+1310;Fricassee of Asparagus and Morels with a sweet garlic flan;25,8;197
+1311;Flounder Fillet. Plain, simple and delicious...broiled or baked with buttery Bread Crumbs...with Seasonal Vegetables and choice of one Side;22;197
+1312;Great Western, Extra Dry (Split);23,7;198
+1313;Way 2Cool Root Beer (Taos Brewing Co.)  full bodied drinks;18,9;198
+1314;Gundellini Champagne aperitif;28,2;198
+1315;Liberty School 1995, Coastal Oaks;25,4;198
+1316;St. Morillion 1996, Chile;27,8;198
+1317;Topi-Maki and Mixed Salad;19,8;199
+1318;Cheese Omelette WITH MOZZARELLA AND AMERICAN CHEESE;15,6;199
+1319;Dubonnet;30;199
+1320;Roasted Baby Lamb Chops: full rack of herb crusted baby chops & three vegetable antipasti;24,7;199
+1321;Onion Soup GratinÃƒÂ©e;15,9;199
+1322;STRAWBERRY, SPINACH AND ENDIVE SALAD WITH TOASTED PISTACHIOS AND MAYTAG BLUE CHEESE;17,3;199
+1323;KRUG, GRANDE CUVEE, BRUT CHAMPAGNE NV;22,9;199
+1324;Roll Mops;20,1;200
+1325;Veal Chop - wild mushroom sauce, aparagus, and truffle potato croquette;23,6;200
+1326;Beaujolais Brouilly, Chateau de la Chaize 1996 (Burgundy);25,1;200
+1327;Duvel ;20,8;200
+1328;Balthazar Bar Steak with pommes frites and maÃƒÂ®tre d butter or bearnaise sauce ;28,8;201
+1329;28 Day Dry-Aged Ribeye - with a pickled fig-Rogue River blue cheese flan, baby bok choy, and whole grain mustard jus;23,6;201
+1330;Vegetarian Curried Noodles with Small Shrimp. Chinese Egg Noodles stir-fried with Leeks, Bok Choi, Eggplant and Tofu;33,3;201
+1331;Rack of Lamb with Lamb Shank Ravioli: Roasted Tomatoes, Broccoli Rabe, Minted Balsamic Vinegar;19,8;201
+1332;Nachos El Grande;31,5;201
+1333;Margaux;26,3;202
+1334;Cappuccino;22,6;202
+1335;Manhattan;20,5;202
+1336;GENERAL TSOS CHICKEN Chunks chicken lightly fried w. hot bean sauce. This plate was devised by a private chef of General Tsos who was a famous general in Szechuan army.;34,1;202
+1337;Ribera del Duero, Crianza 1997, Sastre (Spain);25,3;202
+1338;Fettuccine Alfredo FETTUCCINE WITH CREAM SAUCE;30;202
+1339;VEUVE CLICQUOT, GOLD LABEL CHAMPAGNE 89;24,9;202
+1340;Chicken Paillard - Chimichurri sauce, string beans, and potatoes;18,8;203
+1341;Flavored Coffee of the day ... ..96 ... 1.18 ... 1.44;31,8;203
+1342;Caymus Special Select, 1994;19;203
+1343;Aloxe-Corton l Er Cru, Les Valozieres, Antonin Rodet, 1996 (Burgundy);18,4;203
+1344;Skewered Shrimp;31,9;203
+1345;Primitivo, A. Mano;33,7;203
+1346;SautÃƒÂ©ed Prawns with Mushroom Tortellini, Grilled Tomato Vinaigrette & Sweet Corn;21,1;204
+1347;Foreau: Vouvray, Chenin Blanc;33,4;204
+1348;Assorted cakes;23,9;204
+1349;Bollinger;33,9;204
+1350;Chicken Vegetable & Rice Soup;29,2;204
+1351;House smoked colorado lamb chops served with a sweet potato spearmint strudel, merlot wine reduction sauce.  Twenty Eight;18,8;205
+1352;Chow Gai Kew (Chicken) Deep fried chicken w. Chinese vegetables;15,6;205
+1353;CHAMPAGNE, PIPER HEIDSIECK NV;10;205
+1354;Salmon Alla Griglia GRILL SALMON WITH DIJON SAUCE;12,3;205
+1355;Pork w. Bean Curd;15,6;206
+1356;Unfiltered Apple Juice;21,3;206
+1357;Lobster Risotto with fava beans, radicchio and savory  ;31;206
+1358;SESAME BEEF Chunks of tender steak, lightly batter fried & coated w. chefs special sauce, sprinkle w. broccoli & roasted sesame seed on the top.;20,9;206
+1359;Banoffee;17,5;206
+1360;BACON AND CHEESE OMLETTE;20,2;207
+1361;Chateauneuf-du-Pape, Chateau Mont-Redon, Rhone, France 1998;33,9;207
+1362;Roast Pork w. Mixed Vegetables;18,5;207
+1363;Cuvaison, Chardonnay, Carneros, USA 1999;30,4;207
+1364;SautÃƒÂ©ed Skate with haricots verts, shallots, chives and a hazelnut brown butter;34,7;207
+1365;Young Chow Lo Mein;22,6;207
+1366;Maryland Crab Cakes Served with Cole Slaw and French Fries;28,6;207
+1367;Strawberry Rhubarb Tart a la Mode;26,1;207
+1368;Grilled Lamb Chops - mashed potato, haricot vert, and a garlic wine sauce;32,3;208
+1369;Kung Po Baby Shrimp;30,4;208
+1370;Roederer;24,9;208
+1371;Beef w. Mixed Vegetables;25,2;208
+1372;Riesling Saering, Grand Cru, Domaine Schlumberger, Alsace, France 1997;24,6;208
+1373;Fried 1/2 Chicken w. Chicken Fried Rice;24;209
+1374;Fresh Shrimp Fried Rice;33,8;209
+1375;Bistecca Alla Luiggi SLICED STEAK WITH WILD MUSHROOMS, SCALLIONS, TOUCH OF COGNAC, CREAM AND RED WINE;26,1;209
+1376;Bacon sage rubbed Rocky chicken breast in french pastry citrus cracked pepper cream and leeks.  Twenty Six;29,3;209
+1377;Egg mayo;17,9;209
+1378;Beef and Mushroom Pappardelle ;21,9;209
+1379;SautÃƒÂ©ed Halibut with a fresh pea ragout, bacon lardons and rosemary  ;27,4;209
+1380;Cabernet Sauvignon, Duckhorn, 1986. (Napa Valley);27,8;210
+1381;Strawberry Mineral Water;27,2;210
+1382;Beef w. Mixed Vegetables;21,1;210
+1383;Asbach Uralt;29,7;210
+1384;CrÃƒÂ¨me BrÃƒÂ»lÃƒÂ©e;20,7;211
+1385;Hollywood Cobb Salad;22,7;211
+1386;Way 2Cool Ginger Ale (Taos Brewing Co.)  full bodied drinks;26,7;211
+1387;Malbec, Bianchi, 1997. (Argentina);17,7;211
+1388;Hazelnut Italian Soda;25,7;211
+1389;CHARDONNAY, COSTELLO 96;26,9;212
+1390;A VEGETABLE BUFFET PLATTER IN THE MIDDLE EASTERN MANNER SERVED WITH PITA BREAD;36,3;212
+1391;TAITTINGER, LA FRANCAISE CHAMPAGE NV;32,3;212
+1392;Grilled 1 1/2 lb. Maine Lobster;29,3;212
+1393;Fried Chicken Nuggets (12) w. Chicken Fried Rice;25,4;212
+1394;Pasta Pomodoro CHOICE OF PASTA WITH TOMATO OR MARINARA SAUCE;32,4;212
+1395;Trancio Di Pesce Spado A La Livornese SAUTEED WITH ANCHOVIES, GREEN AND BLACK OLIVES, CAPERS, WHITE WINE & A TOUCH OF TOMATO SAUCE;25,2;212
+1396;Beef w. Pepper & Tomatoes;14,8;213
+1397;STURGEON SCHNITZEL, OUR SPECIALTY, WITH CUCUMBER SALAD AND SAUCE REMOULADE;14,8;213
+1398;Fettuccine Alfredo FETTUCCINE WITH CREAM SAUCE;20,1;213
+1399;Roast Pork Mei Fun;11;213
+1400;Mixed Grill Balthazar;19,7;213
+1401;MISO SOUP;16,7;213
+1402;By the bottle: Benziger, Chardonnay, Carneros, USA 1999;24,7;214
+1403;Spare Rib Tips;19,4;214
+1404;Coconut Shrimp Jumbo shrimp, battered and dipped in shredded coconut, fried golden brown and served with a Chinese pesto dipping sauce, pineapple chutney, yogurt cucumbers and steamed rice;15,3;214
+1405;Spaghetti Bolognese;14,4;214
+1406;Maine Lobster;19,3;214
+1407;Baby Shrimp w. Bean Sprouts;21,7;214
+1408;Chianti Classico, Riserva 1997, Felsina Rancia (Toscana);22,3;214
+1409;Caffe;18,4;215
+1410;Mitchelton Shiraz 1994, Australia;15,6;215
+1411;STEAK TARTARE, THE CONVENTIONAL WAY OR LIGHTLY SEARED;13,5;215
+1412;Poached Red Snapper in a Saffron Broth served with Baby Vegetables;13,2;215
+1413;Beef w. Scallions;20,5;215
+1414;Filet Mignon, grilled filet of beef tenderloin accompanied by a brandy, shiitake mushroom cream sauce, served with rosemary roasted new potatoes and fresh vegetables;23,7;216
+1415;French fries Lami Louis sytle;24,2;216
+1416;CABERNET SAUVIGNON, Briarcrest, Clos Du Bois;28,5;216
+1417;Buffalo Chicken Wings;21,3;216
+1418;Roasted Beet Salad with leeks, haricots verts and fourme dAmbert  ;26,6;216
+1419;Blueberry  or Apple Crumb Cake ...1.75;28,5;216
+1420;Salmon Club sandwich;27;216
+1421;1/4 lb. Colossal Crab Meat;23,4;216
+1422;Fried Fish (2) w. Plain Fried Rice;15,8;217
+1423;Baked Stuffed Lobster with buttery Crabmeat Stuffing;29,5;217
+1424;Guinness;23,5;217
+1425;Chateauneuf-du-Pape, Chateau Mont-Redon, Rhone, France 1998;26,6;217
+1426;Apple Tart;17,9;217
+1427;CHABLIS, DOMAINE CHANTEMERLE BOUDIN 96;19,5;217
+1428;Fonds dartichauts;27,3;217
+1429;Burger;34,5;218
+1430;Baklava;28,1;218
+1431;Soup du Jour;29,7;218
+1432;STILTON CHEESE & WALNUTS;27,4;218
+1433;Chocolate  Velvet;24,8;218
+1434;Buffalo Chicken Wings, w. French Fries;36,4;218
+1435;Cobb Salad Royale with Lobster;27;218
+1436;Moo Shu Pork w. 4 Pancakes;29,1;219
+1437;Pinot Noir Saintsbury Garnet, 1996, Carneros;25,5;219
+1438;Moet & Chandon Brut Imperial N/V;23,6;219
+1439;Tasting of Petite Appetizers;28,1;219
+1440;Provance Salad:  Portobello Mushrooms, Eggplant, Zucchini, Yellow Squash & Tomato Roasted over a Crisp Garden Salad ... 5.95;21,5;219
+1441;Carrot Cake Square;31,4;220
+1442;Merlot, Cuvaison, 1997. (Napa Valley);25;220
+1443;SHREDDED MELODY  Shredded Soy Gluten Sauteed with Celery, Carrots, Zucchini and Pine Nuts in a Spicy Sweet Sauce (Taro Spring Roll, Brown Rice);30,9;220
+1444;Roasted Cold Salmon salsa verde, accompanied with a selection of any four vegetables from our Antipasto Bar;25,9;220
+1445;SALMONE MARINATO CON SALSA DI CAVIALE  ;21,9;220
+1446;Claypot Roasted Salmon, Langostino tomato sauce & roasted potatoes;30,9;220
+1447;Chicken w. Mixed Veg;25,5;220
+1448;Cheddar Cheeseburger;32;220
+1449;Domaine Chandon, Reserve;20,4;221
+1450;Moet & Chandon, Brut Imperial, 1992;27,6;221
+1451;Moo Goo Gai Pan;23,9;221
+1452;Gibson;32,5;221
+1453;Veuve Clicquot Brut Yellow N/V;23,4;221
+1454;Sancerre, Bernard Clement 1996, Loire;34,8;221
+1455;STILTON CHEESE & WALNUTS WITH A GLASS OF PORT WINE;8,7;222
+1456;Linie Aquavit;13,4;222
+1457;Cabernet Sauvignon/Merlot, Heges, 1998. (Washington);8,6;222
+1458;FILETTI DI SOGLIOLA CON ZUCCHINE E CARCIOFI  ;17,7;222
+1459;Specialty Sandwiches: #2  Prosciutto with Fresh Mozzarella Basil, Plum Tomato, Aioli on San Francisco Sour Dough ... 6.25;11,1;222
+1460;Whole Roasted Free-Range Chicken with garlic mashed potatoes and seasonal vegetables;16,9;222
+1461;China Black Iced Tea;19,2;223
+1462;Warm Goat Cheese and Carmelized Onion Tart;24,1;223
+1463;Chianti Classico Riserva, Villa Antinori, Tuscany, Italy 1997;34,3;223
+1464;Fume Blanc, Ferrari-Carano, 1999 (Sonoma);22,4;223
+1465;Taro Spring Roll (2);19,2;223
+1466;Mussels Au Gratin. With garlic;20,7;223
+1467;Chicken Yaga Mein;27,6;223
+1468;Jonah Crab Claws. On ice;32,4;224
+1469;CÃƒÂ”TE DE BÃ…Â’UF with haricot verts and Balthazar onion rings;34,8;224
+1470;mesclun salad with sesame leaf and watercress;23,2;224
+1471;Nachos El Grande;23,4;224
+1472;Traditional Omelette made with egg whites;22,8;224
+1473;Traditional Omelette made with egg whites;31,6;224
+1474;Crispy Chicken Wings w. Garlic Sauce, w. Chicken Fried Rice;31,7;224
+1475;Merlot 1999, Bogle (California);27,7;224
+1476;Organic Earl Grey Tea;15,6;225
+1477;Meritage, Trilogy, Flora Springs, 1997. (Napa Valley);22,9;225
+1478;CHOCOLATE PEANUT BUTTER-CANDY BAR MOUSSE CAKE;22,8;225
+1479;Cabernet Sauvignon, Pedroncelli Three Vineyards 1995 (Sonoma);22,6;225
+1480;Fresh Fruit Cup;22,1;225
+1481;White Meat Chicken Chow Mein;27,5;226
+1482;Broccoli w. Snow Pease & String Bean;30,6;226
+1483;Crispy Chicken Wings w. Garlic Sauce, w. Chicken Fried Rice;18,8;226
+1484;Avocado Stuffed with Crabmeat;22;226
+1485;Kistler 1996, Sonoma;32;226
+1486;Grilled Dry Aged Rib Eye Steak;25,3;226
+1487;GRILLED AHI TUNA ON BRAISED SHIITAKES WITH WILTED FRISEE AND A CRACKED MUSTARD INFUSION SAUCE, BASIL AIOLI;32,3;226
+1488;House Spicy Maki Rolls - jalapeno smoked salmon, yellowfin tuna, cucumber, scallion, flying fish roe;20,5;227
+1489;Merlot, Vintners Blend, Ravenswood, 1998. (Sonoma);16,4;227
+1490;Shrimp & Chicken, Hunan Style Jumbo shrimp & chicken sauteed w. baby corn, straw mushrooms, red pepper & garden vegetable in Hunan style.;23,3;227
+1491;Roast Pork w. Chinese Vegetable;17,5;227
+1492;Ferrando: Piedmont, Erbaluce;22,1;227
+1493;Spicy Shandong Baked Bluefish. With Sugar Snap peas and Jasmine Rice;24,9;227
+1494;GNOCCHI CON FEGATINI DI POLLO chicken livers;21,3;227
+1495;House Salad. A mix of Romaine and Mesclun with Red Onions, Tomatoes and Cucumbers...choice of Dressing;27,4;227
+1496;Chicken Caesar, Grilled Breast of Chicken over our Caesar Salad ... 5.95;18;228
+1497;Duck Egg with Tuna Bottarga;21,4;228
+1498;Fried Scallops (10) w. Beef Fried Rice;22,2;228
+1499;NY Bagel;26,7;228
+1500;PINOT NOIR, RAMSAY 96;28;229
+1501;Moo Shu Baby Shrimp w. 4 Pancakes;24,4;229
+1502;CHABLIS, DOMAINE CHANTEMERLE BOUDIN 96;24;229
+1503;Iced Flavored Coffee ... 1.75/1.95;33,3;229
+1504;Fried Scallops (10) w. Plain Fried Rice;19,1;229
+1505;Caesar Salad;29,5;229
+1506;Pinot Grigio, Cavit;21,3;229
+1507;Salmon Alla Griglia GRILL SALMON WITH DIJON SAUCE;24,3;229
+1508;Joes Sizzling Chicken Fajitas;26,1;230
+1509;Barolo, Sigillo dAbate Rsv, 1991;20,8;230
+1510;SOFT SHELL CRAB SANDWICH ON TOASTED RYE BREAD WITH SAUCE TARTARE;15,6;230
+1511;Shafer Stags Leap District 1994, Napa;19,5;230
+1512;Gruet N/V Brut (New Mexico);19,4;230
+1513;Chicken w. Mixed Veg;24,4;230
+1514;Mixed Mesclun Greens with Baby Tomatoes;25,5;230
+1515;Mercurey Faiveley 1994, Clos des Myglands;16,8;231
+1516;San Pallegrino;21,3;231
+1517;Specialty Sandwiches: #17  Baked Salmon Salad:  Watercress, Plum Tomato on Brick oven Pompeii Bread ... 6.75;14,4;231
+1518;Tex Mex Salad:  Vermont Cheddar & Monterey Jack Cheeses, Guacamole, Salsa, Shaved Lettuce with No Fat Tortilla Chips ... 5.75;18,4;231
+1519;Chardonnay, Glass Mountain;20,5;231
+1520;Pacific Sea Bass Asian Style with angel hair pasta, clams, black bean sauce;21,5;232
+1521;Chardonnay, Iron Horse 95;28,8;232
+1522;Radish Salad with Parmesan & Arugula;22,9;232
+1523;Petite Fours;28,1;232
+1524;Rose, Chateau Pech Redon 1997 (Languedoc);27,2;232
+1525;Mixed Vegetable Chop Suey;31,2;232
+1526;Soup;18,8;232
+1527;Baby Back Pork Ribs ;30;232
+1528;Zinfandel, Joel Gott, 1999.  (California);15,9;232
+1529;Cabernet Sauvignon, Bodega Weinert, 1995. (Argentina);23,2;233
+1530;Sauvignon Blanc, Chateau Souverain;26,5;233
+1531;Charles Heidsieck;33,5;233
+1532;CABERNET OF EGER 93, Lauder/Lang Vineyards;19,6;233
+1533;Wraps: W6  Italian Tuna Wrap (No Mayo No Oil), Plum Tomato, Leaf Lettuce & Sprouts ... 5.95;31,6;233
+1534;Sancerre, Bernard Clement 1996, Loire;34;233
+1535;St. Emilion, Chat. Fleur Cardinale, 1995;27,9;233
+1536;Half-Pound Hamburger Served on a Roll with French Fries or Salad;25,1;234
+1537;Cinnamon Sticky Buns ...2.25;26,8;234
+1538;White Wine by the Bottle: Nosiola, Pojer & Sandri, Trentino, Italy 1997;21,2;234
+1539;Terrine de canard;31,1;234
+1540;FILLET OF SALMON, POACHED OR GRILLED;22;234
+1541;Hot & Sour Vegetable Soup;19,7;234
+1542;Steamed Broccoli w. String Bean;24,3;234
+1543;Bistecca Alla Luiggi SLICED STEAK WITH WILD MUSHROOMS, SCALLIONS, TOUCH OF COGNAC, CREAM AND RED WINE;20,9;235
+1544;2007 ASSYRTIKO Santorini Sigalas;28,8;235
+1545;Apricot Wine w/ soda & fruit garnish;20,3;235
+1546;Margherita Pizza - tomato, mozzarella & basil;29,4;235
+1547;Foie Gras Torchon - with muscat gelÃƒÂ©e and toasted country bread;22,3;235
+1548;Loup de Mer - with cockles and organic vegetables in its own broth;32,4;235
+1549;Filet Mignon, portobellini mushrooms, new potatoes & Brunello sauce;18,9;235
+1550;CHILLED BUTTERNUT SQUASH SOUP WITH DILL;28,5;235
+1551;Chicken Breast;23,7;235
+1552;Pouilly-Fume, Vieilles Vignes, Regis Minet, 1999 (Loire Valley);19;236
+1553;Merlot,  Casa Julia;22,9;236
+1554;Baby Shrimp w. Bean Sprouts;22,8;236
+1555;Veuve Clicquot Brut Yellow N/V;23,4;236
+1556;Scallion Pancakes;29,5;236
+1557;Saint-Julien;31,7;236
+1558;GRILLED TUNA BURGER,  Asian Style;19,3;237
+1559;Chow Har Kew (Shrimp) Deep fried shrimp w. Chinese Vegetables.;31,1;237
+1560;Sweet & Sour Pork;22,4;237
+1561;Crab Roll. Maine Crab Salad in a warm buttery New England Bun...with Fries;19,1;237
+1562;Zinfandel, Rabbit Ridge;30,5;237
+1563;Pinot Noir, Acacia, 1999.  (Carneros);27,6;237
+1564;KRUG, GRANDE CUVEE, BRUT CHAMPAGNE NV;24,7;237
+1565;Zwetschgenwasser;25,5;237
+1566;Tomato, Onion & Bleu Cheese Salad- Dijon vinagrette;24,2;237
+1567;Fresh dungeness crab cake with honey brown onion compote red pepper garlic mayonaise and balsamic reduction.  Twelve;23,7;238
+1568;Buffalo Chicken Wings, w. French Fries;35,3;238
+1569;Rainbow Trout;24,3;238
+1570;Char-grilled cold water lobster tail on herb spun angel hair with a srirachi garlic viniagrete.  Thirteen;23,8;238
+1571;Vitello Scallopine FRANCESE STYLE;19,8;238
+1572;Specialty Sandwiches: #15  No Mayo No Oil Tuna Salad:  Plum Tomato, Crisp Romaine on Rosemary Foccacia ... 5.95;28,6;238
+1573;Charles Heidsieck;21;238
+1574;OUR VERY OWN APRICOT SORBET;32,8;238
+1575;PoBoy Sandwich. Fried Oysters, Lettuce, Tomato & Spicy Mayo;28,9;238
+1576;Chicken Finger;30,8;239
+1577;SPRING ASPARAGUS AND ROASTED RED PEPPER RAVIOLIS WITH A CREAMY VEGETABLE ASPARAGUS PUREE, ESSENCE OF WHITE TRUFFLE;21,2;239
+1578;Orange Smoked Salmon;22,8;239
+1579;Angel Hair Primavera ;28,4;239
+1580;Raspberry tart;28,3;240
+1581;Wraps: W6  Italian Tuna Wrap (No Mayo No Oil), Plum Tomato, Leaf Lettuce & Sprouts ... 5.95;18,8;240
+1582;Steak Tartare - with quail egg;33,8;240
+1583;Pollo Caracalla ROLL OF CHICKEN STUFFED WITH MOZZARELLA, SAUTEED IN A ZUCCHINI & MUSHROOM SAUCE;31,4;240
+1584;Unfiltered Apple Juice;24,5;240
+1585;Seared Sushi Steak Rolls hoisin sauce;34,5;240
+1586;CROSTATA CALDA CON GRUTTA FRESCA  ;27,2;240
+1587;Smoked Salmon. Thinly sliced...Pumpernickle Toast;9,4;241
+1588;Hennessey VSOP;19,3;241
+1589;White Meat Chicken Chow Mein;18,3;241
+1590;Marichiara- clams, shrimp, white wine, garlic & touch of tomato sauce;9,9;241
+1591;Mixed Vegetable Delight;17,8;241
+1592;Ferrando: Piedmont, Erbaluce;16,1;241
+1593;Bean Curd w. Hot Sauce (meat);14;241
+1594;Barbera DAsti, Camp Du Rouss, Coppo, 1997. (Piedmont);20,7;242
+1595;Penne with assorted smoked salmon, radicchio, arugula;19,8;242
+1596;San Pellegrino Sparkling Water;20,8;242
+1597;Brandy Alexander: Brandy, Cream, Creme de Cacao;25,6;242
+1598;French fries;16;242
+1599;Reisling Grand Cru Brand, Albert Boxler 1993 (Alsace);16;242
+1600;Dubonnet;19,4;242
+1601;Crystal Geyser Mineral Water;25;242
+1602;Chicken w. String Bean;17;243
+1603;Chicken w. Brococli;25,8;243
+1604;Tea;25,2;243
+1605;Duchess potatoes;20,9;243
+1606;Cinnamon Raisin Danish ...1.60;22,5;244
+1607;SautÃƒÂ©ed Prawns with Mushroom Tortellini, Grilled Tomato Vinaigrette & Sweet Corn;28,2;244
+1608;Smoked Sturgeon -  truffle oil;18,6;244
+1609;Rigatoni Alle Melanzane  eggplant, raisins & aged ricotta salata;27,8;244
+1610;OYSTERS:  Malpeque   ;20,1;244
+1611;San Pellegrino Sparkling Water;24,6;244
+1612;Steak Tartare - with quail egg;26,3;244
+1613;Peach tart;17,1;244
+1614;Greek Salad, Hearts of Romaine, Peppers, Stuffed Vine Leaves, Feta Cheese, Olives, Tomato and Red Onion ... 5.95;22,2;245
+1615;Country Mashed Potatoes, skin on;34,1;245
+1616;Selaks 1996, N. Zealand;31,4;245
+1617;Calabria Pizza - pepperoni, mozzarella & tomato;22,2;245
+1618;DIET COKE;33,4;245
+1619;Mixed Vegetable Lo Mein;29;246
+1620;Eggs Benedict with Smoked Salmon;27,9;246
+1621;House Special Soup w. Wonton;24,9;246
+1622;MERLOT, GEYSER PEAK 95;32,6;246
+1623;Bluefish;34,2;246
+1624;Ice Cream;22,1;246
+1625;Chicken w. Cashew Nuts;20,5;247
+1626;Chianti Classico Fonterutoli, 1995;9,2;247
+1627;Beef w. Chinese Vegetable;20,4;247
+1628;642 Inniskillin Pearl Label Ice Wine 2002;19,7;247
+1629;House Special Soup w. Wonton;19,7;247
+1630;Sanka;13,3;247
+1631;Warm Marinated and Grilled Calamari. With grilled Onions and White Beans;17,4;247
+1632;Hot & Spicy Chicken;17,3;248
+1633;SAUTEED ARTICHOKE WITH BASIL Artichoke, Tomato and Soy Protein in a Black Bean Sauce Seasoned with Basil (Taro Spring Roll, Brown Rice);18,4;248
+1634;Bean Curd w. Hot Sauce (meat);14,1;248
+1635;Beef w. Mushrooms;16,6;248
+1636;Chardonnay, Edna Valley Vineyard, 1999, (California);18,7;248
+1637;Gnocchi Bolognese HOMEMADE DUMPLINGS PASTA WITH MEAT SAUCE;12,3;248
+1638;Cappuccino;17,9;248
+1639;Mesclun Salad*;32,2;249
+1640;Fresh Shrimp Chow Fun;22,1;249
+1641;POT AU FEU WITH MARROW BONE AND TRADITIONAL ACCOMPANIMENTS;33,6;249
+1642;Pinot Noir, Newton 95;26;249
+1643;CÃƒÂ”TE DE BÃ…Â’UF with haricot verts and Balthazar onion rings;27;249
+1644;Scallop & Beef  Sliced prime filet of beet & round scallops sauteed w. snow pea pods, baby corn, straw mushroom in brown sauce. A real treat!;24,7;249
+1645;Greek Salad, Hearts of Romaine, Peppers, Stuffed Vine Leaves, Feta Cheese, Olives, Tomato and Red Onion ... 5.95;21,6;249
+1646;Champagne Cocktail: Champagne, Sugar Cube, Bitters;25;250
+1647;Carrot Cake Square;23;250
+1648;Eyrie Vineyards 1996, Willamette, Oregon;29,7;250
+1649;Tuna Burger. Freshly ground Tuna, Chili Paste, Crumbs and Spices;24,6;250
+1650;salad of soba noodles with marinated vegetables;23,9;250
+1651;Chardonnay, Riverstone, J. Lohr;26,6;250
+1652;Riesling, Pacific Rim Bonny Doon, 1999. (Santa Cruz);21,8;251
+1653;Pouilly Fume, Ladoucette 1994, Loire;23,3;251
+1654;Specialty Sandwiches: #16  Roast Beef: Vermont Cheddar, Leaf Lettuce, Plum Tomato, No Fat Russian Dressing on French Baguette ... 6.25;23,9;251
+1655;Lobster Roll. Fresh Lobster Meat from a stemed 1-1.25 lb. Lobster...cold, creamy Lobster Salad in a toasted Bun...with French Fries;25;251
+1656;Fresh Shrimp Chow Fun;31,5;251
+1657;HAWAIIAN FIVE STYLES Scallop, lobster, chicken, shrimp & pork sauteed in chefs special sauce w. baby corn, straw mushrooms & Chinese vegetables.;27,6;251
+1658;Ferrando: Piedmont, Erbaluce;34;251
+1659;Chocolate Raspberry Cake;19;251
+1660;Any Side Vegetable Salad;29,7;252
+1661;Beef w. Broccoli in Garlic Sauce;34,6;252
+1662;Mushroom Egg Foo Young;25;252
+1663;Hot & Spicy Pork;29,4;252
+1664;SALMONE MARINATO CON SALSA DI CAVIALE  ;15,5;253
+1665;Grilled 1 1/2 lb. Maine Lobster;12,9;253
+1666;Fresh Squeezed OJ or Grapefruit Juice ... 1.75/2.95;19,9;253
+1667;Chard;8,9;253
+1668;Steamed Mixed Vegetables;19,9;253
+1669;Graves;12,5;253
+1670;Blueberry  or Apple Crumb Cake ...1.75;14,7;253
+1671;Calamari. Regular or Spicy;15,4;253
+1672;Roasted Beet Salad with leeks, haricots verts and fourme dAmbert  ;15,9;254
+1673;Double Happiness  Jumbo shrimp & tender beef stir-fried w. garden vegetable;23;254
+1674;Cheese Danish ...1.60;25,6;254
+1675;Apple Wood Hot Smoked Salmon;22,4;254
+1676;Jumbo Shrimp Scampi ;13,7;254
+1677;Pinot Noir, Quail Hill Vineyard, Lynmar, 1999 (Sonoma);19,5;254
+1678;Boneless Spare Ribs;26,2;254
+1679;TETE DE MOINE;24,2;254
+1680;Gewurtzraminer, Beringer;20,4;255
+1681;Pollo Caracalla ROLL OF CHICKEN STUFFED WITH MOZZARELLA, SAUTEED IN A ZUCCHINI & MUSHROOM SAUCE;22,5;255
+1682;Fishermans Platter. Shrimp, Clam Fritters, Scallops, Clams & Haddock;21,7;255
+1683;Grappa di Moscato Chiarlo;23,1;255
+1684;Bar-B-Q Spare Ribs;33,2;255
+1685;Insalata Di Casa MIX GREEN SALAD WITH HOUSE DRESSING ;15,8;256
+1686;White Meritage, Chateau Musar, 1995 (Lebanon);21,7;256
+1687;STURGEON SCHNITZEL, OUR SPECIALTY, WITH CUCUMBER SALAD AND SAUCE REMOULADE;18,2;256
+1688;Groth 1994, Napa;22,7;256
+1689;Wonton Soup;14,5;256
+1690;Striped Bass Al Placere STRIPED BASS ANY STYLE;18,2;256
+1691;Apricot Wine w/ soda & fruit garnish;20,9;256
+1692;Duck Shepherds Pie;22,6;256
+1693;Arctic Char;16,4;257
+1694;Grilled Chicken Sandwich. Topped with melted Cheese and crisp Bacon;19,4;257
+1695;New York Style Cheesecake With strawberry sauce  ;9,4;257
+1696;PATE EN CROUTE, Lucien Tendret recipe since 1892;15,5;257
+1697;Steamed Brown Rice;20,3;257
+1698;Smoked Chatham Cod Croquettes - with American paddlefish caviar;26,2;258
+1699;Sanka;23,5;258
+1700;Ribera del Duero, Crianza 1997, Sastre (Spain);26,2;258
+1701;Marichiara- clams, shrimp, white wine, garlic & touch of tomato sauce;31,6;258
+1702;Decaf coffee or Herbal Tea ... ..96 ... 1.18 ... 1.44;19,3;258
+1703;Redeye Dill Gravlax Salmon;34,7;258
+1704;Smoked Haddock Chowder with Homemade Crackers;31,7;258
+1705;Pinot Noir, Indigo Hills;21,3;258
+1706;Sauvignon Blanc, Jamesport, 1998 (North Fork L.I.);23,5;259
+1707;Redeye Caesar Salad with parmesan tuile;28,2;259
+1708;Parrilla Mixta SPECIAL MIXED GRILL;22,1;259
+1709;EGGPLANT IN GARLIC SAUCE Eggplant and Green Vegetables in Spicy Garlic Sauce (Taro Spring Roll, Brown Rice);22,9;259
+1710;Kung Po Shrimp;28,3;260
+1711;Avocat aux Crevettes avocado and shrimp salad with tarragon mayonnaise;28,2;260
+1712;Chardonnay, Lindemans Bin 65;28;260
+1713;Cotes du Rhone, Rasteau, J. Bressy, 1998 (Rhone);20;260
+1714;Spinach Wonton Soup;21,1;261
+1715;Pinot Grigio, Peter Zemmer, 1999 (Alto Adige);30,6;261
+1716;Roast Pork Chow Fun;27,3;261
+1717;Domaine Chandon, Reserve;31,8;261
+1718;Sliced Chicken Breast Sandwich;25,3;261
+1719;Striped Bass Al Placere STRIPED BASS ANY STYLE;22,8;262
+1720;Jasmine Rice;18,6;262
+1721;Blueberry  or Apple Crumb Cake ...1.75;22,6;262
+1722;Crazy Harrys Cobb Salad ;32;262
+1723;114- Prosecco Brut N/V Zardetto;24,2;262
+1724;Sauvignon Blanc, Cakebread 97;33,3;262
+1725;Cobb Salad: Diced Avocado, Bacon, Turkey, Ham, Tomato, Swiss and Cheddar Cheeses, Choice of Dressing;20,5;262
+1726;GRILLED TUNA BURGER,  Asian Style;21,1;263
+1727;Pinot Nero, Riserva 1995, J. Hofstatter (Alto Adige);31;263
+1728;Swiss;26,4;263
+1729;Chardonnay, Ariel, N.V. 2% alcohol (California);27,5;263
+1730;Fantasia Di Mari SEAFOOD SALAD;32,2;263
+1731;Champagne Cocktail: Champagne, Sugar Cube, Bitters;25,9;263
+1732;Buffalo Chicken Wings, w.Chicken Fried Rice;27,6;263
+1733;Canned Soda ... ..90;34,2;263
+1734;Glenlivet;28,3;263
+1735;Chardonnay, Riverstone, J. Lohr;19,5;264
+1736;Sancerre, Gueneau;25,3;264
+1737;Cheddar Cheeseburger;24,7;264
+1738;Shellfish Platter;31,8;264
+1739;Kirschwasser;26,6;264
+1740;Shrimp w. Eggplant;21,7;264
+1741;Fried Shrimp (15) w. French Fries;26,7;264
+1742;Pork w. Bean Curd;33,1;264
+1743;Kung Pao Chicken Wings. Spicy...served with Blue cheese;27,7;265
+1744;FREE RANGE YOUNG CHICKEN WITH ROASTED POTATOES ROSEMARY AND OLIVES;28;265
+1745;Fresh Shrimp Lo Mein;18,9;265
+1746;Any Side Vegetable Salad;29,7;265
+1747;Fresh Oysters from Diamond Point,  N. Y;28,2;265
+1748;Chardonnay, Glass Mountain;19,9;265
+1749;Blackened Chicken Sandwich;28,6;265
+1750;Vouvray, Domaine Bourillon Dorleans, 1999. (Loire Valley);12,4;266
+1751;MARYLAND CRAB CAKES ;20,3;266
+1752;Poussin - with braised hearts of romaine, parmesan and anchovy;12;266
+1753;CALABRIA PEPPERONI mozzarella & tomatoes;16,8;266
+1754;Muscat, Beaumes de Venise;17,7;266
+1755;Drambuie;12,2;266
+1756;Sesame Chicken;8,9;267
+1757;Selaks 1996, N. Zealand;8,5;267
+1758;Watermelon;15,5;267
+1759;Amarone Tomassi 1979, Valpolicella;14,4;267
+1760;Vongole Pizza - clams, mozzarella & pepperoncino;15,1;267
+1761;Merlot, Alexander Valley 1996 (Sonoma);25,8;268
+1762;Vegetable  Small - three selections;31,5;268
+1763;Blackberry Italian Soda;21,3;268
+1764;Fried Chicken Wings (4);27,9;268
+1765;Beef Lo Mein;29,9;268
+1766;Mesclun Salad*;34,1;268
+1767;Montecillo 96 Vina Cumbrero (Spain);25,6;269
+1768;Chianti Classico, Riserva 1997, Felsina Rancia (Toscana);31,1;269
+1769;CAJUN FRIED POPCORN SHRIMP, with Creole Sauce;24,1;269
+1770;House Blend Coffee or Tea ... ..91 ... 1.13 ... 1.39;23,4;269
+1771;White Meritage, Conundrum, Caymus Vinyards, 1999 (Napa Valley);17;269
+1772;Vanilla Ice Cream  ;20;269
+1773;Mushroom Egg Foo Young;19,1;269
+1774;Bistecca Alla Luiggi SLICED STEAK WITH WILD MUSHROOMS, SCALLIONS, TOUCH OF COGNAC, CREAM AND RED WINE;27,5;269
+1775;Four Seasons Jumbo shrimp, lobster, chicken, roast pork sauteed w. broccoli, red pepper, baby corn & waterchestnuts in a delicious brown sauce.;18,3;270
+1776;Meritage, Trilogy, Flora Springs, 1997. (Napa Valley);19,7;270
+1777;The Club  Sandwich;16,5;270
+1778;Fried Fish (2) w. Beef Fried Rice;17,5;270
+1779;Sesame Chicken;19,7;270
+1780;Bistecca Alla Luiggi SLICED STEAK WITH WILD MUSHROOMS, SCALLIONS, TOUCH OF COGNAC, CREAM AND RED WINE;28,5;270
+1781;San Francisco Cioppino - fish and shellfish stew with Maya shrimp & Crostino;26,6;270
+1782;Steak Frites Italian Style (House Specialty) fresh porcini;30;270
+1783;ARUGOLA WITH A LEMON-OLIVE OIL DRESSING AND PARMESAN SHAVINGS;23,1;270
+1784;Insalata Di Nicois MIX GREEN SALAD WITH TUNA, POTATOES, EGGS, AND ANCHOVIES IN AN ITALIAN DRESSING;19,6;271
+1785;Chicken Liver Toast;32,9;271
+1786;Smoked Sable;21,5;271
+1787;Lake Tung Ting Shrimp Shrimp w. Chinese vegetable & black bean in hot egg sauce;20,8;271
+1788;Flourless Chocolate Cake;25,3;271
+1789;Steak Frites with maÃƒÂ®tre d butter or bearnaise sauce ;31,8;271
+1790;Chargrilled Rack of Lamb with Fried Green Tomatoes;25,4;271
+1791;Pork w. Mixed Veg;18,2;272
+1792;Wraps: W2  Thai Chicken Chopped Lettuce, Shaved Carrots with a Lemongrass Dressing ...6.25;22,5;272
+1793;Merlot, Newton 95;29,4;272
+1794;Pouilly Fuisse, Les Chailloux, Philippe Forset, 1998 (Burgundy);16,5;272
+1795;Chocolate Milk ... 1.50;22,7;272
+1796;Broccoli Rabe;26,8;272
+1797;PINOT NOIR, RAMSAY 96;33,3;273
+1798;Mushroom and Cheese Pizza;30,3;273
+1799;Whole Camembert;34;273
+1800;French 75: Champagne, Brandy;19,3;273
+1801;Roast Pork Egg Foo Young;20,5;273
+1802;Bluefish;20,8;273
+1803;Muscat, Beaumes de Venise;18,7;274
+1804;Roederer Brut Premier (Reims);22;274
+1805;House Salad. A mix of Romaine and Mesclun with Red Onions, Tomatoes and Cucumbers...choice of Dressing;29;274
+1806;Cabernet Sauvignon, Bodega Weinert, 1995. (Argentina);29,3;274
+1807;Specialty Sandwiches: #3  Smoked Breast of Turkey: Brie Cheese, Leaf Lettuce, Plum Tomato & Honey Mustard on a French Baguette ... 6.25;26,1;274
+1808;CAFÃƒÂ©;33;275
+1809;Pinot Noir, Lot # 1 1, Ramsay, 1998.  (California);25,1;275
+1810;Glenlivet;20,3;275
+1811;Smoked Scottish Salmon;32,8;275
+1812;Cream of Cauliflower Soup;28,3;275
+1813;Mrs. Aschers Steamed Vegetable Torte;29,9;275
+1814;Cabernet, Pedroncelli;33,1;275
+1815;Shrimp Cocktail ;20,9;276
+1816;Veal Chop - wild mushroom sauce, aparagus, and truffle potato croquette;16,2;276
+1817;Greek Salad, Hearts of Romaine, Peppers, Stuffed Vine Leaves, Feta Cheese, Olives, Tomato and Red Onion ... 5.95;10,6;276
+1818;Traditional Omelette;13,5;276
+1819;114- Prosecco Brut N/V Zardetto;12,8;276
+1820;Vegetarian EGGPLANT, ZUCCHINI, RED AND YELLOW ROAST PEPPERS, SUNDRIED TOMATOES AND BASIL;13,8;276
+1821;Franciscan Oakville Estates 95 Napa ;20,4;276
+1822;Steak Frites Italian Style (House Specialty) fresh porcini;30,5;277
+1823;Crispy Chicken Wings w. Garlic Sauce;26,2;277
+1824;Green Jade Scallops Fresh scallops sauteed w. black mushrooms, broccoli & waterchestnuts in house special sauce;30,3;277
+1825;Valpolicella, Quintarelli 1991 DOC (Veneto);27;277
+1826;NUITS ST. GEORGE, DOMAINE DE LARLOT, PREMIER CRU 95;18,9;277
+1827;Cote de Boeuf with haricot verts and Balthazar onion rings;29,3;277
+1828;Subgum Wonton a delicious mixture of lobster meat, chicken, roast pork, shrimp & garden vegetables garnished w. crispy wonton.;24,8;277
+1829;Pinot Noir, Pedroncelli;30,7;277
+1830;Bananas;23,3;278
+1831;Chicken Mai Fun;21,1;278
+1832;Veal Chop with Wild Mushrooms & Potato Gnocchi;16,7;278
+1833;Striped Bass Al Placere STRIPED BASS ANY STYLE;17,7;278
+1834;Scampi. Shrimp and Garlic with White Wine, Tomatoes and Mushrooms over Linguine;24;278
+1835;SautÃƒÂ©ed Halibut with a fresh pea ragout, bacon lardons and rosemary;20;278
+1836;Plateaux de Fruits de Mere;24,6;279
+1837;Strawberry & Raspberry Tart;24,5;279
+1838;Egg Roll (1);21,2;279
+1839;654 Kracher #1 Beerenauslese Cuvee 2002;34,8;279
+1840;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini;21,6;279
+1841;Ballantines;31,1;279
+1842;Cheese Plate;35;279
+1843;Cranberry Fruit Spritzer - Cranberry juice, club soda & a twist of lime;30;279
+1844;Lamb Chops, Colorado lamb loin chops crusted with toasted cumin, coriander and cracked peppercorns grilled and accompanied by a roasted garlic and sage aioli served with rosemary roasted new potatoes and fresh vegetables;22,7;280
+1845;Mozzarella with Roasted Red Pepper Bruschetta;20,7;280
+1846;Zinfandel, Valsecchi Vineyard, Biale, 1997. (Sonoma);30,4;280
+1847;HAWAIIAN FIVE STYLES Scallop, lobster, chicken, shrimp & pork sauteed in chefs special sauce w. baby corn, straw mushrooms & Chinese vegetables.;22,3;280
+1848;DUCK CONFIT, POTTED AND CRISPED WITH A RAGOUT OF TOMATOES, EGGPLANT & FARRO;22,2;280
+1849;Milk Chocolate Pyramid, Banana BrÃƒÂ»lÃƒÂ©e, Banana Sorbet;33,4;280
+1850;Costilla Di Cerdo GRILLED PORK CHOP;24,4;280
+1851;Dannon Fat Free Yogurt ... 1.50;30,2;280
+1852;Lemonade;17,8;281
+1853;C Bar Brazilian Red Snapper Fillet. Cooked with Coconut and Cilantro;17,2;281
+1854;The Frogs Flight: Foxen Chenin Blanc, Logan Chardonnay, Danzante Pinot Grigio;26;281
+1855;French fries;16,1;281
+1856;COKE;27,6;281
+1857;Gouden Carolus;26,7;282
+1858;Lapin a la Moutarde;28,6;282
+1859;Pinot Noir, Pedroncelli;23,7;282
+1860;Assorted Teas*;19,1;282
+1861;Beef Fried Rice;19,5;282
+1862;Hogue Cellars Fume, 1996, Columbia Valley;21,8;282
+1863;Orange Spice Tea;30,9;283
+1864;ROASTED HALIBUT roasted tomatoes, caper berries, green olives & thyme;20;283
+1865;Manhattan clam chowder;17,4;283
+1866;Onion Soup GratinÃƒÂ©e;29,4;283
+1867;Shredsded Pork w. Garlic Sauce;27,4;283
+1868;Grilled Chopped Vegetable Salad with Shrimp or Yellowfin Tuna;29,1;283
+1869;Beefeater Gin;27,5;283
+1870;SOFT SHELL CRAB (in season);26,9;284
+1871;Cobb Salad:  Poached Chicken Breast, Sliced Avacado, Sprouts, Mushrooms over our Crisp Garden Salad ... 5.95;20,2;284
+1872;Portuguese Fishermans Stew. Cod, Mussels, Clams and Chorizo in a Saffron Tomato Broth...Garlick Toasts;23,7;284
+1873;Bricco Manzoni 1993, Manzoni (Piemonte);29,8;284
+1874;Tuna Salad on Choice of White, Rye, Wheat Bread or a Roll;30;284
+1875;Smoked Sable;33;284
+1876;Poussin - with braised hearts of romaine, parmesan and anchovy;23,7;284
+1877;Warm Goat Cheese and Grilled Vegetable Salad  ;29;284
+1878;Petite Fours;27,2;285
+1879;St. Emilion, Chateau Faugeres 95;24,3;285
+1880;Shredsded Pork w. Garlic Sauce;19,1;285
+1881;Cabernet Sauvignon-Sangiovese, Firebreak, Shafer, 1997. (Napa Valley);29,3;285
+1882;Mustard Crusted Tuna Teriyaki;25,9;285
+1883;Hanger Steak;21;285
+1884;Hot Oatmeal  Small ...1.75   Small with Fresh Fruit    2.25  Large ...2.50   Large with Fresh Fruit ...3.00;26,6;285
+1885;Chardonnay, Mont St. Vincent;35;285
+1886;Maryland Crab Cake. With Apple and Mesclun Salad, Cider-Mustard Vinaigrette;26,8;285
+1887;Raspberry tart;16,5;286
+1888;Gruet Brut, NV, New Mexico;23;286
+1889;Joes Sizzling Chicken Fajitas;27,4;286
+1890;Redeye Grill Hamburger - Monterey Jack cheese, shoestring potatoes, tomato, onion, and pickle;26,8;286
+1891;Chicken w. Bean Curd;24,8;286
+1892;Cherry Italian Soda;20,4;286
+1893;Espresso*;25,8;286
+1894;Hine;30,8;286
+1895;Sauvignon Blanc, Duckhorn, 1998, (Napa Valley);32,4;287
+1896;Arctic Char;34,2;287
+1897;Chateau Olivier, Grand Cru Classe De Graves 1995 (Bordeaux);29,2;287
+1898;Stonestreet, Alexander Val. 1994, Napa;30,7;287
+1899;Cappuccino/Mochachino/Caffe Latte/Vafe Au Lait ... 2.00 ... 2.95 ... 3.25;30,1;287
+1900;Chateau Montelena, 1995, Napa;21,2;287
+1901;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini ;21,4;287
+1902;Crispy Chicken Wings w. Garlic Sauce, w. Beef Fried Rice;29,5;288
+1903;Vernaccia di San Gimignano, Tuscany Teruzzi Puthod 1996;26,2;288
+1904;Wraps: W3  Thanksgiving Fresh Carved Turkey, No Fat Stuffing with our home-made Cranberry Sauce ... 6.25;28,6;288
+1905;Wraps: W4  Chicken Fajita Black Beans, Vermont Cheddar & Monterey Jack Cheese, Chopped Tomato & Avocado ... 6.25;33,5;288
+1906;Seafood Antipasto. Grilled Shrimp, Clams, Mussels and Calamari...with Greens, provolone Cheese and Olives...Tomato Vinaigrette;21,8;288
+1907;Artichoke Ravioli: Tomato, Citrus, FrisÃƒÂ©e;27,6;288
+1908;Insalata Tre colori ENDIVE, ARUGOLA & RADICCHIO;20;288
+1909;Vanilla Italian Soda;28,4;288
+1910;Champagne Cocktail: Champagne, Sugar Cube, Bitters;19,2;289
+1911;Lungarotti, Rubesco Riserva Montichhio Vineyard 1988 (Umbrian);13,5;289
+1912;BACON AND CHEESE OMLETTE;19,2;289
+1913;111- Moet & Chandon Brut Imperial N/V;11,5;289
+1914;GNOCCHI CON FEGATINI DI POLLO chicken livers;15,7;289
+1915;Gouden Carolus;14,5;289
+1916;San Pallegrino;8,7;289
+1917;Lobster and Shrimp Cocktail;18,8;289
+1918;Tuna salad on wheat bread;17,9;290
+1919;Roast Pork Fried Rice;11,4;290
+1920;Spare Rib Tips w. Shrimp Fried Rice;8,8;290
+1921;114- Prosecco Brut N/V Zardetto;11,7;290
+1922;Sonoma-Cutrer 1996, Russian River;10,8;290
+1923;Shellfish Platter;29,5;291
+1924;Joes Blackened Grilled Potatoes;34,2;291
+1925;Negroni;29,2;291
+1926;SHEPHERDS PIE CROQUETTES Minced Vegetables Surrounded by Mashed Potatoes in a croquette (Basil Moo Shu Roll, Pickled Cabbage);35,1;291
+1927;FANTASIA portobellini mushrooms, zucchini, pesto, glazed onions & mozzarella;28,5;291
+1928;Gruet, Brut, NV. (New Mexico);11,7;292
+1929;Brown Rice;11,1;292
+1930;Mediterranean Salad:  Marinated Grilled Chicken, Roasted Red Peppers & Avacado over a Crisp Garden Salad (Cajun Chicken also available) ... 5.95;10,7;292
+1931;Whole Roasted Free-Range Chicken with garlic mashed potatoes and seasonal vegetables;10,9;292
+1932;Stags Leap FAY Estate 1994, Napa;17;292
+1933;Shrimp w. String Bean;29,1;293
+1934;Filet Mignon of Yellowfin Tuna (House Specialty) seared rare with artichoke lentil salad;19,7;293
+1935;Saintsbury Reserve, 1995, Carneros;26,1;293
+1936;Ice Cream Sundae ;33,2;293
+1937;Pinot Grigio, Cavit;34,5;293
+1938;Fried Scallops (10);19,3;293
+1939;Mr. Schnellers THIN-SLICED HAM WITH FRESH HORSERADISH & LENTIL SALAD;32;293
+1940;Viognier, Vichon;33,6;294
+1941;Chicken Cilantro Salad:  Cilantro Chicken, Hearts of Romaine, Plum Tomato, Cucumbers, Carrots and Sprouts ... 5.95;25,2;294
+1942;Merlot,  Casa Julia;23,5;294
+1943;Cabernet Sauvignon, Duckhorn, 1986. (Napa Valley);27,9;294
+1944;Sauteed Broccoli w. Garlic Sauce;21,4;294
+1945;Pinot Noir, Pedroncelli;28,9;294
+1946;Joes Blackened Grilled Potatoes;34,9;295
+1947;SOFT SHELL CRAB (in season);19,9;295
+1948;Steamers with Drawn Butter;29,4;295
+1949;Grillatti Di Verdura ASSORTED GRILLED VEGETABLES;20,4;295
+1950;Shanghai Pan Fried Noodles Pan fried crispy noodles topped w. assorted vegs, shrimp, scallop & chicken;37,4;296
+1951;Pinot Grigio Kettemeir, 1996, Italy;34,9;296
+1952;FILETTI DI SOGLIOLA CON ZUCCHINE E CARCIOFI  ;30,4;296
+1953;Bean Curd w. Hot Sauce (meat);33,1;296
+1954;Golden Bantam Corn on Cob;36,4;296
+1955;Chilled Poached Salmon Served with Watercress Dressing;35,1;297
+1956;Mixed field greens in a sherry vinaigrette;24,5;297
+1957;Merlot, Cavit;26,4;297
+1958;Franciscan Oakville Estates 95 Napa ;26,5;297
+1959;Hot & Spicy Chicken;35,1;297
+1960;Cherrystone Clams. Six on the half shell...with any of the Littleneck garnishes;35,3;297
+1961;Beef w. Pepper & Tomatoes;31,3;297
+1962;Gewuertztraminer, Trimbach, Alsace, France 1998;30,8;297
+1963;Cotes de Gascogne, Domaine Duffour, 1999 (Gascogne);25,8;298
+1964;Main Courses with Michelles Apple Tree Salad or Caesar Salad, add $2.00;24,7;298
+1965;Shrimp w. String Bean;22,3;298
+1966;Rosso Del Conte, Regaleali 92;33;298
+1967;Beef w. Broccoli in Garlic Sauce;23,9;298
+1968;The Club  Sandwich;28,5;298
+1969;Hogue Cellars Fume, 1996, Columbia Valley;20,9;298
+1970;Seafood Small- three selections;32,4;298
+1971;Spare Rib Tips w. Shrimp Fried Rice;32,4;298
+1972;1/4 lb. Colossal Crab Meat;24,8;299
+1973;BEVERLYS LEMON CRUMB CAKE;32,4;299
+1974;Ravenswood, Vint. Blend 1995, Sonoma;32,7;299
+1975;Sauvignon Blanc, Honig, 1999 (Napa Valley);28,8;299
+1976;Bean Curd w. Hot Sauce (meat);19,5;299
+1977;Wraps: W4  Chicken Fajita Black Beans, Vermont Cheddar & Monterey Jack Cheese, Chopped Tomato & Avocado ... 6.25;22,7;299
+1978;Braised Pork Loin stuffed with sweet sausage and served with artichoke and zucchini ;34,2;300
+1979;Crabmeat Hand Roll - fresh crab meat, cucumber, scallion, avacado;21,8;300
+1980;House Spicy Maki Rolls - jalapeno smoked salmon, yellowfin tuna, cucumber, scallion, flying fish roe;20,9;300
+1981;Iced Cappuccino;30,8;300
+1982;Pinot Noir Saintsbury Garnet, 1996, Carneros;34,3;301
+1983;Shredded Pork w. Eggplant;33,2;301
+1984;Moo Goo Gai Pan;36,7;301
+1985;Cobb Salad: Diced Avocado, Bacon, Turkey, Ham, Tomato, Swiss and Cheddar Cheeses, Choice of Dressing;25,5;301
+1986;Chicken Cilantro Salad:  Cilantro Chicken, Hearts of Romaine, Plum Tomato, Cucumbers, Carrots and Sprouts ... 5.95;22,9;301
+1987;Canned Soda ... ..90;15,8;302
+1988;Lobster Bisque;19,6;302
+1989;Champagne;19;302
+1990;House Blend Coffee or Tea ... ..91 ... 1.13 ... 1.39;13;302
+1991;Traditional Omelette made with Egg Beaters;16,8;302
+1992;Pork Tonnata with Arugula;26,4;303
+1993;Specialty Sandwiches: #17  Baked Salmon Salad:  Watercress, Plum Tomato on Brick oven Pompeii Bread ... 6.75;17,9;303
+1994;Caffe;28,4;303
+1995;Flavored Coffee of the day ... ..96 ... 1.18 ... 1.44;26;303
+1996;Lobster Steak with Hash-Brown Potatoes: Lemon Brown Butter;24,5;303
+1997;Cappuccino;24,3;303
+1998;Bluefish;23,5;303
+1999;Low Fat Scones:  Blueberry Ã¢Â€Â¢ Raisin Ã¢Â€Â¢ Cranberry ...1.75;23,8;303
